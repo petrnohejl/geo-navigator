@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<maps>
+	<map>
+		<name>Brno PPV Topo</name>
+		<file>map1.gif</file>
+		<width>1000</width>
+		<height>700</height>
+		<pixel_length>0.5</pixel_length>
+		<lat1>49.233072</lat1>
+		<lon1>16.568106</lon1>
+		<lat2>49.229850</lat2>
+		<lon2>16.574880</lon2>
+	</map>
+	<map>
+		<name>Brno PPV Ortofoto</name>
+		<file>map2.jpg</file>
+		<width>1000</width>
+		<height>700</height>
+		<pixel_length>0.5</pixel_length>
+		<lat1>49.233072</lat1>
+		<lon1>16.568106</lon1>
+		<lat2>49.229850</lat2>
+		<lon2>16.574880</lon2>
+	</map>
+	<map>
+		<name>Brno Topo</name>
+		<file>map3.gif</file>
+		<width>1000</width>
+		<height>833</height>
+		<pixel_length>24.15</pixel_length>
+		<lat1>49.27949</lat1>
+		<lon1>16.42926</lon1>
+		<lat2>49.09788</lat2>
+		<lon2>16.76109</lon2>
+	</map>
+</maps>

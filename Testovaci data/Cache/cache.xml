@@ -1,0 +1,2547 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes" ?>
+
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:groundspeak="http://www.groundspeak.com/cache/1/1" xmlns:cp="http://cacheprinter.bubbles.sk/GPX/cache/1/0">
+	<wpt lat="49.2308333" lon="16.5702667">
+		<time>2008-05-08T00:00:00.0000000+0200</time>
+		<name>GC1C266</name>
+		<cmt>TS11</cmt>
+		<desc>PPV Cache</desc>
+		<sym>Geocache Found</sym>
+		<type>Geocache</type>
+		<groundspeak:cache id="872007" guid="2c9e5ab6-b1d1-4a46-99e9-1503abb9a4dd" cpWPT="GC1C266" available="True" archived="False" cpCoords="N 49&#176;13.850' E 016&#176;34.216'">
+			<groundspeak:name>PPV Cache</groundspeak:name>
+			<groundspeak:lastUpdated>2009-05-11T20:11:43.0000000+0200</groundspeak:lastUpdated>
+			<groundspeak:exported>2009-05-12T12:41:15.0000453+0200</groundspeak:exported>
+			<groundspeak:placed_by>Kuratkoo</groundspeak:placed_by>
+			<groundspeak:owner guid="ee61ce59-6f47-4602-a4c9-8bd746de2d5b" cpHidden="2008-05-08T00:00:00.0000000+0200">Kuratkoo</groundspeak:owner>
+			<groundspeak:type>Traditional Cache</groundspeak:type>
+			<groundspeak:container>Small</groundspeak:container>
+			<groundspeak:attributes>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/stealth-yes.gif">stealth required</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/winter-yes.gif">available in winter</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/night-yes.gif">recommended at night</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/available-yes.gif">available 24-7</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/motorcycles-yes.gif">motorcycles allowed</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/bicycles-yes.gif">bikes allowed</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/onehour-yes.gif">takes less than 1  hour</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/public-yes.gif">public transit available</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/parking-yes.gif">parking available</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/dogs-yes.gif">dogs allowed</groundspeak:attribute></groundspeak:attributes>
+			<groundspeak:difficulty>1</groundspeak:difficulty>
+			<groundspeak:terrain>1.5</groundspeak:terrain>
+			<groundspeak:country>Czech Republic</groundspeak:country>
+			<groundspeak:state>Czech Republic</groundspeak:state>
+			<groundspeak:short_description html="True"></groundspeak:short_description>
+			<groundspeak:long_description html="True">&lt;h3&gt;PPV Cache&lt;/h3&gt;
+
+&lt;br&gt;&lt;BLOCKED_img src="http://geo.kuratkoo.net/ppv.jpg" align="right"
+alt="PPV" /&gt;Koleje Pod Palackeho vrchem (lidove Palacak nebo
+PePeVecko) se nachazeji v hezkem prostredi prirody na okraji
+mestske casti Kralovo Pole na upeti Medlanskych kopcu. Tyto koleje
+patri pod Vysoke Uceni Technicke v Brne, ktere zde ubytovavaji pres
+3000 svych studentu navstevujicich nekterou z jeho fakult (cache
+&lt;BLOCKED_a href="http://www.geocaching.com/seek/cache_details.aspx?guid=a72e8e96-8df2-4ee6-95a2-45b3bb5b5ad7"&gt;
+Vivat VUT&lt;/BLOCKED_a&gt;). Primo v arealu tak najdete Podnikatelskou fakultu
+(FP) a 3 ustavy Fakulty elektrotechniky a komunikacnich technologii
+(FEKT).
+
+&lt;br&gt;Studenti vsak na PPVcku nejcasteji vyhledavaji mistni kluby -
+Terc a Yacht. Nekuraky vic laka Terc, protoze v jeho prostorech je
+zakazane kourit. Najdete tady i dva stolni fotbalky a dva
+biliardove stoly. V Yachtu si na chut prijdou zas kuraci. Taky tady
+najdete fotbalek. Mnoho studentu sem chodi radeji kvuli klubove
+atmosfere.
+
+&lt;br&gt;Ubytovanym Palacak nabizi krome prijemneho ubytovani na dvou
+nebo triluzkovych pokojich s vlastnim socialnim zarizenim i
+potraviny, kadernictvi nebo pingpongove stoly na jednotlivych
+blocich.
+
+&lt;br&gt;Volny cas chodi na PPV travit i ostatni. V lete tu najdete
+skupinky lidi hrajicich Frisbee nebo poustejicich modely letadel.
+Medlanske kopce zase poskytuji raj pro turisty. CESA VUT ma tady
+taky svoje sidlo - provozuje posilovnu, kurzy aerobiku,
+spolecenskych tancu a radu jinych aktrivnich sportu.
+
+&lt;br&gt;Nezapomente take navstivit PPV webove stranky
+&lt;BLOCKED_a href="http://www.ppv.cz"&gt;www.ppv.cz&lt;/BLOCKED_a&gt;
+
+&lt;br&gt;Doufame, ze jsme Vas nalakali na navstevu tohoto pekneho mista v
+Brne.
+
+&lt;br&gt;Listing by Moonny
+
+&lt;br&gt;&lt;b&gt;Cache&lt;/b&gt;
+&lt;br&gt;
+Velikost je small, TB a GC se tam bez problemu vlezou. Signal neni
+v miste idealni, pouzijte hint.
+
+&lt;br&gt;&lt;BLOCKED_a target="_blank"
+href="http://www.kgbrno.eu/viewpage.php?page_id=2"&gt;&lt;BLOCKED_img border="0"
+src="http://kgbrno.eu/images/seriekgb.png" width="140"
+height="140" /&gt;&lt;/BLOCKED_a&gt;</groundspeak:long_description>
+			<groundspeak:encoded_hints>pod</groundspeak:encoded_hints>
+			<groundspeak:logs>
+				<groundspeak:log id="70388877" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2009-05-10T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="fd4253ab-5117-4158-bd50-8fa20d6e809e" cpTotalFound="112">Pangy</groundspeak:finder>
+					<groundspeak:text encoded="False"># 103 &#8211; 9:00 hod.&lt;br&gt;Nedele dopoledne, posledni ze tri volnych dnu - odloveno bez problemu. TFTC</groundspeak:text></groundspeak:log>
+				<groundspeak:log id="70222258" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2009-05-08T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="78f7371a-1626-4e00-aba3-43eba92cb3a0" cpTotalFound="938">JITULA</groundspeak:finder>
+					<groundspeak:text encoded="False">Dnes v odpoledn&#237;ch hodin&#225;ch odlov probehl bez probl&#233;mu.&lt;br&gt;D&#237;ky za ke&#353;ku.</groundspeak:text></groundspeak:log>
+				<groundspeak:log id="70601450" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2009-05-07T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="3d55897d-618e-4144-8a56-76d75e9ad215" cpTotalFound="94">pitak</groundspeak:finder>
+					<groundspeak:text encoded="False">Bydlim tu uz 5 let a konecne jsem se k tomu odhodlal. Cim bliz kes je, tim dyl trva nez ji odlovim...</groundspeak:text></groundspeak:log>
+				<groundspeak:log id="66598405" cpTypeImg="http://www.geocaching.com/images/icons/icon_note.gif">
+					<groundspeak:date>2009-04-05T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Write note</groundspeak:type>
+					<groundspeak:finder guid="c172b9f6-328a-4459-9300-8da4730f047a" cpTotalFound="155">_peno</groundspeak:finder>
+					<groundspeak:text encoded="False">Vypoustim do sveta muj novy travel bug: Petova USB flash! A jelikoz bydlim na kolejich Pod Palackeho vrchem, vkladam tento TB prave do teto kese! Preju mu uspesnou cestu Evropou a doufam ze zazije mnoha zajimava dobrodruzstvi. :))</groundspeak:text></groundspeak:log>
+				<groundspeak:log id="58800515" cpTypeImg="http://www.geocaching.com/images/icons/icon_note.gif">
+					<groundspeak:date>2008-12-17T00:00:00.0000000+0100</groundspeak:date>
+					<groundspeak:type>Write note</groundspeak:type>
+					<groundspeak:finder guid="c172b9f6-328a-4459-9300-8da4730f047a" cpTotalFound="155">_peno</groundspeak:finder>
+					<groundspeak:text encoded="False">Vkladam GC</groundspeak:text></groundspeak:log>
+				<groundspeak:log id="45518468" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2008-05-29T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="c172b9f6-328a-4459-9300-8da4730f047a" cpTotalFound="155">_peno</groundspeak:finder>
+					<groundspeak:text encoded="False">#28 16:30 IN: mumie OUT: opice&lt;br&gt;PPV je mym bydlistem, takze by byla ostuda tuto kes neulovit :D Odlov probehl bez probelmu, ale kes by mohla byt na nejakem lepsim miste. Diky a lovu zdar!</groundspeak:text></groundspeak:log></groundspeak:logs>
+			<groundspeak:travelbugs>
+				<groundspeak:travelbug guid="3c17e624-7faa-48d2-bc17-e2c4ee8bc833" cpImg="http://www.geocaching.com/images/wpttypes/sm/21.gif">
+					<groundspeak:name>Where does my money go?</groundspeak:name></groundspeak:travelbug></groundspeak:travelbugs>
+			<cp:HintRev>dop</cp:HintRev>
+			<cp:Errors></cp:Errors>
+			<cp:AdditionalWaypoints>
+				<cp:AdditionalWaypoint latit="49.23085" longtit="16.571533333333335" WID="aff411ca-fb25-4aa4-bb86-d1069618a73f">
+					<cp:Available img="http://www.geocaching.com/images/icons/icon_viewable.jpg">available</cp:Available>
+					<cp:Type img="http://www.geocaching.com/images/wpttypes/sm/pkg.jpg">Parking Area</cp:Type>
+					<cp:Name lookup="PA" prefix="PA">Parking</cp:Name>
+					<cp:Note>Zde muzete pohodlne zaparkovat.</cp:Note></cp:AdditionalWaypoint></cp:AdditionalWaypoints>
+			<cp:Images>
+				<cp:Image IID="e0202e65-7507-47a2-96b7-16b8457b21d9">
+					<cp:Name>Logbook #3 Pg1</cp:Name>
+					<cp:Note></cp:Note></cp:Image>
+				<cp:Image IID="c731dba9-ef9c-40f4-b3ec-13080061ec14">
+					<cp:Name>Logbook #3 Pg2</cp:Name>
+					<cp:Note></cp:Note></cp:Image>
+				<cp:Image IID="f22c89b0-6dfa-4023-b0f9-242150256279">
+					<cp:Name>Logbook #3 Pg3</cp:Name>
+					<cp:Note></cp:Note></cp:Image>
+				<cp:Image IID="63420d4c-52a3-4ee5-bb43-20d88c6ca763">
+					<cp:Name>Logbook #3 Pg4</cp:Name>
+					<cp:Note></cp:Note></cp:Image>
+				<cp:Image IID="cb3aa631-9fca-43d9-aa27-2570be7f7a0c">
+					<cp:Name>PPV</cp:Name>
+					<cp:Note></cp:Note></cp:Image></cp:Images></groundspeak:cache></wpt>
+	<wpt lat="49.2340167" lon="16.5686167">
+		<time>2005-08-18T00:00:00.0000000+0200</time>
+		<name>GCQ6GB</name>
+		<cmt>TR12</cmt>
+		<desc>Medlanecke kopce</desc>
+		<sym>Geocache Found</sym>
+		<type>Geocache</type>
+		<groundspeak:cache id="280346" guid="73acbaea-df60-4465-a86b-95227d480843" cpWPT="GCQ6GB" available="True" archived="False" cpCoords="N 49&#176;14.041' E 016&#176;34.117'">
+			<groundspeak:name>Medlanecke kopce</groundspeak:name>
+			<groundspeak:lastUpdated>2009-05-11T15:07:24.0000000+0200</groundspeak:lastUpdated>
+			<groundspeak:exported>2009-05-12T12:41:16.0000078+0200</groundspeak:exported>
+			<groundspeak:placed_by>Brouk &amp; spol.</groundspeak:placed_by>
+			<groundspeak:owner guid="65b05241-a6da-440f-9381-8cbdecca0116" cpHidden="2005-08-18T00:00:00.0000000+0200">Brouk &amp; spol.</groundspeak:owner>
+			<groundspeak:type>Traditional Cache</groundspeak:type>
+			<groundspeak:container>Regular</groundspeak:container>
+			<groundspeak:attributes>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/bicycles-yes.gif">bikes allowed</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/firstaid-yes.gif">needs maintenance</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/scenic-yes.gif">scenic view</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/onehour-yes.gif">takes less than 1  hour</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/kids-yes.gif">kid friendly</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/horses-yes.gif">horses allowed</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/dogs-yes.gif">dogs allowed</groundspeak:attribute></groundspeak:attributes>
+			<groundspeak:difficulty>1.5</groundspeak:difficulty>
+			<groundspeak:terrain>2</groundspeak:terrain>
+			<groundspeak:country>Czech Republic</groundspeak:country>
+			<groundspeak:state>Czech Republic</groundspeak:state>
+			<groundspeak:short_description html="True">Kopce mezi Medl&#225;nkami a Bystrci 338 m n.m.</groundspeak:short_description>
+			<groundspeak:long_description html="True">Pr&#237;rodn&#237; pam&#225;tka od r. 1987 Medl&#225;neck&#233; kopce je vlastne ve meste,
+ale nab&#237;z&#237; nezvykl&#253; a zaj&#237;mav&#253; v&#253;hled na bl&#237;zk&#233; i vd&#225;lenej&#353;&#237; okol&#237;.
+Uvid&#237;te i na bl&#237;zk&#233; leti&#353;te s jeho nejruznej&#353;&#237;mi atrakcemi, kter&#233;
+zde prob&#237;haj&#237; predev&#353;&#237;m o v&#237;kendech.
+&lt;br&gt;
+IN: Kl&#237;cenka, obal na karty, magnet, kostka, kol&#237;cek konektor,
+mu&#353;le.</groundspeak:long_description>
+			<groundspeak:encoded_hints>Pod kerem</groundspeak:encoded_hints>
+			<groundspeak:logs>
+				<groundspeak:log id="70571489" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2009-05-11T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="61e40380-e806-47d3-87a7-84d1a13d53df" cpTotalFound="3">frujt</groundspeak:finder>
+					<groundspeak:text encoded="False">Jojo tenhle pohled na Brno....Hezke</groundspeak:text></groundspeak:log>
+				<groundspeak:log id="70491452" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2009-05-10T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="b10dd67f-8a08-462a-9fd6-14109e3164a8" cpTotalFound="353">dawe-san</groundspeak:finder>
+					<groundspeak:text encoded="False">zacal sem hledat na miste kde hned kes byla ale nepodival sem se dost hluboko :p dik</groundspeak:text></groundspeak:log>
+				<groundspeak:log id="70223114" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2009-05-08T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="78f7371a-1626-4e00-aba3-43eba92cb3a0" cpTotalFound="938">JITULA</groundspeak:finder>
+					<groundspeak:text encoded="False">Zde jsme byli poprve.V podvecer ji&#382; tu zustalo jen p&#225;r jedincu,tak ke&#353; byla celkem brzy nalezena. &lt;br&gt;D&#237;ky za ke&#353;ku a pekn&#253; v&#253;hled na Brno.</groundspeak:text></groundspeak:log>
+				<groundspeak:log id="41243519" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2008-03-26T00:00:00.0000000+0100</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="c172b9f6-328a-4459-9300-8da4730f047a" cpTotalFound="155">_peno</groundspeak:finder>
+					<groundspeak:text encoded="False">#14 14:10 IN: odznak OUT: travel bug Scooby Do, Tatka Smoula&lt;br&gt;Odloveno pri me prvni projizdce na novem kole. Pekne sem se zadejchal do kopce :D Pekna zima. Nalezeno rychle i bez GPS. Dikys a lovu zdar!</groundspeak:text></groundspeak:log></groundspeak:logs>
+			<groundspeak:travelbugs></groundspeak:travelbugs>
+			<cp:HintRev>merek doP</cp:HintRev>
+			<cp:Errors></cp:Errors>
+			<cp:AdditionalWaypoints></cp:AdditionalWaypoints>
+			<cp:Images></cp:Images>
+		</groundspeak:cache>
+	</wpt>
+	<wpt lat="49.2287500" lon="16.5747000">
+		<time>2006-11-15T00:00:00.0000000+0100</time>
+		<name>GCZCJ2</name>
+		<cmt>MR12</cmt>
+		<desc>Vivat VUT</desc>
+		<sym>Geocache</sym>
+		<type>Geocache</type>
+		<groundspeak:cache id="494702" guid="a72e8e96-8df2-4ee6-95a2-45b3bb5b5ad7" cpWPT="GCZCJ2" available="True" archived="False" cpCoords="N 49&#176;13.725' E 016&#176;34.482'">
+			<groundspeak:name>Vivat VUT</groundspeak:name>
+			<groundspeak:lastUpdated>2009-05-06T13:33:23.0000000+0200</groundspeak:lastUpdated>
+			<groundspeak:exported>2009-05-12T12:41:16.0000171+0200</groundspeak:exported>
+			<groundspeak:placed_by>Opi_CZ</groundspeak:placed_by>
+			<groundspeak:owner guid="93b2b709-c1d5-457d-8abe-d1eda69e657f" cpHidden="2006-11-15T00:00:00.0000000+0100">Opi_CZ</groundspeak:owner>
+			<groundspeak:type>Multi-cache</groundspeak:type>
+			<groundspeak:container>Regular</groundspeak:container>
+			<groundspeak:attributes>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/wheelchair-no.gif">not wheelchair accessible</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/bicycles-yes.gif">bikes allowed</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/public-yes.gif">public transit available</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/winter-yes.gif">available in winter</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/available-yes.gif">available 24-7</groundspeak:attribute></groundspeak:attributes>
+			<groundspeak:difficulty>1.5</groundspeak:difficulty>
+			<groundspeak:terrain>2</groundspeak:terrain>
+			<groundspeak:country>Czech Republic</groundspeak:country>
+			<groundspeak:state>Czech Republic</groundspeak:state>
+			<groundspeak:short_description html="True">Cache dedicated to students of Technical University in Brno
+&lt;br&gt;
+Ke&#353; venovan&#225; soucasn&#253;m, b&#253;val&#253;m i budouc&#237;m studentum VUT v Brne (a
+nejen jim)</groundspeak:short_description>
+			<groundspeak:long_description html="True">&lt;div style="color: red; font-size: 15px; font-weight: bold;"&gt;
+Krabicka opet v provozu. POZOR - do&#353;lo ke zmene v&#253;poctu souradnic a
+hodnoty C !!&lt;/div&gt;
+
+&lt;br&gt;
+Tato multi v&#225;s zavede k jednotliv&#253;m fakult&#225;m Vysok&#233;ho ucen&#237;
+technick&#233;ho v Brne (cili VUT). 
+&lt;br&gt;
+Vysok&#233; ucen&#237; technick&#233; v Brne je nejstar&#353;&#237; brnensk&#225; vysok&#225; &#353;kola.
+Jej&#237; poc&#225;tky sahaj&#237; a&#382; do poloviny 19. stolet&#237;, do roku 1849, kdy v
+Brne vzniklo nemecko-cesk&#233; technick&#233; ucili&#353;te. 
+&lt;br&gt;
+Cesk&#225; vysok&#225; &#353;kola technick&#225; v Brne byla slavnostne otevrena v
+listopadu r.1899. Ctyrclenn&#253; profesorsk&#253; sbor zah&#225;jil predn&#225;&#353;ky pro
+37 r&#225;dn&#253;ch a 13 mimor&#225;dn&#253;ch studentu v oboru stavebn&#237;ho
+in&#382;en&#253;rstv&#237;. Jako druh&#253; byl v r.1900 otevren odbor strojn&#237;ho
+in&#382;en&#253;rstv&#237;, n&#225;sledoval odbor kulturn&#237;ho in&#382;en&#253;rstv&#237; - meliorace a
+vodn&#237; stavby , elektroin&#382;en&#253;rstv&#237; a chemick&#233; in&#382;en&#253;rstv&#237;, po
+1.svetov&#233; v&#225;lce tak&#233; architektura a dal&#353;&#237; odbory. 
+&lt;br&gt;
+Zlom v rozvoji vysok&#233; &#353;koly znamenala 2.svetov&#225; v&#225;lka, kdy byla
+&#353;kola uzavrena. V r.1945 byla cinnost &#353;koly obnovena v predv&#225;lecn&#233;
+podobe a n&#225;zvu. Od r.1956 se &#353;kola st&#225;v&#225; Vysok&#253;m ucen&#237;m technick&#253;m
+v Brne a doch&#225;z&#237; k jej&#237;mu v&#253;razn&#233;mu rozvoji. 
+&lt;br&gt;
+&lt;BLOCKED_img src="http://img.geocaching.com/cache/8a76504a-95b5-4f1a-ad0f-c158c121aa82.jpg"
+     align="left" hspace="15" /&gt; &lt;strong&gt;Stage 1: Nov&#253; rektor&#225;t
+     VUT&lt;/strong&gt;
+&lt;br&gt;
+N1 = 49&#176;12,095
+&lt;br&gt;
+E1 = 16&#176;36,182 
+&lt;br&gt;
+Nove opraven&#225; budova, uveden&#225; do provozu v r. 2001. S&#237;dlo
+nejvy&#353;&#353;&#237;ho veden&#237; &#353;koly, knihovny. V hale, vznikl&#233; zastre&#353;en&#237;m
+vnitrn&#237;ho dvora, vzniklo m&#237;sto, kde prob&#237;haj&#237; ofici&#225;ln&#237; akce &#353;koly,
+koncerty, v&#253;stavy&#8230; 
+&lt;br&gt;
+Obejdete &#353;kolu zprava (dostanete se na ulici Anton&#237;nsk&#225;). Zde
+spoc&#237;tejte pocet oken v nejnizsi rade po cel&#233; strane budovy.
+Dostanete &lt;strong&gt;sud&#233; c&#237;slo A&lt;/strong&gt;. 
+&lt;br&gt;
+&lt;BLOCKED_img src="http://img.geocaching.com/cache/93315d31-e7e1-4c3d-9f8f-6138af5598d8.jpg"
+     align="left" hspace="15" /&gt;&lt;strong&gt;Stage 2: Fakulta
+     Elektrotechniky a komunikacn&#237;ch technologi&#237;&lt;/strong&gt;
+&lt;br&gt;
+N2 = 49&#176;11,890
+&lt;br&gt;
+E2 = 16&#176;35.617
+&lt;br&gt;
+Puvodn&#237; rektor&#225;t VUT, a jedna z jej&#237;ch nejstar&#353;&#237;ch budov. Nyn&#237; zde
+s&#237;dl&#237; c&#225;st FEKT (jako jedin&#225; je roztahan&#225; po cel&#233;m Brne) a &#250;stav
+jazyku. 
+&lt;br&gt;
+V m&#237;ste, kde stoj&#237;te, vid&#237;te bustu zn&#225;m&#233; osoby, prof. Ing. Dr.
+Victora Kaplana, kter&#253; zde (dle n&#225;pisu na podstavci) v letech
+XXXX-YY pri&#353;el na svou, nyn&#237; ji&#382; svetozn&#225;mou, Kaplanovu
+turb&#237;nu.
+&lt;br&gt;
+&lt;strong&gt;Ctyrcifern&#233; c&#237;slo B&lt;/strong&gt; z&#237;sk&#225;te odecten&#237;m roku YY od
+roku XXXX. 
+&lt;br&gt;
+Dal&#353;&#237; c&#225;sti fakulty sd&#237;l&#237; budovy s jin&#253;mi fakultami &#8211;
+podnikatelskou, chemickou a stroj&#237;renskou, v are&#225;lu Pod Palack&#253;m
+vrchem, kam se je&#353;te ve sv&#233;m putov&#225;n&#237; dostaneme. 
+&lt;br&gt;
+&lt;BLOCKED_img src="http://img.geocaching.com/cache/b6de4ab1-3608-4b49-a087-43cc94360571.jpg"
+     align="left" hspace="15" /&gt;&lt;strong&gt;Stage 3: Fakulta
+     architektury&lt;/strong&gt;
+&lt;br&gt;
+N3 = 49&#176;11,205
+&lt;br&gt;
+E3 = 16&#176;35.640
+&lt;br&gt;
+Prvn&#237; rocn&#237;k otevren v ak. roce 1919/1920. Za hospod&#225;rsk&#233; krize
+hrozilo brnensk&#233; &#353;kole architektury nebezpec&#237;, &#382;e zanikne. Zru&#353;en&#237;
+&#353;koly bylo v&#353;ak d&#237;ky &#250;sil&#237; profesorsk&#233;ho sboru, studentu a podpore
+verejnosti za&#382;ehn&#225;no. 
+&lt;br&gt;
+V roce 1945 do&#353;lo k obnove brnensk&#233; techniky se samostatn&#253;m odborem
+architektury a pozemn&#237;ho stavitelstv&#237;. V roce 1951 byla fakulta
+architektury a pozemn&#237;ho stavitelstv&#237; zaclenena do nove vytvoren&#233;
+Vysok&#233; &#353;koly stavitelstv&#237; (V&#352;S). 
+&lt;br&gt;
+V polovine sedmdes&#225;t&#253;ch let byla zva&#382;ov&#225;na prospe&#353;nost studia
+architektury v r&#225;mci jednotn&#233; fakulty stavebn&#237;. Sloucen&#237;m fakult
+nebylo dosa&#382;eno ocek&#225;van&#233;ho zkvalitnen&#237; v&#253;uky oboru architektury a
+stavby mest, nebot nebyly dostatecne respektov&#225;ny specifick&#233;
+potreby v&#253;chovy architektu.
+&lt;br&gt;
+ Proto byla v roce 1976 vyclenen&#237;m ze staven&#237; fakulty ustanovena
+samostatn&#225; fakulta architektury se studijn&#237;m oborem architektura a
+&#250;zemn&#237; pl&#225;nov&#225;n&#237;. 
+&lt;br&gt;
+Ke z&#237;sk&#225;n&#237; &lt;strong&gt;c&#237;sla C&lt;/strong&gt; opet nemus&#237;te daleko. Vydejte
+se pod&#233;l budovy &#353;koly smerem od kri&#382;ovatky (m&#225;te tedy &#353;kolu po
+prav&#233; ruce) a hned na zac&#225;tku je pomerne nove instalov&#225;na pametn&#237;
+deska jednoho z velk&#253;ch cesk&#253;ch skladatelu, kter&#253; v budove pusobil.
+&lt;strong&gt;Kolik let C&lt;/strong&gt; zde tento skladatel pusobil? 
+&lt;br&gt;
+&lt;BLOCKED_img src="http://img.geocaching.com/cache/8a4ea4c6-d532-4b2c-8505-6d9bf6bf87b0.jpg"
+     align="left" hspace="15" /&gt; &lt;strong&gt;Stage 4: Fakulta
+     v&#253;tvarn&#253;ch umen&#237;&lt;/strong&gt;
+&lt;br&gt;
+N4 = 49&#176;11,195
+&lt;br&gt;
+E4 = 16&#176;35.277
+&lt;br&gt;
+ O zr&#237;zen&#237; v&#253;tvarn&#233; akademie na Morave usilovaly zdej&#353;&#237; umeleck&#233;
+kruhy ji&#382; od poc&#225;tku 18. stolet&#237;. Po mnoha bezv&#253;sledn&#253;ch pokusech
+se podarilo a&#382; v r&#237;jnu 1992 zalo&#382;it na Fakulte architektury VUT
+&#218;stav v&#253;tvarn&#253;ch umen&#237;,kter&#253; se stal z&#225;rodkem Fakulty v&#253;tvarn&#253;ch
+umen&#237;, je&#382; zah&#225;jila cinnost 1.1. 1993. 
+&lt;br&gt;
+Spojen&#237; v&#253;tvarn&#233; fakulty s fakultami technick&#233;ho zameren&#237;
+predstavuje zat&#237;m jedin&#253; pr&#237;pad sv&#233;ho druhu v Cesk&#233; republice. Tak&#233;
+s ohledem na to byla utv&#225;rena jej&#237; oborov&#225; skladba, vyznacuj&#237;c&#237; se
+v&#253;razn&#253;m zastoupen&#237;m disciplin, kter&#233; sv&#253;m charakterem a vyu&#382;&#237;v&#225;n&#237;m
+nejnovej&#353;&#237;ch technologi&#237; smeruj&#237; ke spojen&#237; umen&#237; s technikou.
+
+&lt;br&gt;
+&lt;strong&gt;C&#237;slem D&lt;/strong&gt; se pro v&#225;s stane sud&#253; pocet hrotu na
+cern&#233; kovan&#233; br&#225;ne. 
+&lt;br&gt;
+&lt;BLOCKED_img src="http://img.geocaching.com/cache/f4b547b8-7eec-47e5-88e5-5a811bc6e992.jpg"
+     align="left" hspace="15" /&gt;&lt;strong&gt;Stage 5: Fakulta
+     stavebn&#237;&lt;/strong&gt;
+&lt;br&gt;
+N5 = 49&#176;12,401
+&lt;br&gt;
+E5 = 16&#176;35.555
+&lt;br&gt;
+ Historie FAST &#250;zce souvis&#237; s histori&#237; Vysok&#233;ho ucen&#237; technick&#233;ho -
+nejstar&#353;&#237; brnensk&#233; vysok&#233; &#353;koly. Poc&#225;tky sahaj&#237; a&#382; do poloviny 19.
+stolet&#237;, do roku 1849, kdy v Brne vzniklo nemecko-cesk&#233; technick&#233;
+ucili&#353;te. Cesk&#225; vysok&#225; &#353;kola technick&#225; byla zr&#237;zena c&#237;sarem
+Franti&#353;kem Josefem I. v roce 1899 a jej&#237;m prvn&#237;m oborem byl pr&#225;ve
+stavebn&#237; obor. 
+&lt;br&gt;
+Souradnice ukazuj&#237; k hlavn&#237;mu vchodu. Abyste zjistili potrebn&#233;,
+obejdete budovu a&#382; do ulicky, kter&#225; vede za fakultou (ul. &#381;i&#382;kova)
+a dojdete k zadn&#237;mu vchodu do &#353;koly. Kousek nad vchodem je
+&lt;strong&gt;E predmetu&lt;/strong&gt;, kter&#233; tam pri stavbe budovy rozhodne
+nebyly. 
+&lt;br&gt;
+&lt;BLOCKED_img src="http://img.geocaching.com/cache/4985a55f-3185-4c79-8d57-3f340d28e254.jpg"
+     align="left" hspace="15" /&gt; &lt;strong&gt;Stage 6: Fakulta
+     informacn&#237;ch technologi&#237;&lt;/strong&gt;
+&lt;br&gt;
+N6 = 49&#176;13,590
+&lt;br&gt;
+E6 = 16&#176;35.760
+&lt;br&gt;
+ Fakulta informacn&#237;ch technologi&#237; VUT v Brne byla zalo&#382;ena 1.1.2002
+na z&#225;klade &#218;stavu informatiky a v&#253;pocetn&#237; techniky FEI VUT v Brne.
+&#218;stav informatiky a v&#253;pocetn&#237; techniky (&#218;IVT) vznikl na Fakulte
+elektrotechnick&#233; VUT v roce 1964 pod n&#225;zvem Katedra samocinn&#253;ch
+poc&#237;tacu. V roce 1990 byla katedra prejmenov&#225;na na Katedru
+informatiky a v&#253;pocetn&#237; techniky a v roce 1992 na &#218;stav informatiky
+a v&#253;pocetn&#237; techniky. 
+&lt;br&gt;
+Fakulta s&#237;dl&#237; v are&#225;lu b&#253;val&#233;ho kl&#225;&#353;tera Kartuzi&#225;nsk&#233;ho r&#225;du
+(pozdeji kadetn&#237; &#353;koly), kter&#253; je ji&#382; l&#233;ta v kompletn&#237;
+rekonstrukci. 
+&lt;br&gt;
+Na protej&#353;&#237; strane silnice, na m&#237;ste b&#253;val&#233;ho pivovaru vyrostly
+nov&#233; modern&#237; budovy FIT, kde jsou laboratore, pracovny apod. 
+&lt;br&gt;
+Jak m&#225; cel&#253; komplex vypadat po rekonstrukci mu&#382;ete shl&#233;dnout na
+&lt;BLOCKED_a rel="nofollow"
+href="http://www.fit.vutbr.cz/news/vrb1/.cs.windows-1250"&gt;http://www.fit.vutbr.cz/news/vrb1/.cs.windows-1250&lt;/BLOCKED_a&gt;
+
+&lt;br&gt;
+&lt;strong&gt;C&#237;slem F&lt;/strong&gt;, kter&#233; v&#225;s posune kousek k vysnen&#233;mu c&#237;li
+&#8211; ke&#353;ce &#8211; je sud&#253; pocet str&#237;brit&#253;ch z&#225;vesn&#253;ch svetel nad rampou a
+polo&#353;inou vedouc&#237; do nov&#233; budovy fakulty. 
+&lt;br&gt;
+A nyn&#237; hur&#225; do proslul&#233;ho &#8222;are&#225;lu (nyn&#237; moderne zvan&#233;ho kampus) Pod
+Palack&#233;ho vrchem&#8220; 
+&lt;br&gt;
+&lt;BLOCKED_img src="http://img.geocaching.com/cache/2eea5a31-95e9-42b8-888f-cdcdc3b586eb.jpg"
+     align="left" hspace="15" /&gt;&lt;strong&gt;Stage 7: Fakulta
+     chemick&#225;&lt;/strong&gt;
+&lt;br&gt;
+N7 = 49&#176;13,870
+&lt;br&gt;
+E7 = 16&#176;34.685
+&lt;br&gt;
+ Fakulta chemick&#225; VUT v Brne navazuje od roku 1992 svou cinnost&#237; na
+dlouhou tradici chemick&#233;ho vysok&#233;ho &#353;kolstv&#237; v Brne, zah&#225;jenou
+zr&#237;zen&#237;m chemick&#233;ho odboru Cesk&#233; vysok&#233; &#353;koly technick&#233; v listopadu
+1911 a preru&#353;enou v roce 1951 premenou brnensk&#233; techniky na
+vojenskou Technickou akademii. 
+&lt;br&gt;
+Poc&#225;tecn&#237; rozvoj fakulty po roce 1992 prob&#237;hal za podpory brnensk&#233;
+chemick&#233; komunity a zvl&#225;&#353;te ve spolupr&#225;ci s chemick&#253;m odborem PrF
+MU v Brne, kter&#225; tak vr&#225;tila chemick&#233; fakulte jej&#237; pomoc, kterou
+poskytla chemick&#253;m oborum po zr&#237;zen&#237; Masarykovy univerzity v r.
+1919. V roce 1994 se fakulta &#250;spe&#353;ne podrobila druh&#233; akreditaci
+spolecne s chemicko-technologick&#253;mi fakultami v CR. 
+&lt;br&gt;
+&lt;strong&gt;C&#237;slem G&lt;/strong&gt; je pocet schodu, kter&#233; vedou k hlavn&#237;mu
+vchodu fakulty 
+&lt;br&gt;
+&lt;BLOCKED_img src="http://img.geocaching.com/cache/9a5a9446-a1b1-43b2-b851-447d6cf5a9de.jpg"
+     align="left" hspace="15" /&gt; &lt;strong&gt;Stage 8: Fakulta strojn&#237;ho
+     in&#382;en&#253;rstv&#237;&lt;/strong&gt; 
+&lt;br&gt;
+N8 = 49&#176;13,494
+&lt;br&gt;
+E8 = 16&#176;34.599
+&lt;br&gt;
+ Vznik i v&#253;voj &#353;koly i fakulty z hlediska historie nebyl
+jednoduch&#253;. Podle v&#253;nosu ministerstva kultu a vyucov&#225;n&#237; ze dne 26.
+z&#225;r&#237; 1899 c&#237;slo 2082/m.k.v. &lt;em&gt;r&#225;cilo Jeho c&#237;s. a kr&#225;l. Apo&#353;tolsk&#233;
+Velicenstvo Nejvy&#353;&#353;&#237;m rozhodnut&#237;m ze dne 19. z&#225;r&#237; 1899 zr&#237;zen&#237;
+cesk&#233; vysok&#233; &#353;koly technick&#233; v Brne nejmilostiveji schv&#225;liti. Dne
+1. listopadu 1899 otevre se tud&#237;&#382; 1. rocn&#237;k odboru stavitelsk&#233;ho
+in&#382;en&#253;rstv&#237; pri t&#233;to vysok&#233; &#353;kole ...&lt;/em&gt; . T&#237;mto c&#237;sar a kr&#225;l
+Franti&#353;ek Josef I. povolil Morave prvn&#237; a a&#382; do roku 1918 tak&#233;
+jedinou ceskou vysokou &#353;kolu. 
+&lt;br&gt;
+Byla tak dovr&#353;ena dlouholet&#225; snaha cesk&#253;ch a moravsk&#253;ch
+intelektu&#225;lu vytvorit na Morave z&#225;zem&#237; pro rozvoj vzdelanosti a
+kultury. V roce 1900 byl otevren odbor stroj&#237;rensk&#253;. Predv&#225;lecn&#253;
+rozvoj &#353;koly tragicky uzavrel 17. listopad 1939. Tehdy a potom v
+pades&#225;t&#253;ch letech pro&#382;&#237;vala &#353;kola nejte&#382;&#353;&#237; obdob&#237; sv&#233; existence. V
+roce 1956 zacala &#353;kola pracovat pod n&#225;zvem Vysok&#233; ucen&#237; technick&#233; v
+Brne a v roce 1958 byla tehdej&#353;&#237; fakulta energetick&#225; rozdelena na
+fakultu strojn&#237; a elektrotechnickou. 
+&lt;br&gt;
+Stoj&#237;te u vedlej&#353;&#237;ho vchodu. Po prav&#233; ruce m&#225;te produkt strojaru &#8211;
+turb&#237;nu. Prejdete pred hlavn&#237; vchod v&#253;&#353;kov&#233; budovy, a kdy&#382; budete
+st&#225;t pred n&#237;m, uvid&#237;te &lt;strong&gt;H kamer&lt;/strong&gt;, hl&#237;daj&#237;c&#237; prostor.
+
+&lt;br&gt;
+&lt;BLOCKED_img src="http://img.geocaching.com/cache/a94aad9d-57a0-47c0-9c46-1cb209796164.jpg"
+     align="left" hspace="15" /&gt;&lt;strong&gt;Stage 9: Fakulta
+     podnikatelsk&#225;&lt;/strong&gt;
+&lt;br&gt;
+N9 = 49&#176;13,855
+&lt;br&gt;
+E9 = 16&#176;34.374
+&lt;br&gt;
+ Fakulta podnikatelsk&#225; vznikla oddelen&#237;m od fakulty strojn&#237;ho
+in&#382;en&#253;rstv&#237;. S touto tak&#233; dlouho sd&#237;lela v&#253;&#353;kovou budovu. Od r.
+2003 m&#225; fakulta konecne vlast&#237; prostory v nove zrekonstruovan&#233;
+budove vznikl&#233; prestavbou b&#253;val&#233; menzy. 
+&lt;br&gt;
+&lt;strong&gt;C&#237;slo I&lt;/strong&gt; z&#237;sk&#225;te spoc&#237;t&#225;n&#237;m lavicek kolem
+odpadkov&#233;ho ko&#353;e, kter&#233; jsou v ro&#382;ku naproti vchodu na fakultu, kam
+byli vytlaceni &#353;koln&#237; kur&#225;ci. 
+&lt;br&gt;
+VUT melo svou fakultu je&#353;te ve Zl&#237;ne, kter&#225; se ov&#353;em tak&#233; od&#353;tepila
+a stala se z&#225;kladem Univerzity Tom&#225;&#353;e Bati. &#8230; tam dnes ale
+nepojedeme
+&lt;BLOCKED_img src="http://www.geocaching.com/images/icons/icon_smile_big.gif"
+     border="0" align="middle" /&gt; 
+&lt;br&gt;
+ &lt;strong&gt;Stage 10: Final stage aneb pohledte na Zed
+&#250;spechu&lt;/strong&gt;
+&lt;br&gt;
+Fin&#225;ln&#237; krabicka se nach&#225;z&#237; na souradnic&#237;ch
+&lt;br&gt;
+ N10 = 49&#176;13,X 
+&lt;br&gt;
+E10 = 16&#176;34.Y
+&lt;br&gt;
+X = B &#8211; E*H*A*D &#8211; E*G*A &#8211; (C+D+I)+G
+&lt;br&gt;
+Y = B &#8211; D*G*I &#8211; C*I + F &#8211; (H+F)/2
+&lt;br&gt;
+Z techto m&#237;st m&#225;te v&#253;hled na &#8222;Zed &#250;spechu&#8220;, kter&#225; pre&#382;ila i v&#253;razn&#233;
+stavebn&#237; zmeny, kter&#233; probehly za n&#237;. Na t&#233;to zdi se zvecnily ji&#382;
+generace &#250;spe&#353;n&#253;ch absolventu VUT. &#8222;Zvecnen&#237;&#8220; je pr&#225;ve na jeden
+rok, po kter&#233;m m&#237;sta preb&#237;raj&#237; absolventi cerstv&#237;. 
+&lt;br&gt;
+Gratuluji k nalezen&#237; ke&#353;ky, kterou venuji v&#353;em minul&#253;m, st&#225;vaj&#237;c&#237;m
+i budouc&#237;m studentum VUT v Brne. 
+&lt;br&gt;
+ Ve&#353;ker&#233; informace byly prevzaty z webu VUT v Brne (www.vutbr.cz) a
+webu jednotliv&#253;ch fakult.</groundspeak:long_description>
+			<groundspeak:encoded_hints></groundspeak:encoded_hints>
+			<groundspeak:logs>
+				<groundspeak:log id="70070871" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2009-05-06T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="54996133-0fb3-4e70-911d-799e4bcb958f" cpTotalFound="1900">Anton118</groundspeak:finder>
+					<groundspeak:text encoded="False">S Mottym odloveno v pohode je&#353;te pred de&#353;tem.&lt;br&gt;Konecne je na&#353;e.&lt;br&gt;D&#237;k za prima ke&#353;ku.</groundspeak:text></groundspeak:log>
+				<groundspeak:log id="70069715" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2009-05-06T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="7dfc7942-9ac3-4e0f-bb6f-e24a9c9122ac" cpTotalFound="920">motty.rt</groundspeak:finder>
+					<groundspeak:text encoded="False">Tak jsem se dockal. Opravovane pismeno mam kousek od baraku, tak honem na nej a pak pro kesku. Tu uz jsme nasli s Antonem rychle, takze spokojenost. Jen moc neverim tomu, ze tam vydrzi...ale snad se mylim. Diky.</groundspeak:text></groundspeak:log>
+				<groundspeak:log id="70060292" cpTypeImg="http://www.geocaching.com/images/icons/icon_enabled.gif">
+					<groundspeak:date>2009-05-06T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Enable Listing</groundspeak:type>
+					<groundspeak:finder guid="93b2b709-c1d5-457d-8abe-d1eda69e657f" cpTotalFound="1210">Opi_CZ</groundspeak:finder>
+					<groundspeak:text encoded="False">Ke&#353;ka je opet v provozu a pripravena na lovce.&lt;br&gt;Sna&#382;il jsem se ji um&#237;stit tak, aby od n&#237; byl st&#225;le v&#253;hled na zed &#250;spechu. V okol&#237; se sice zac&#237;n&#225; usilovne budovat, ale na nov&#233;m m&#237;ste snad nejakou dobu vydr&#382;&#237;.&lt;br&gt;Lovu zdar!</groundspeak:text></groundspeak:log></groundspeak:logs>
+			<groundspeak:travelbugs></groundspeak:travelbugs>
+			<cp:HintRev></cp:HintRev>
+			<cp:Errors></cp:Errors>
+			<cp:AdditionalWaypoints>
+				<cp:AdditionalWaypoint latit="49.20158333333333" longtit="16.603033333333332" WID="f734a228-fe86-4f88-8787-ccab61ca3c49">
+					<cp:Available img="http://www.geocaching.com/images/icons/icon_viewable.jpg">available</cp:Available>
+					<cp:Type img="http://www.geocaching.com/images/wpttypes/sm/puzzle.jpg">Question to Answer</cp:Type>
+					<cp:Name lookup="STAGE1" prefix="S1">Stage 1</cp:Name>
+					<cp:Note></cp:Note></cp:AdditionalWaypoint>
+				<cp:AdditionalWaypoint latit="49.198166666666665" longtit="16.593616666666666" WID="dc81e5ce-f816-4552-b066-b1dbf5dada22">
+					<cp:Available img="http://www.geocaching.com/images/icons/icon_viewable.jpg">available</cp:Available>
+					<cp:Type img="http://www.geocaching.com/images/wpttypes/sm/puzzle.jpg">Question to Answer</cp:Type>
+					<cp:Name lookup="STAGE2" prefix="S2">Stage 2</cp:Name>
+					<cp:Note></cp:Note></cp:AdditionalWaypoint>
+				<cp:AdditionalWaypoint latit="49.18675" longtit="16.594" WID="43d3deaf-17b0-4ea9-9826-b664db8eb1e8">
+					<cp:Available img="http://www.geocaching.com/images/icons/icon_viewable.jpg">available</cp:Available>
+					<cp:Type img="http://www.geocaching.com/images/wpttypes/sm/puzzle.jpg">Question to Answer</cp:Type>
+					<cp:Name lookup="STAGE3" prefix="S3">Stage 3</cp:Name>
+					<cp:Note></cp:Note></cp:AdditionalWaypoint>
+				<cp:AdditionalWaypoint latit="49.18658333333333" longtit="16.58795" WID="9c1b4b97-4be3-44b0-9573-c000db2f0fee">
+					<cp:Available img="http://www.geocaching.com/images/icons/icon_viewable.jpg">available</cp:Available>
+					<cp:Type img="http://www.geocaching.com/images/wpttypes/sm/puzzle.jpg">Question to Answer</cp:Type>
+					<cp:Name lookup="STAGE4" prefix="S4">Stage 4</cp:Name>
+					<cp:Note></cp:Note></cp:AdditionalWaypoint>
+				<cp:AdditionalWaypoint latit="49.20668333333333" longtit="16.592583333333334" WID="2a59cd5c-ba0d-42fc-b938-9762caa485ae">
+					<cp:Available img="http://www.geocaching.com/images/icons/icon_viewable.jpg">available</cp:Available>
+					<cp:Type img="http://www.geocaching.com/images/wpttypes/sm/puzzle.jpg">Question to Answer</cp:Type>
+					<cp:Name lookup="STAGE5" prefix="S5">Stage 5</cp:Name>
+					<cp:Note></cp:Note></cp:AdditionalWaypoint>
+				<cp:AdditionalWaypoint latit="49.2265" longtit="16.596" WID="98d74d70-213f-41bf-9e74-2db3e1bce8e8">
+					<cp:Available img="http://www.geocaching.com/images/icons/icon_viewable.jpg">available</cp:Available>
+					<cp:Type img="http://www.geocaching.com/images/wpttypes/sm/puzzle.jpg">Question to Answer</cp:Type>
+					<cp:Name lookup="STAGE6" prefix="S6">Stage 6</cp:Name>
+					<cp:Note></cp:Note></cp:AdditionalWaypoint>
+				<cp:AdditionalWaypoint latit="49.23116666666667" longtit="16.578083333333332" WID="054347e0-5e40-4a89-8fdc-76407ae80801">
+					<cp:Available img="http://www.geocaching.com/images/icons/icon_viewable.jpg">available</cp:Available>
+					<cp:Type img="http://www.geocaching.com/images/wpttypes/sm/puzzle.jpg">Question to Answer</cp:Type>
+					<cp:Name lookup="STAGE7" prefix="S7">Stage 7</cp:Name>
+					<cp:Note></cp:Note></cp:AdditionalWaypoint>
+				<cp:AdditionalWaypoint latit="49.2249" longtit="16.57665" WID="eb0b010f-5bee-4344-a095-6a74afa7ad42">
+					<cp:Available img="http://www.geocaching.com/images/icons/icon_viewable.jpg">available</cp:Available>
+					<cp:Type img="http://www.geocaching.com/images/wpttypes/sm/puzzle.jpg">Question to Answer</cp:Type>
+					<cp:Name lookup="STAGE8" prefix="S8">Stage 8</cp:Name>
+					<cp:Note></cp:Note></cp:AdditionalWaypoint>
+				<cp:AdditionalWaypoint latit="49.230916666666666" longtit="16.5729" WID="adae6a31-e158-4b4a-b570-b7bd69066d0b">
+					<cp:Available img="http://www.geocaching.com/images/icons/icon_viewable.jpg">available</cp:Available>
+					<cp:Type img="http://www.geocaching.com/images/wpttypes/sm/puzzle.jpg">Question to Answer</cp:Type>
+					<cp:Name lookup="STAGE9" prefix="S9">Stage 9</cp:Name>
+					<cp:Note></cp:Note></cp:AdditionalWaypoint></cp:AdditionalWaypoints>
+			<cp:Images>
+				<cp:Image IID="b6de4ab1-3608-4b49-a087-43cc94360571">
+					<cp:Name>fa_ico.jpg</cp:Name>
+					<cp:Note></cp:Note></cp:Image>
+				<cp:Image IID="f4b547b8-7eec-47e5-88e5-5a811bc6e992">
+					<cp:Name>fast_ico.jpg</cp:Name>
+					<cp:Note></cp:Note></cp:Image>
+				<cp:Image IID="2eea5a31-95e9-42b8-888f-cdcdc3b586eb">
+					<cp:Name>fch_ico.jpg</cp:Name>
+					<cp:Note></cp:Note></cp:Image>
+				<cp:Image IID="93315d31-e7e1-4c3d-9f8f-6138af5598d8">
+					<cp:Name>fekt_ico.jpg</cp:Name>
+					<cp:Note></cp:Note></cp:Image>
+				<cp:Image IID="4985a55f-3185-4c79-8d57-3f340d28e254">
+					<cp:Name>fit_ico.jpg</cp:Name>
+					<cp:Note></cp:Note></cp:Image>
+				<cp:Image IID="a94aad9d-57a0-47c0-9c46-1cb209796164">
+					<cp:Name>fp_ico.jpg</cp:Name>
+					<cp:Note></cp:Note></cp:Image>
+				<cp:Image IID="8a4ea4c6-d532-4b2c-8505-6d9bf6bf87b0">
+					<cp:Name>fpp_ico.jpg</cp:Name>
+					<cp:Note></cp:Note></cp:Image>
+				<cp:Image IID="9a5a9446-a1b1-43b2-b851-447d6cf5a9de">
+					<cp:Name>fsi_ico.jpg</cp:Name>
+					<cp:Note></cp:Note></cp:Image>
+				<cp:Image IID="8a76504a-95b5-4f1a-ad0f-c158c121aa82">
+					<cp:Name>vutbr_ico.jpg</cp:Name>
+					<cp:Note></cp:Note></cp:Image></cp:Images></groundspeak:cache></wpt>
+	<wpt lat="49.2242167" lon="16.5675167">
+		<time>2006-11-01T00:00:00.0000000+0100</time>
+		<name>GCZ5JY</name>
+		<cmt>TR22</cmt>
+		<desc>Palackeho vrch</desc>
+		<sym>Geocache Found</sym>
+		<type>Geocache</type>
+		<groundspeak:cache id="488002" guid="2a0ff5ba-375a-46e0-ad55-8b21e09bb36c" cpWPT="GCZ5JY" available="True" archived="False" cpCoords="N 49&#176;13.453' E 016&#176;34.051'">
+			<groundspeak:name>Palackeho vrch</groundspeak:name>
+			<groundspeak:lastUpdated>2009-05-10T12:53:42.0000000+0200</groundspeak:lastUpdated>
+			<groundspeak:exported>2009-05-12T12:41:16.0000515+0200</groundspeak:exported>
+			<groundspeak:placed_by>lenicka.second</groundspeak:placed_by>
+			<groundspeak:owner guid="602acf79-b1af-4dd0-9911-54e81378d142" cpHidden="2006-11-01T00:00:00.0000000+0100">lenicka.second</groundspeak:owner>
+			<groundspeak:type>Traditional Cache</groundspeak:type>
+			<groundspeak:container>Regular</groundspeak:container>
+			<groundspeak:attributes>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/bicycles-yes.gif">bikes allowed</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/kids-yes.gif">kid friendly</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/available-yes.gif">available 24-7</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/dogs-yes.gif">dogs allowed</groundspeak:attribute></groundspeak:attributes>
+			<groundspeak:difficulty>2</groundspeak:difficulty>
+			<groundspeak:terrain>2</groundspeak:terrain>
+			<groundspeak:country>Czech Republic</groundspeak:country>
+			<groundspeak:state>Czech Republic</groundspeak:state>
+			<groundspeak:short_description html="True">&lt;b&gt;Palackeho vrch&lt;/b&gt;</groundspeak:short_description>
+			<groundspeak:long_description html="True">Palackeho vrch (340 m. n. m.) se nachazi nad fakultou strojniho
+inzenyrstvi VUT v Brne (zastavka autobusu c.53 - Technicka). Na
+vrcholu byl postaven pomnik na pocest Frantiska Palackeho
+(&lt;b&gt;N49&#176;13.507, E016&#176;34.059&lt;/b&gt;).
+
+&lt;br&gt;&lt;b&gt;Vrch tento tv&#253;m jm&#233;nem,
+&lt;br&gt;
+otce vlasti zdoben&#253;,
+&lt;br&gt;
+hlas vecne sl&#225;vu z&#225;sluh tv&#253;ch!
+&lt;br&gt;
+Mrtvou jsi vzkr&#237;sil minulost a sl&#225;vu,
+&lt;br&gt;
+i nov&#253; &#382;ivot s&#237;lil jsi,
+&lt;br&gt;
+s&#225;m ne&#250;stupn&#253; bojovn&#237;k pro pr&#225;vo koruny svatov&#225;clavsk&#233;.
+&lt;br&gt;
+Nehynouc&#237; sl&#225;ve "otce n&#225;roda" Fr. Palack&#233;ho, venuje Sokol Tyr&#353; v
+Brne. Dne 6.IX.1908.&lt;/b&gt;
+&lt;br&gt;
+Pomn&#237;k byl obnoven v roce 1994 na n&#225;klady mesta.
+
+&lt;br&gt;Cache je umistena v blizkosti vrcholu. Signal zde pri zamerovani
+nebyl zrovna idealni, budte proto prosim trpelivi. Prosim o
+opatrnost pri vyzvedavani cache, v okoli se pohybuje mnozstvi mudlu
+vencici sve ctyrnohe kamarady. Cache lze uspesne odlovit i v noci
+za svitu mesice a baterky a zejmena za nepritomnosti rusivych
+elementu. Prosim o dusledne zamaskovani cache.</groundspeak:long_description>
+			<groundspeak:encoded_hints></groundspeak:encoded_hints>
+			<groundspeak:logs>
+				<groundspeak:log id="70405580" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2009-05-10T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="948fab93-b672-4e56-bbbc-e4a0a98ec653" cpTotalFound="203">jenufa</groundspeak:finder>
+					<groundspeak:text encoded="False">10.5.2009 - jenufa - 11:15&lt;br&gt;D&#237;ky za ke&#353;ku. Odloveno pri proch&#225;zce na Palack&#233;ho vrchu.&lt;br&gt;TNLN</groundspeak:text></groundspeak:log>
+				<groundspeak:log id="70316400" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2009-05-09T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="17408efe-2b9b-4bbb-8ace-44ba6c29048e" cpTotalFound="36">Gerbeross</groundspeak:finder>
+					<groundspeak:text encoded="False">D&#237;ky za ke&#353;,odloveno spolecne s eipa.</groundspeak:text></groundspeak:log>
+				<groundspeak:log id="70225099" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2009-05-08T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="78813acc-01ec-4c82-b019-5b033a61acc4" cpTotalFound="101">eipa</groundspeak:finder>
+					<groundspeak:text encoded="False">Uplne bez signalu odloveno metodou BT - bez problemu!&lt;br&gt;odloveno s Gerberossem.&lt;br&gt;no.100</groundspeak:text></groundspeak:log>
+				<groundspeak:log id="66792115" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2009-04-06T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="c172b9f6-328a-4459-9300-8da4730f047a" cpTotalFound="155">_peno</groundspeak:finder>
+					<groundspeak:text encoded="False">#133 18:45 IN: - OUT: -&lt;br&gt;Nalezeno rychle. Okolo dost mudlu. Dolu z kopce dobry downhill na kole! :)) Dik a lovu zdar!</groundspeak:text></groundspeak:log></groundspeak:logs>
+			<groundspeak:travelbugs></groundspeak:travelbugs>
+			<cp:HintRev></cp:HintRev>
+			<cp:Errors></cp:Errors>
+			<cp:AdditionalWaypoints>
+				<cp:AdditionalWaypoint latit="49.225116666666665" longtit="16.56765" WID="ca603633-5b9c-43bf-b21d-bf01b12cef10">
+					<cp:Available img="http://www.geocaching.com/images/icons/icon_viewable.jpg">available</cp:Available>
+					<cp:Type img="http://www.geocaching.com/images/wpttypes/sm/waypoint.jpg">Reference Point</cp:Type>
+					<cp:Name lookup="PO" prefix="PO">pomnik</cp:Name>
+					<cp:Note></cp:Note></cp:AdditionalWaypoint></cp:AdditionalWaypoints>
+			<cp:Images></cp:Images>
+		</groundspeak:cache>
+	</wpt>
+	<wpt lat="49.2249167" lon="16.5617500">
+		<time>2008-01-08T00:00:00.0000000+0100</time>
+		<name>GC18FA7</name>
+		<cmt>TS22</cmt>
+		<desc>Retencni nadrz - Kominsky potok</desc>
+		<sym>Geocache Found</sym>
+		<type>Geocache</type>
+		<groundspeak:cache id="765461" guid="514b6258-5d87-4131-a74d-9cb10ab9bcee" cpWPT="GC18FA7" available="True" archived="False" cpCoords="N 49&#176;13.495' E 016&#176;33.705'">
+			<groundspeak:name>Retencni nadrz - Kominsky potok</groundspeak:name>
+			<groundspeak:lastUpdated>2009-05-07T05:57:14.0000000+0200</groundspeak:lastUpdated>
+			<groundspeak:exported>2009-05-12T12:41:16.0000765+0200</groundspeak:exported>
+			<groundspeak:placed_by>xxmz</groundspeak:placed_by>
+			<groundspeak:owner guid="7a7b46bb-e673-4508-9ac6-0f8b7c73f7bc" cpHidden="2008-01-08T00:00:00.0000000+0100">xxmz</groundspeak:owner>
+			<groundspeak:type>Traditional Cache</groundspeak:type>
+			<groundspeak:container>Small</groundspeak:container>
+			<groundspeak:attributes>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/wheelchair-no.gif">not wheelchair accessible</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/bicycles-yes.gif">bikes allowed</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/public-yes.gif">public transit available</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/parking-yes.gif">parking available</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/dogs-yes.gif">dogs allowed</groundspeak:attribute></groundspeak:attributes>
+			<groundspeak:difficulty>2</groundspeak:difficulty>
+			<groundspeak:terrain>2</groundspeak:terrain>
+			<groundspeak:country>Czech Republic</groundspeak:country>
+			<groundspeak:state>Czech Republic</groundspeak:state>
+			<groundspeak:short_description html="True">Tato cache nas zavede k zajimave stavbe retencni nadrze lezici na
+Kominskem potoce.</groundspeak:short_description>
+			<groundspeak:long_description html="True">Kominsky potok je prirozenou vodoteci priblizne delky 5,1 km
+tekouci od Medlanek jiznim smerem az k novemu sidlisti Brno-Komin,
+je z casti zatrubnen (v delce cca 1000m)zbytek
+&lt;br&gt;
+ma priblizne lichobeznikovy tvar koryta prirodniho charakteru.
+Tento usek konci retencni nadrzi, jejiz dno je vyuzivano jako
+hriste. Po vetsinu roku ma potok minimalni prutok, avsak pri
+vyraznejsich srazkach muze dojit (vzhledem k charakteru povodi) k
+prudkemu narustu prutoku az na desivych 20m3/s pri stolete vode.
+Tyto prutoky jiz neni mozne bezpecne odvest zatrubnenou casti
+potoka pod ctvrti Komin do Svratky. Bez retencni nadrze by si
+pravdepodobne velka cast povodnoveho prutoku nasla cestu do Svratky
+mezi kominskymi domy.
+
+&lt;br&gt;Vyustni trat tj. od vytokoveho objektu retencni nadrze po
+zausteni do Svratky, je v delce 930 m z trub prumeru 80 cm po
+Absolonovu ul. Dale je koryto v opernych zdech po ul.
+Kninicskou,
+&lt;br&gt;
+pod ni je kratky usek lichobeznikoveho opevneneho koryta s natokem
+do zatrubnene casti
+&lt;br&gt;
+pod tenisovymi kurty az do Svratky (vyust prumeru 100 cm).
+
+&lt;br&gt;Zajimavosti je, ze v delce cca 1,8 km zaustuje do koryta potoka
+(asi 550 m nad retencni nadrzi) bezpecnostni prepad z podzemniho
+vodojemu na " Palackeho vrchu ".
+
+&lt;br&gt;V oblasti je mnohdy velke mnozstvi pejskaru a zdivocelych
+chlapcu (BMX) na dne nadrze (hriste). Dbejte tedy prosim pri
+vyzvedavani cache zvysene opatrnosti.
+
+&lt;br&gt;Na zaver doplnim drobnou poznamku: Je znamo ze po vrstevnici se
+chodi o neco lepe nez do kopce a z kopce....</groundspeak:long_description>
+			<groundspeak:encoded_hints>Ve strani nad vtokovym objektem, pod korenem a kamenem.</groundspeak:encoded_hints>
+			<groundspeak:logs>
+				<groundspeak:log id="70128076" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2009-05-03T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="669c2f30-b274-4c40-9249-a48bf27fe837" cpTotalFound="42">Tadeassek</groundspeak:finder>
+					<groundspeak:text encoded="False">nalezeno naprosto v pohode, pri ceste zpet,ale p&#237;chnut&#225; pneumatika :D to byl zas den =) d&#237;ky =)</groundspeak:text></groundspeak:log>
+				<groundspeak:log id="69873383" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2009-05-03T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="3d728f53-5eee-4d21-8526-0199fd34853c" cpTotalFound="505">Lucka a Ondra</groundspeak:finder>
+					<groundspeak:text encoded="False">Nalezeno v pohode. D&#237;ky.&lt;br&gt;OUT: GC</groundspeak:text></groundspeak:log>
+				<groundspeak:log id="69797762" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2009-05-03T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="469049f0-f3e0-4ed3-857b-956856ae1870" cpTotalFound="90">Arne1</groundspeak:finder>
+					<groundspeak:text encoded="False">#37 13:55 Pekn&#225; ke&#353;ka, d&#237;ky. IN/OUT:0</groundspeak:text></groundspeak:log>
+				<groundspeak:log id="47079194" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2008-06-23T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="c172b9f6-328a-4459-9300-8da4730f047a" cpTotalFound="155">_peno</groundspeak:finder>
+					<groundspeak:text encoded="False">#40 20:50 IN: - OUT: -&lt;br&gt;Odloveno bez potizi. Pekna kes, ale mohla by byt klidne vetsi ;) Mistni BMX hriste je zjevne neudrzovany, je to tam dost zarostly, nedokazu si predstavit, jak tam nekdo skace na tech skockach. Skoda... Diky a lovu zdar!</groundspeak:text></groundspeak:log></groundspeak:logs>
+			<groundspeak:travelbugs></groundspeak:travelbugs>
+			<cp:HintRev>.menemak a menerok dop ,metkejbo myvokotv dan inarts eV</cp:HintRev>
+			<cp:Errors></cp:Errors>
+			<cp:AdditionalWaypoints></cp:AdditionalWaypoints>
+			<cp:Images></cp:Images>
+		</groundspeak:cache>
+	</wpt>
+	<wpt lat="49.2388000" lon="16.5685500">
+		<time>2008-03-16T00:00:00.0000000+0100</time>
+		<name>GC18N58</name>
+		<cmt>TM12</cmt>
+		<desc>Kouzelne Medlanky</desc>
+		<sym>Geocache Found</sym>
+		<type>Geocache</type>
+		<groundspeak:cache id="771073" guid="511537fb-01ec-4f09-8b91-af186a061b2c" cpWPT="GC18N58" available="True" archived="False" cpCoords="N 49&#176;14.328' E 016&#176;34.113'">
+			<groundspeak:name>Kouzelne Medlanky</groundspeak:name>
+			<groundspeak:lastUpdated>2009-05-08T17:00:50.0000000+0200</groundspeak:lastUpdated>
+			<groundspeak:exported>2009-05-12T12:41:17.0000000+0200</groundspeak:exported>
+			<groundspeak:placed_by>wendabr</groundspeak:placed_by>
+			<groundspeak:owner guid="5178dadc-d5a2-49a3-9fd7-aea36b8a7087" cpHidden="2008-03-16T00:00:00.0000000+0100">wendabr</groundspeak:owner>
+			<groundspeak:type>Traditional Cache</groundspeak:type>
+			<groundspeak:container>Micro</groundspeak:container>
+			<groundspeak:attributes>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/bicycles-no.gif">no bikes</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/scenic-yes.gif">scenic view</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/kids-yes.gif">kid friendly</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/available-yes.gif">available 24-7</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/dogs-yes.gif">dogs allowed</groundspeak:attribute></groundspeak:attributes>
+			<groundspeak:difficulty>1</groundspeak:difficulty>
+			<groundspeak:terrain>2</groundspeak:terrain>
+			<groundspeak:country>Czech Republic</groundspeak:country>
+			<groundspeak:state>Czech Republic</groundspeak:state>
+			<groundspeak:short_description html="True"></groundspeak:short_description>
+			<groundspeak:long_description html="True">&lt;BLOCKED_img src="http://img.geocaching.com/cache/3a726bf3-16d0-49ee-8c40-ee0b608fb28e.jpg"
+     alt="Mame radi kraj, kde bydlime..." /&gt;
+
+&lt;br&gt;
+&lt;div&gt;
+
+&lt;br&gt;Medl&#225;nky jsou historick&#225; obec a tak&#233; mestsk&#225; c&#225;st o rozloze 352
+hektaru, rozkl&#225;daj&#237;c&#237; se na severu statut&#225;rn&#237;ho mesta Brna v tesn&#233;m
+sousedstv&#237; s Kr&#225;lov&#253;m Polem a Reckovicemi. Dne&#353;n&#237; Medl&#225;nky pre&#353;ly k
+deminutivu (zdrobnel&#233;mu n&#225;zvu) a&#382; sekund&#225;rne, nejstar&#353;&#237; doklad k r.
+1237 zminuje majetky z Medlan a svedc&#237; o puvodn&#237; podobe n&#225;zvu obce
+jako Medlany.
+
+&lt;br&gt;Moravsk&#233; vesnice byly zakl&#225;d&#225;ny v nekolika kolonizacn&#237;ch etap&#225;ch
+tzv. lok&#225;tory, povolan&#253;mi vrchnost&#237; ci majiteli zeme. O presn&#253;ch
+m&#237;r&#225;ch d&#233;lkov&#253;ch ci casov&#253;ch si v tehdej&#353;&#237; dobe mu&#382;eme nechat jen
+zd&#225;t, casto i roky byly odhadov&#225;ny a nar&#237;zen&#237; o dusledn&#233;m veden&#237;
+obecn&#237;ch knih pri&#353;lo a&#382; o nekolik stolet&#237; pozdeji. Jen m&#225;lo obc&#237;
+tak zn&#225; presnej&#353;&#237; term&#237;n sv&#233;ho zalo&#382;en&#237;, zbyl&#233; vesnice a mesta
+dokl&#225;daj&#237; sv&#225; st&#225;r&#237; prvn&#237; arch&#237;vn&#237; listinou, kter&#225; se jich (v
+jak&#233;mkoli smyslu) dot&#253;k&#225;. Spr&#225;vn&#233; je tak nemluvit o st&#225;r&#237; obce, ale
+o prvn&#237; p&#237;semn&#233; zm&#237;nce o n&#237;. Zat&#237;m nedok&#225;&#382;eme presneji urcit
+obdob&#237;, ve kter&#233;m byla obec zalo&#382;ena. Na &#250;zem&#237; Moravy je ostatne
+velmi m&#225;lo mest a vesnic, kter&#225; mohou dok&#225;zat svuj poc&#225;tek podle
+urcit&#233; zakl&#225;dac&#237; listiny. P&#237;semn&#233; odkazy na Medl&#225;nky v archiv&#225;li&#237;ch
+je ale nutno preb&#237;rat opatrne, nebot na &#250;zem&#237; Moravy se nach&#225;z&#237;
+dal&#353;&#237; obce se shodn&#253;m n&#225;zvem a je dule&#382;it&#233; rozli&#353;it, o kterou z
+nich v ka&#382;d&#233;m konkr&#233;tn&#237;m p&#237;semn&#233;m dokumentu &#353;lo. Nejcastej&#353;&#237; z&#225;meny
+jmen v historick&#253;ch listin&#225;ch budou m&#237;t &#8221;na svedom&#237;&#8221; zrejme tri
+obce - Medlov na okrese Kromer&#237;&#382; a Olomouc a hlavne Medlov pobl&#237;&#382;e
+&#381;idlochovic. Dal&#353;&#237; Medlov s pomerne zn&#225;mou histori&#237; se nach&#225;z&#237; SZ
+od Nov&#233;ho Mesta na Morave, pobl&#237;&#382; velk&#233;ho Medlovsk&#233;ho rybn&#237;ka.
+
+&lt;br&gt;
+&lt;BLOCKED_img src="http://img.geocaching.com/cache/84934d32-cd36-48bc-9656-678930753bbf.jpg"
+     alt="Listina kr&#225;le V&#225;clav (1237)" /&gt;
+
+&lt;br&gt;&#218;zem&#237; pod&#233;l Medl&#225;neck&#233;ho potoka je soustavne os&#237;dlen&#233; pribli&#382;ne
+ji&#382; od doby bronzov&#233; (okolo roku 2000 pred na&#353;&#237;m letopoctem), prvn&#237;
+dochovan&#233; p&#237;semn&#233; zm&#237;nky o obci poch&#225;z&#237; z roku 1237. V prubehu veku
+obec menila majitele, postupne zde vyrostl pansk&#253; dvur, barokn&#237;
+z&#225;mek, vzniknul a zaniknul pivovar a v roce 1919 byla pripojena k
+Brnu. Proto&#382;e se Medl&#225;nky a&#382; do roku 1918 t&#233;mer nerozrustaly,
+zustalo puvodn&#237; centrum obce, tvoren&#233; kr&#225;tkou a strme stoupaj&#237;c&#237;
+ulic&#237; Kytnerovou, pomerne dobre zachovan&#233; a&#382; do dne&#353;n&#237; doby.
+Dokladem toho jsou nejen ji&#382; zm&#237;nen&#233; objekty z&#225;mku a b&#253;val&#233;ho
+pansk&#233;ho dvora ale i hranolovit&#225; zvonicka.
+
+&lt;br&gt;
+&lt;BLOCKED_img src="http://img.geocaching.com/cache/3073fb45-51f4-4028-a38b-6e100a51a7a3.jpg"
+     alt="Star&#225; vojensk&#225; mapa Medl&#225;nek" /&gt;
+
+&lt;br&gt;&lt;BLOCKED_font size="2"&gt;&lt;strong&gt;obr. 2 - Star&#225; mapa
+Medl&#225;nek, vytvoren&#225; na vojensk&#233;m z&#225;klade&lt;/strong&gt;&lt;/BLOCKED_font&gt;
+
+&lt;br&gt;Kdy&#382; prijedete do Brna a budete m&#237;t chv&#237;li casu nazbyt, zajdete
+se proto pod&#237;vat do jedn&#233; z nejmen&#353;&#237;ch mestsk&#253;ch c&#225;st&#237;, Medl&#225;nek.
+Dostanete se tak do okrajov&#233; c&#225;sti mesta, kter&#225; i pres to, &#382;e zde
+s&#237;dl&#237; tramvajov&#225; i autobusov&#225; vozovna dopravn&#237;ho podniku a c&#225;st
+technologick&#233;ho parku, nen&#237; dosud zamoren&#225; hypermarkety a
+prumyslov&#253;mi z&#243;nami, ale &#8222;pouze&#8220; opakovanou pr&#237;stavbou
+rozrustaj&#237;c&#237;ho se satelitn&#237;ho mestecka. V tomto prostoru bylo pred
+zah&#225;jen&#237;m v&#253;stavby pole a z&#225;roven obl&#237;ben&#233; m&#237;sto pro zimn&#237; behy na
+ly&#382;&#237;ch, kde se dalo jezdit i za &#353;era. Vesnice zde pres zemedelskou
+krajinu a zahr&#225;dk&#225;rsk&#233; kolonie prech&#225;z&#237; do zalesnen&#233;ho okol&#237; Baby a
+dosud zde zustalo zachov&#225;no mno&#382;stv&#237; cenn&#253;ch pr&#237;rodn&#237;ch
+lokalit.
+
+&lt;br&gt;Poc&#225;tkem 21. stolet&#237; vyrostlo na b&#253;val&#253;ch pol&#237;ch mezi Medl&#225;nkami
+a Reckovicemi nekolik velk&#253;ch bytov&#253;ch domu, naz&#253;van&#253;ch v ruzn&#253;ch
+etap&#225;ch ruzne. Nejstar&#353;&#237;, nejbl&#237;&#382;e reckovick&#253;m kas&#225;rn&#225;m jsou Duhov&#225;
+pole, kter&#233; pozn&#225;te podle v&#353;elijak&#253;ch barevn&#253;ch fas&#225;d. Po nich byly
+dostaveny nejdr&#237;ve domy, patr&#237;c&#237; pod Kouzeln&#233; Medl&#225;nky I, pozdeji i
+Kouzeln&#233; Medl&#225;nky II a&#382; IV. V&#253;stavba bytov&#233;ho souboru Nov&#233; Medl&#225;nky
+byla zah&#225;jena 31.1.2005 na tzv. "zelen&#233; louce" na &#250;zem&#237; mestsk&#233;
+c&#225;sti Brno-Medl&#225;nky a to na ji&#382;n&#237;m svahu pod Duhov&#253;mi Poli v
+Reckovic&#237;ch pod ulic&#237; Duhovou s v&#253;hledem na volnou okoln&#237; krajinu.
+Bytov&#253; soubor se skl&#225;d&#225; z bloku A a&#382; F.
+
+&lt;br&gt;
+&lt;BLOCKED_img src="http://img.geocaching.com/cache/37e2a26e-eb83-4e8f-8e7c-5ff20e164429.jpg"
+     alt="Satelitn&#237; mestecko" /&gt;
+
+&lt;br&gt;&lt;BLOCKED_font size="2"&gt;&lt;strong&gt;obr. 3 - Satelitn&#237;
+mestecko mezi Medl&#225;nkami a Reckovicemi
+&lt;br&gt;
+(v popred&#237; Kouzeln&#233; Medl&#225;nky, v pozad&#237; Duhov&#225; pole, za nimi b&#253;val&#225;
+reckovick&#225; kas&#225;rna)&lt;/strong&gt;&lt;/BLOCKED_font&gt;
+
+&lt;br&gt;Tato cache je um&#237;stena pobl&#237;&#382; jednoho z vyhl&#237;dkov&#253;ch m&#237;st, odkud
+je pr&#225;ve na tuto novou medl&#225;neckou z&#225;stavbu dobre videt. (V logu se
+mu&#382;ete vyj&#225;drit k problematice satelitn&#237;ch mestecek).
+
+&lt;br&gt;Pokud n&#225;s chcete nav&#353;t&#237;vit, doporucuji t&#233;&#382; nekolik dal&#353;&#237;ch
+skr&#253;&#353;&#237; v na&#353;em katastru nebo jeho bl&#237;zkosti:
+
+&lt;br&gt;
+&lt;BLOCKED_a href="http://www.geocaching.com/seek/cache_details.aspx?guid=32096a4f-cb98-4b31-b751-f7eb3b9623f9"&gt;
+GC17N53&lt;/BLOCKED_a&gt; SOS vesnicka
+
+&lt;br&gt;
+&lt;BLOCKED_a href="http://www.geocaching.com/seek/cache_details.aspx?guid=73acbaea-df60-4465-a86b-95227d480843"&gt;
+GCQ6GB&lt;/BLOCKED_a&gt; Medlanecke kopce
+
+&lt;br&gt;
+&lt;BLOCKED_a href="http://www.geocaching.com/seek/cache_details.aspx?guid=45b73ba9-83e7-4c9a-b617-2bf48b82002e"&gt;
+GC14HV1&lt;/BLOCKED_a&gt; BMC16 &#8211; Medlanky
+
+&lt;br&gt;
+&lt;BLOCKED_a href="http://www.geocaching.com/seek/cache_details.aspx?guid=e36bfbb6-5ba0-4d06-9d6c-3bd04226fbc4"&gt;
+GCY75W&lt;/BLOCKED_a&gt; (letiste) Medlanky
+
+&lt;br&gt;
+&lt;BLOCKED_a href="http://www.geocaching.com/seek/cache_details.aspx?guid=ec1e10b8-2841-48f5-b7eb-855a9f8b81f3"&gt;
+GCZAZC&lt;/BLOCKED_a&gt; Kakuro cache
+
+&lt;br&gt;&lt;i&gt;Bl&#237;zk&#253; vrchol men&#353;&#237;cho medl&#225;neck&#233;ho kopce
+tvor&#237; ochranou z&#243;nu chr&#225;nen&#233; krajiny, kvuli kter&#233; byla dokonce
+odklonena i turistick&#225; cesta okolo kopce. Vlastn&#237; cache je zduvodu
+ochrany ulo&#382;ena mimo chr&#225;nen&#253; vrchol a nach&#225;z&#237; se pr&#237;mo u cesty.
+Smerem k vrcholu nen&#237; treba chodit, proto tam mimo cestu
+&lt;BLOCKED_font color="#ff0000"&gt;&lt;strong&gt;NEVSTUPUJTE!!!.&lt;/strong&gt;&lt;/BLOCKED_font&gt;Ochrana
+je zavedena kvuli rostlin&#225;m, zvl&#225;&#353;te pro jarn&#237; obdob&#237;).&lt;/i&gt;
+
+&lt;br&gt;&lt;BLOCKED_font color="#10A648"&gt;Nov&#225; pozn&#225;mka pro ty, co se nechtej&#237;
+prod&#237;rat trn&#237;m... Prectete si, pros&#237;m, log TEDDYSe ze 17.3. a pokud
+m&#225;te jen Garmina, vezte, &#382;e na MAPY.CZ ta cesta je a pr&#237;mo se tam
+d&#225; dostat od waypointu parkovi&#353;te, pres druh&#253; waypoint s pekn&#253;m
+v&#253;hledem...&lt;/BLOCKED_font&gt;&lt;/div&gt;</groundspeak:long_description>
+			<groundspeak:encoded_hints>M&#225; kolem sebe brnen&#237; a kouk&#225; na svet z v&#253;&#353;ky, chr&#225;nen&#225; &#353;&#237;pkov&#253;m kerem...</groundspeak:encoded_hints>
+			<groundspeak:logs>
+				<groundspeak:log id="70215709" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2009-05-08T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="9a559662-a6b8-491c-9616-1cb598b4c817" cpTotalFound="134">Simons@Brno</groundspeak:finder>
+					<groundspeak:text encoded="False">Hint naprosto jasne urcil, co hled&#225;m, tak&#382;e nalezena na prvn&#237; s&#225;hnut&#237;. D&#237;ky za hezkou proch&#225;zku, kterou jsem si prot&#225;hl a&#382; na leti&#353;te... a taky za ke&#353;. Kuba</groundspeak:text></groundspeak:log>
+				<groundspeak:log id="70215024" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2009-05-08T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="44c8a318-fa8f-4e09-b916-4d1ec3b32afc" cpTotalFound="134">uvv</groundspeak:finder>
+					<groundspeak:text encoded="False">-</groundspeak:text></groundspeak:log>
+				<groundspeak:log id="70075905" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2009-05-06T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="9afbf43f-4f9f-48eb-8269-e60c2a0699f9" cpTotalFound="687">panptakopysk</groundspeak:finder>
+					<groundspeak:text encoded="False">Tak konecne, uz jseM tady byl jednou a vzdal jsme poctu prezidentu Bushovi naprosto zbytecne :-)&lt;br&gt;Diky za kes!</groundspeak:text></groundspeak:log>
+				<groundspeak:log id="68769025" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2009-04-24T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="c172b9f6-328a-4459-9300-8da4730f047a" cpTotalFound="155">_peno</groundspeak:finder>
+					<groundspeak:text encoded="False">#150 20:00 IN: - OUT: -&lt;br&gt;Tak konecne nalezeno, asi napotreti, po male napovede geokolegy, ktereho jsem potkal na Netoperkach. Predtim jsem hledal uplne jinde. Nechal jsem se prilis osalit hintem. Dik za kes a lovu zdar!</groundspeak:text></groundspeak:log></groundspeak:logs>
+			<groundspeak:travelbugs></groundspeak:travelbugs>
+			<cp:HintRev>...merek m&#253;vokp&#237;&#353; &#225;nen&#225;rhc ,yk&#353;&#253;v z tevs an &#225;kuok a &#237;nenrb ebes melok &#225;M</cp:HintRev>
+			<cp:Errors></cp:Errors>
+			<cp:AdditionalWaypoints>
+				<cp:AdditionalWaypoint latit="49.24066666666667" longtit="16.5732" WID="8adef85b-f19b-4252-b327-c650edb18cba">
+					<cp:Available img="http://www.geocaching.com/images/icons/icon_viewable.jpg">available</cp:Available>
+					<cp:Type img="http://www.geocaching.com/images/wpttypes/sm/pkg.jpg">Parking Area</cp:Type>
+					<cp:Name lookup="62100" prefix="ME">PA18N58</cp:Name>
+					<cp:Note></cp:Note></cp:AdditionalWaypoint>
+				<cp:AdditionalWaypoint latit="49.238733333333336" longtit="16.569683333333334" WID="4ebcdbdd-0712-4a15-82ef-676010cc3379">
+					<cp:Available img="http://www.geocaching.com/images/icons/icon_viewable.jpg">available</cp:Available>
+					<cp:Type img="http://www.geocaching.com/images/wpttypes/sm/waypoint.jpg">Reference Point</cp:Type>
+					<cp:Name lookup="62101" prefix="PE">RP18N58</cp:Name>
+					<cp:Note></cp:Note></cp:AdditionalWaypoint></cp:AdditionalWaypoints>
+			<cp:Images>
+				<cp:Image IID="84934d32-cd36-48bc-9656-678930753bbf">
+					<cp:Name>Listina kr&amp;#225;le V&amp;#225;clava (1237)</cp:Name>
+					<cp:Note></cp:Note></cp:Image>
+				<cp:Image IID="3a726bf3-16d0-49ee-8c40-ee0b608fb28e">
+					<cp:Name>logo</cp:Name>
+					<cp:Note></cp:Note></cp:Image>
+				<cp:Image IID="37e2a26e-eb83-4e8f-8e7c-5ff20e164429">
+					<cp:Name>satelitn&amp;#237; mestecko</cp:Name>
+					<cp:Note></cp:Note></cp:Image>
+				<cp:Image IID="3073fb45-51f4-4028-a38b-6e100a51a7a3">
+					<cp:Name>stara-vojenska-mapa-Medlanek</cp:Name>
+					<cp:Note></cp:Note></cp:Image></cp:Images></groundspeak:cache></wpt>
+	<wpt lat="49.2261000" lon="16.5812833">
+		<time>2009-02-06T00:00:00.0000000+0100</time>
+		<name>GC1MEAE</name>
+		<cmt>UM21</cmt>
+		<desc>Unix Timestamp</desc>
+		<sym>Geocache</sym>
+		<type>Geocache</type>
+		<groundspeak:cache id="1121999" guid="93fca078-b0bf-44c8-8c1c-2811375ec3c7" cpWPT="GC1MEAE" available="True" archived="False" cpCoords="N 49&#176;13.566' E 016&#176;34.877'">
+			<groundspeak:name>Unix Timestamp</groundspeak:name>
+			<groundspeak:lastUpdated>2009-05-11T23:18:39.0000000+0200</groundspeak:lastUpdated>
+			<groundspeak:exported>2009-05-12T12:41:17.0000109+0200</groundspeak:exported>
+			<groundspeak:placed_by>niximor</groundspeak:placed_by>
+			<groundspeak:owner guid="67ded838-a9e4-4619-9c5d-e2aafaf8b21e" cpHidden="2009-02-06T00:00:00.0000000+0100">niximor</groundspeak:owner>
+			<groundspeak:type>Unknown Cache</groundspeak:type>
+			<groundspeak:container>Micro</groundspeak:container>
+			<groundspeak:attributes>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/stealth-yes.gif">stealth required</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/winter-yes.gif">available in winter</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/night-yes.gif">recommended at night</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/available-yes.gif">available 24-7</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/bicycles-yes.gif">bikes allowed</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/onehour-yes.gif">takes less than 1  hour</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/public-yes.gif">public transit available</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/parking-yes.gif">parking available</groundspeak:attribute></groundspeak:attributes>
+			<groundspeak:difficulty>2</groundspeak:difficulty>
+			<groundspeak:terrain>1.5</groundspeak:terrain>
+			<groundspeak:country>Czech Republic</groundspeak:country>
+			<groundspeak:state>Czech Republic</groundspeak:state>
+			<groundspeak:short_description html="True"></groundspeak:short_description>
+			<groundspeak:long_description html="True">&lt;BLOCKED_img src="http://img.geocaching.com/cache/08ed49cd-5502-41e6-8de6-99fab88d775c.jpg"
+     align="left" alt="hodiny" style="margin-right: 1em" /&gt;
+     &lt;BLOCKED_img src="http://img.geocaching.com/cache/dde55c6c-d9b5-42e7-ba2d-2f140fae827b.jpg"
+     align="right" alt="tux" /&gt; 
+
+&lt;br&gt;&lt;BLOCKED_font color="red"&gt;&lt;strong&gt;Na &#250;vodn&#237;ch souradnic&#237;ch cache
+nehledejte!&lt;/strong&gt;&lt;/BLOCKED_font&gt;
+&lt;br&gt;
+Nach&#225;z&#237; se tam budova firmy RedHat, zab&#253;vaj&#237;c&#237; se v&#253;vojem Linuxu,
+ve kter&#233;m se Unix Timestamp pou&#382;&#237;v&#225; jako intern&#237; reprezentace casu.
+Samotn&#225; cache se nach&#225;z&#237; nedaleko pobliz, nedaleko pravdepodobne
+nejvetsich hodin v Brne, a pro jej&#237; nalezen&#237; budete muset vylu&#353;tit
+jednoduchou &#353;ifru.
+&lt;big&gt;&lt;strong&gt;Unix Timestamp&lt;/strong&gt;&lt;/big&gt;
+&lt;br&gt;Unix Timestamp je zpusob reprezentace casu hojne pou&#382;&#237;van&#253; v
+poc&#237;tacov&#253;ch syst&#233;mech. Je reprezentov&#225;n jedin&#253;m c&#237;slem, kter&#233;
+vyjadruje &lt;strong&gt;pocet sekund uplynul&#253;ch od 1.1.1970
+0:00:00&lt;/strong&gt;, co&#382; je datum, kter&#233; je pova&#382;ov&#225;no za vznik
+Unixu.
+
+&lt;br&gt;S casem reprezentovan&#253;m jedin&#253;m cel&#253;m c&#237;slem se velice dobre v
+programech pracuje. Nen&#237; &#382;&#225;dn&#253; probl&#233;m pric&#237;st urcit&#253; casov&#253; &#250;sek,
+odec&#237;st, zjistit dobu trv&#225;n&#237; nejak&#233; akce, ... Proste pro poc&#237;tace
+t&#233;mer ide&#225;ln&#237;. Probl&#233;m je, &#382;e takov&#233; c&#237;slo je neciteln&#233; pro cloveka
+a proto se be&#382;ne prev&#225;d&#237; na citeln&#253; form&#225;t.
+
+&lt;br&gt;A proc zrovna cache t&#253;kaj&#237;c&#237; se nejak&#233;ho podivn&#233;ho c&#237;sla, kter&#233;
+se nav&#237;c ka&#382;dou vterinu zvy&#353;uje? Bl&#237;&#382;&#237; se toti&#382; jeden velice
+zaj&#237;mav&#253; casov&#253; &#250;sek, kdy jeho hodnota dos&#225;hne c&#237;sla 1234567890. V
+na&#353;em casov&#233;m p&#225;smu to bude konkr&#233;tne 14.2.2009 0:31:30.
+
+&lt;br&gt;Unix timestamp nijak &lt;strong&gt;nere&#353;&#237; casov&#233; z&#243;ny&lt;/strong&gt;. Poc&#237;t&#225;
+se se z&#243;nou GMT, tedy s posunem 0 hodin vuci greenwichi. Je tak
+zaji&#353;teno, &#382;e v&#382;dy na cel&#233;m svete je hodnota stejn&#225;, &lt;strong&gt;a
+prevod na konkr&#233;tn&#237; clovekem citeln&#253; cas se prov&#225;d&#237; pr&#225;ve s
+prihl&#233;dnut&#237;m ke konkr&#233;tn&#237; casov&#233; z&#243;ne&lt;/strong&gt;.
+
+&lt;br&gt;Pojdme se pod&#237;vat je&#353;te na nejak&#225; dal&#353;&#237; zaj&#237;mav&#225; data, kdy byl
+nebo bude unix timestamp nec&#237;m zaj&#237;mav&#253;:
+&lt;BLOCKED_ul&gt;
+&lt;li&gt;1.1.1970 1:00:00 SEC - poc&#225;tek unix timestampu (hodnota 0) v
+na&#353;ich zemepisn&#253;ch &#353;&#237;rk&#225;ch&lt;/li&gt;
+&lt;li&gt;29.11.1973 22:33:09 SELC - hodnota dos&#225;hla c&#237;sla 123456789&lt;/li&gt;
+&lt;li&gt;9.9.2001 3:46:40 SELC - hodnota 1000000000&lt;/li&gt;
+&lt;li&gt;18.3.2005 1:58:31 SEC - hodnota 1111111111&lt;/li&gt;
+&lt;li&gt;6.2.2009 22:00:00 SEC - hodnota 1233954000 - zalozeni teto
+cache :)&lt;/li&gt;
+&lt;li&gt;14.2.2009 0:19:43 SEC - hodnota 1234567183 - publikace
+kese&lt;/li&gt;
+&lt;li&gt;14.2.2009 0:31:30 SEC - hodnota 1234567890&lt;/li&gt;
+&lt;li&gt;16.2.2009 17:51:37 SEC - hodnota 0x49999999 (hexa)&lt;/li&gt;
+&lt;li&gt;18.5.2033 5:33:20 SELC - hodnota 2000000000&lt;/li&gt;
+&lt;li&gt;19.1.2038 4:14:07 SEC - hodnota dos&#225;hne maxima 32bit c&#237;sla
+(2147483647), kter&#233; se v soucasnosti be&#382;ne pro ulo&#382;en&#237; casu
+pou&#382;&#237;v&#225;. O vterinu pozdeji se "vr&#225;t&#237;" cas do roku 1970 a zacne se
+poc&#237;tat znovu od 0 - alespon v tech programech, kter&#233; na to nebudou
+pripraveny.&lt;/li&gt;&lt;/BLOCKED_ul&gt;
+
+&lt;br&gt;Tolik neco m&#225;lo k tomuto zaj&#237;mav&#233;mu c&#237;slu.
+&lt;h2&gt;Cache&lt;/h2&gt;
+
+&lt;br&gt;
+Cache se nach&#225;z&#237; na techto souradnic&#237;ch: 
+
+&lt;br&gt;&lt;big&gt;&lt;strong&gt;N 26.2.1970 21:55:13 SEC
+&lt;br&gt;
+E 19.1.1970 23:09:04 SEC&lt;/strong&gt;&lt;/big&gt;
+
+&lt;br&gt;Pokud jste cetli listing, urcite tu&#353;&#237;te, co s t&#237;m. Pri
+vyzved&#225;v&#225;n&#237; cache nen&#237; potreba l&#233;zt za plot (i kdy&#382; je v nem d&#237;ra),
+v&#353;e se d&#225; odlovit z verejne pr&#237;stupn&#233;ho m&#237;sta.
+&lt;BLOCKED_font color="red"&gt;Cache neobsahuje tu&#382;ku!&lt;/BLOCKED_font&gt;
+
+&lt;br&gt;
+&lt;BLOCKED_a href="http://evince.locusprime.net/cgi-bin/index.cgi?q=jE29NRySdOc609eTqPD-RFGFvxYCLCWRVja"&gt;
+&lt;BLOCKED_img src="http://evince.locusprime.net/images/evince-logo_sm.png"
+border="0" alt="Click to verify coordinates"
+title="Click to verify coordinates" /&gt;&lt;/BLOCKED_a&gt;
+
+&lt;br&gt;&lt;big&gt;&lt;BLOCKED_a target="_blank"
+href="http://www.kgbrno.eu/viewpage.php?page_id=2"&gt;&lt;BLOCKED_img border="0"
+src="http://kgbrno.eu/images/seriekgb.png" width="140"
+height="140" /&gt;&lt;/BLOCKED_a&gt;&lt;/big&gt;</groundspeak:long_description>
+			<groundspeak:encoded_hints>magnet, prava cast zhruba metr dvacet nad zemi</groundspeak:encoded_hints>
+			<groundspeak:logs>
+				<groundspeak:log id="70616997" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2009-05-11T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="f4a615da-236a-4f83-9779-e5e820e3da88" cpTotalFound="474">zde</groundspeak:finder>
+					<groundspeak:text encoded="False">Pekny napad, I kdyz pro ajtaky az prilis snadne. Konecne byla prilezitost k odlovu. Diky za cache!</groundspeak:text></groundspeak:log>
+				<groundspeak:log id="70555898" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2009-05-10T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="5e45b83c-2e78-495e-a94a-f8fe87e70400" cpTotalFound="262">S474N</groundspeak:finder>
+					<groundspeak:text encoded="False">#262, 16:00&lt;br&gt;Prvni cache a zaroven posledni pri dnesnim tazeni. Nalezena obratem. TNLN&lt;br&gt;IN: nic&lt;br&gt;OUT: nic</groundspeak:text></groundspeak:log>
+				<groundspeak:log id="70555764" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2009-05-10T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="9a6adf74-64d5-4a09-8756-881a962756b0" cpTotalFound="102">Ganymade</groundspeak:finder>
+					<groundspeak:text encoded="False">Pohodov&#225; cache...d&#237;ky za ni :)</groundspeak:text></groundspeak:log></groundspeak:logs>
+			<groundspeak:travelbugs></groundspeak:travelbugs>
+			<cp:HintRev>imez dan tecavd rtem aburhz tsac avarp ,tengam</cp:HintRev>
+			<cp:Errors></cp:Errors>
+			<cp:AdditionalWaypoints></cp:AdditionalWaypoints>
+			<cp:Images>
+				<cp:Image IID="08ed49cd-5502-41e6-8de6-99fab88d775c">
+					<cp:Name>hodiny</cp:Name>
+					<cp:Note></cp:Note></cp:Image>
+				<cp:Image IID="dde55c6c-d9b5-42e7-ba2d-2f140fae827b">
+					<cp:Name>tux</cp:Name>
+					<cp:Note></cp:Note></cp:Image></cp:Images></groundspeak:cache></wpt>
+	<wpt lat="49.2236500" lon="16.5779000">
+		<time>2006-11-01T00:00:00.0000000+0100</time>
+		<name>GCZ5BD</name>
+		<cmt>TS11</cmt>
+		<desc>STUDENTOLAP</desc>
+		<sym>Geocache Found</sym>
+		<type>Geocache</type>
+		<groundspeak:cache id="487769" guid="ca1b6bf2-f952-422b-8861-dcd5e831ad7b" cpWPT="GCZ5BD" available="True" archived="False" cpCoords="N 49&#176;13.419' E 016&#176;34.674'">
+			<groundspeak:name>STUDENTOLAP</groundspeak:name>
+			<groundspeak:lastUpdated>2009-05-11T20:02:38.0000000+0200</groundspeak:lastUpdated>
+			<groundspeak:exported>2009-05-12T12:41:17.0000546+0200</groundspeak:exported>
+			<groundspeak:placed_by>Autacek</groundspeak:placed_by>
+			<groundspeak:owner guid="d53d7eb7-aa99-4007-a36c-42b5abac6321" cpHidden="2006-11-01T00:00:00.0000000+0100">Autacek</groundspeak:owner>
+			<groundspeak:type>Traditional Cache</groundspeak:type>
+			<groundspeak:container>Small</groundspeak:container>
+			<groundspeak:attributes>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/firstaid-yes.gif">needs maintenance</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/stroller-yes.gif">stroller accessible</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/winter-yes.gif">available in winter</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/night-yes.gif">recommended at night</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/motorcycles-yes.gif">motorcycles allowed</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/bicycles-yes.gif">bikes allowed</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/onehour-yes.gif">takes less than 1  hour</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/public-yes.gif">public transit available</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/parking-yes.gif">parking available</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/dogs-yes.gif">dogs allowed</groundspeak:attribute></groundspeak:attributes>
+			<groundspeak:difficulty>1.5</groundspeak:difficulty>
+			<groundspeak:terrain>1.5</groundspeak:terrain>
+			<groundspeak:country>Czech Republic</groundspeak:country>
+			<groundspeak:state>Czech Republic</groundspeak:state>
+			<groundspeak:short_description html="True"></groundspeak:short_description>
+			<groundspeak:long_description html="True">&lt;BLOCKED_a rel="nofollow"
+href="http://counter.cnw.cz/"&gt;&lt;BLOCKED_img src="http://counter.cnw.cz/charlie.cgi?Studentolap&amp;amp;5"
+     border="0" alt="CNW:Counter" /&gt;&lt;/BLOCKED_a&gt; 
+
+&lt;br&gt;
+&lt;BLOCKED_span style="font-size:10.0pt;font-family:Verdana; color:#333333"&gt;[CZE]
+Cache je ukryta bl&#237;zko budovy Fakulty strojn&#237;ho
+inzenyrstvi.&lt;/BLOCKED_span&gt;
+[ENG] Cache is hidden near building VUT Fakulta strojniho
+inzenyrstvi&lt;BLOCKED_span class="vcblt1"&gt;&lt;BLOCKED_span style="font-size:10.0pt;font-family:"
+      arial=""&gt;.&lt;/BLOCKED_span&gt;&lt;/BLOCKED_span&gt;
+&lt;br&gt;
+ &lt;BLOCKED_img src="http://img.geocaching.com/cache/1b79ec12-93cc-42fc-a1aa-2075d0d13775.jpg" /&gt;
+ 
+
+&lt;br&gt;&lt;BLOCKED_span class="vcblt1"&gt;&lt;BLOCKED_span style="font-size:10.0pt;font-family:"
+arial=""&gt;&lt;BLOCKED_a rel="nofollow"
+href="http://www.fme.vutbr.cz/"&gt;&lt;BLOCKED_span style="font-size:12.0pt; font-family:"
+      times=""
+      new=""&gt;http://www.fme.vutbr.cz/&lt;/BLOCKED_span&gt;&lt;/BLOCKED_a&gt;&lt;/BLOCKED_span&gt;&lt;/BLOCKED_span&gt;
+&lt;!-- CacheIcons --&gt;
+&lt;div align="left"&gt;
+&lt;BLOCKED_table border="0" cellpadding="0" cellspacing="0"
+style="font-size:10pt;font-family:arial;"&gt;
+&lt;BLOCKED_tr valign="middle"&gt;
+&lt;BLOCKED_td colspan="3" align="left"&gt;&lt;BLOCKED_img width="30px" height="30px"
+src="http://62.245.128.250/Servlet/GC/images/night.gif"
+alt="doporuceno pro odlov v noci"
+title="doporuceno pro odlov v noci" vspace="1" /&gt; &lt;BLOCKED_img width="30px"
+height="30px"
+src="http://62.245.128.250/Servlet/GC/images/grab.gif"
+vspace="1" /&gt; &lt;BLOCKED_img width="30px" height="30px"
+src="http://62.245.128.250/Servlet/GC/images/urban.gif"
+alt="Zajimava stavba" title="Zajimava stavba" vspace="1" /&gt;
+&lt;BLOCKED_img width="30px" height="30px"
+src="http://62.245.128.250/Servlet/GC/images/dog2.gif"
+alt="s pejskem mozno" title="s pejskem mozno" vspace="1" /&gt;
+&lt;BLOCKED_img width="30px" height="30px"
+src="http://62.245.128.250/Servlet/GC/images/time.gif"
+alt="zabere Vam to do 5ti minut" title="zabere Vam to do 5ti minut"
+vspace="1" /&gt; &lt;BLOCKED_img width="30px" height="30px"
+src="http://62.245.128.250/Servlet/GC/images/car.gif"
+alt="od auta mene nez 50 metru" title="od auta mene nez 50 metru"
+vspace="1" /&gt; &lt;BLOCKED_img width="30px" height="30px"
+src="http://62.245.128.250/Servlet/GC/images/snow_icon.gif"
+alt="dostupne i v zime" title="dostupne i v zime" vspace="1" /&gt;
+&lt;BLOCKED_img width="30px" height="30px"
+src="http://62.245.128.250/Servlet/GC/images/bike2.gif"
+alt="na kole mozno" title="na kole mozno" vspace="1" /&gt;
+&lt;BLOCKED_img width="30px" height="30px"
+src="http://62.245.128.250/Servlet/GC/images/parking.gif"
+alt="parkoviste nedaleko" title="parkoviste nedaleko" vspace="1" /&gt;
+&lt;BLOCKED_img width="30px" height="30px"
+src="http://62.245.128.250/Servlet/GC/images/pw.gif"
+alt="pozor na mudly !" title="pozor na mudly !" vspace="1" /&gt;&lt;/BLOCKED_td&gt;
+&lt;!-- /CacheIcons --&gt;&lt;/BLOCKED_tr&gt;&lt;/BLOCKED_table&gt;&lt;/div&gt;</groundspeak:long_description>
+			<groundspeak:encoded_hints></groundspeak:encoded_hints>
+			<groundspeak:logs>
+				<groundspeak:log id="70600310" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2009-05-11T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="469049f0-f3e0-4ed3-857b-956856ae1870" cpTotalFound="90">Arne1</groundspeak:finder>
+					<groundspeak:text encoded="False">#87 16:05 Dal&#353;&#237; kter&#225; &#353;la odlovit jen podle satelitn&#237; mapy. To bych nerekl &#382;e mu&#382;e b&#253;t tak kr&#225;sne schovan&#225; ke&#353; pr&#237;mo v centru nekolika tis&#237;c &#353;tud&#225;ku a zamestnancu. D&#237;ky.</groundspeak:text></groundspeak:log>
+				<groundspeak:log id="70385982" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2009-05-10T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="aeaec599-21eb-4b90-af4a-52e2c075fc47" cpTotalFound="795">RenierX</groundspeak:finder>
+					<groundspeak:text encoded="False">9:20 Rychlovka s Ostravidem. D&#237;ky.</groundspeak:text></groundspeak:log>
+				<groundspeak:log id="70492288" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2009-05-09T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="2fcd20cd-ee14-4a11-8508-40593e497c21" cpTotalFound="1203">Osik</groundspeak:finder>
+					<groundspeak:text encoded="False">#1179 11:53&lt;br&gt;Toulani po Brne s bella-donnou. Nalez asi na treti sahnuti. &lt;br&gt;Diky za kes.</groundspeak:text></groundspeak:log>
+				<groundspeak:log id="40103018" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2008-03-07T00:00:00.0000000+0100</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="c172b9f6-328a-4459-9300-8da4730f047a" cpTotalFound="155">_peno</groundspeak:finder>
+					<groundspeak:text encoded="False">#4 13:05 IN: kaminek - brouk OUT: zirafa&lt;br&gt;Nalezeno skoro hned. Mudlu prekvapive malo (taky byl patek odpoledne :D ). Skvela skrys :) Diky za kecku a LOVU ZDAR!</groundspeak:text></groundspeak:log></groundspeak:logs>
+			<groundspeak:travelbugs></groundspeak:travelbugs>
+			<cp:HintRev></cp:HintRev>
+			<cp:Errors></cp:Errors>
+			<cp:AdditionalWaypoints></cp:AdditionalWaypoints>
+			<cp:Images>
+				<cp:Image IID="1b79ec12-93cc-42fc-a1aa-2075d0d13775">
+					<cp:Name>fsifoto.jpg</cp:Name>
+					<cp:Note></cp:Note></cp:Image></cp:Images></groundspeak:cache></wpt>
+	<wpt lat="49.2333333" lon="16.5833333">
+		<time>2008-11-16T00:00:00.0000000+0100</time>
+		<name>GC1J6DB</name>
+		<cmt>UR35</cmt>
+		<desc>SEDM SEGMENTU</desc>
+		<sym>Geocache</sym>
+		<type>Geocache</type>
+		<groundspeak:cache id="1054819" guid="26430ad4-d305-417f-a9e0-c1d2fd885901" cpWPT="GC1J6DB" available="True" archived="False" cpCoords="N 49&#176;14.000' E 016&#176;35.000'">
+			<groundspeak:name>SEDM SEGMENTU</groundspeak:name>
+			<groundspeak:lastUpdated>2009-05-04T22:45:27.0000000+0200</groundspeak:lastUpdated>
+			<groundspeak:exported>2009-05-12T12:41:17.0000625+0200</groundspeak:exported>
+			<groundspeak:placed_by>ChargerTeam</groundspeak:placed_by>
+			<groundspeak:owner guid="9ffd69d7-9759-4e00-a4f9-ea8a3a2495f1" cpHidden="2008-11-16T00:00:00.0000000+0100">ChargerTeam</groundspeak:owner>
+			<groundspeak:type>Unknown Cache</groundspeak:type>
+			<groundspeak:container>Regular</groundspeak:container>
+			<groundspeak:attributes>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/parking-no.gif">no parking available</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/stealth-yes.gif">stealth required</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/onehour-yes.gif">takes less than 1  hour</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/night-yes.gif">recommended at night</groundspeak:attribute></groundspeak:attributes>
+			<groundspeak:difficulty>3</groundspeak:difficulty>
+			<groundspeak:terrain>5</groundspeak:terrain>
+			<groundspeak:country>Czech Republic</groundspeak:country>
+			<groundspeak:state>Czech Republic</groundspeak:state>
+			<groundspeak:short_description html="True"></groundspeak:short_description>
+			<groundspeak:long_description html="True">&lt;div class="Section1"&gt;
+
+&lt;br&gt;&lt;BLOCKED_span class="SpellE"&gt;&lt;b&gt;kes&lt;/b&gt;&lt;/BLOCKED_span&gt; &lt;b&gt;se
+&lt;BLOCKED_span class="SpellE"&gt;nenachazi&lt;/BLOCKED_span&gt; na v&#253;choz&#237;ch souradnic&#237;ch
+!!!&lt;/b&gt;,
+
+&lt;br&gt;&lt;BLOCKED_span class="SpellE"&gt;spravne&lt;/BLOCKED_span&gt;
+&lt;BLOCKED_span class="SpellE"&gt;souradnice&lt;/BLOCKED_span&gt; jsou
+&lt;BLOCKED_span class="SpellE"&gt;zasifrovane&lt;/BLOCKED_span&gt; zde:
+
+&lt;br&gt;
+&lt;BLOCKED_span style="mso-spacerun:yes"&gt;&amp;nbsp;&lt;/BLOCKED_span&gt;N[-145][-5]&#176;[23][-154].[-7][-5][32]
+
+&lt;br&gt;
+&lt;BLOCKED_span style="mso-spacerun:yes"&gt;&amp;nbsp;&lt;/BLOCKED_span&gt;E[23][-2]&#176;[-56][-25].[-63][-65][-5]
+
+&lt;br&gt;&lt;BLOCKED_span style="mso-spacerun:yes"&gt;&amp;nbsp;&lt;/BLOCKED_span&gt;a je
+&lt;BLOCKED_span class="SpellE"&gt;vzdalena&lt;/BLOCKED_span&gt;
+&lt;BLOCKED_span class="SpellE"&gt;mene&lt;/BLOCKED_span&gt; jak 1600m od
+&lt;BLOCKED_span class="SpellE"&gt;vychozich&lt;/BLOCKED_span&gt;
+&lt;BLOCKED_span class="SpellE"&gt;souradnic&lt;/BLOCKED_span&gt;. Toto
+&lt;BLOCKED_span class="SpellE"&gt;neni&lt;/BLOCKED_span&gt; &lt;BLOCKED_span class="SpellE"&gt;hint&lt;/BLOCKED_span&gt;
+pro BF, ale &lt;BLOCKED_span class="SpellE"&gt;info&lt;/BLOCKED_span&gt; pro
+&lt;BLOCKED_span class="SpellE"&gt;snazsi&lt;/BLOCKED_span&gt;
+&lt;BLOCKED_span class="SpellE"&gt;lusteni&lt;/BLOCKED_span&gt; ;-)
+
+&lt;br&gt;
+&lt;BLOCKED_span style="mso-spacerun:yes"&gt;&amp;nbsp;&lt;/BLOCKED_span&gt;&lt;BLOCKED_span class="SpellE"&gt;Kes&lt;/BLOCKED_span&gt;
+je &lt;BLOCKED_span class="SpellE"&gt;urcena&lt;/BLOCKED_span&gt; pro lidi co
+&lt;BLOCKED_span class="SpellE"&gt;radi&lt;/BLOCKED_span&gt; &lt;BLOCKED_span class="SpellE"&gt;lusti,
+zvladnou&lt;/BLOCKED_span&gt; 5* teren, ale hlavne dovedou byt supernenapadni ;-)
+. &lt;BLOCKED_span class="SpellE"&gt;Vyuziti&lt;/BLOCKED_span&gt; teamu, kdy jeden
+&lt;BLOCKED_span class="SpellE"&gt;lusti&lt;/BLOCKED_span&gt; a druhy leze je povoleno . Pri
+odlovu &lt;BLOCKED_span class="SpellE"&gt;krabky&lt;/BLOCKED_span&gt;
+&lt;BLOCKED_span class="SpellE"&gt;budte&lt;/BLOCKED_span&gt;
+&lt;BLOCKED_span class="SpellE"&gt;opatrni&lt;/BLOCKED_span&gt;,
+&lt;BLOCKED_span class="SpellE"&gt;doporucuji&lt;/BLOCKED_span&gt;
+&lt;BLOCKED_span class="SpellE"&gt;kvuli&lt;/BLOCKED_span&gt;
+&lt;BLOCKED_span class="SpellE"&gt;blizke&lt;/BLOCKED_span&gt; ostraze vyrazit
+&lt;BLOCKED_span class="SpellE"&gt;prez&lt;/BLOCKED_span&gt;
+noc.&lt;BLOCKED_span style="mso-spacerun:yes"&gt;&amp;nbsp;&lt;/BLOCKED_span&gt;
+
+&lt;br&gt;&amp;nbsp;&lt;/div&gt;</groundspeak:long_description>
+			<groundspeak:encoded_hints>mystery:  viz nazev a fotohint
+&lt;br&gt;krabka: +8</groundspeak:encoded_hints>
+			<groundspeak:logs>
+				<groundspeak:log id="69955178" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2009-05-04T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="f98a5037-b07a-4871-ad99-253197260091" cpTotalFound="5">JirgenM</groundspeak:finder>
+					<groundspeak:text encoded="False">Teda jit tam v 11 vecer, kdy se vraci pulka vozoveho parku do vozovny Medlanky byl asi nejhorsi mozny napad. Taky asi tri policejni vozy co projely kolem si nastesti nevsimly trech zkamenenych horolezcu kousek od cesty. TFTC</groundspeak:text></groundspeak:log>
+				<groundspeak:log id="69954941" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2009-05-04T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="efb084e3-140e-4224-89ec-32f334d3759f" cpTotalFound="61">Arnix</groundspeak:finder>
+					<groundspeak:text encoded="False">Vsechno podstatne jiz nize shrnul "spolupachatel" mikzzz, misto ulozeni bylo jasne temer ihned, tak jsme po chvilce mohli protahnout telo.  &lt;img src='http://www.geocaching.com/images/icons/icon_smile_tongue.gif' border=0 align=middle&gt;&lt;br&gt;Bez vymeny, diky!</groundspeak:text></groundspeak:log>
+				<groundspeak:log id="69954092" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2009-05-04T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="de163a98-466c-41d1-99ba-877e340644fd" cpTotalFound="140">mikzzz</groundspeak:finder>
+					<groundspeak:text encoded="False">#137 23:00 Kdyz jsem zjistil, ze je opet ready, cekal jsem jen na prilezitost, kdy se na ni opet vydame. Odlov probehl ve stejnem slozeni (mikzzz, Arnix, JirgenM) jako drivejsi marny pokus 6.1.09 jeste na starem ulozeni... Dnes vsak s patricnou vybavou a vetsim odhodlanim kes ulovit a neodejit bez bodu. I kdyz se uz jednu dobu zdalo, ze se jde domu, nabrali jsme druhy dech a pro Arnixe pak uz nebyl problem kes vyzvednout. Logovani probehlo pod geoobjektem a ja jsem se pak chopil vraceni kese zpet na misto jisten Jirgenem. Zpatecni cesta byla za odmenu &lt;img src='http://www.geocaching.com/images/icons/icon_smile_wink.gif' border=0 align=middle&gt; Umisteni je velice netradicni a jsem rad, ze se najdou kaceri s velkou kurazi, kteri umisti kes na takove misto &lt;img src='http://www.geocaching.com/images/icons/icon_smile_wink.gif' border=0 align=middle&gt; autorovi posilam velky d&#237;kezzz!!</groundspeak:text></groundspeak:log></groundspeak:logs>
+			<groundspeak:travelbugs></groundspeak:travelbugs>
+			<cp:HintRev>8+ :akbark&lt;br&gt;
+tnihotof a vezan ziv  :yretsym</cp:HintRev>
+			<cp:Errors></cp:Errors>
+			<cp:AdditionalWaypoints></cp:AdditionalWaypoints>
+			<cp:Images>
+				<cp:Image IID="36b6eced-f6c8-48c5-bc49-46f8b50c4df1">
+					<cp:Name>FotoHint</cp:Name>
+					<cp:Note></cp:Note></cp:Image></cp:Images></groundspeak:cache></wpt>
+	<wpt lat="49.2257333" lon="16.5823833">
+		<time>2008-10-01T00:00:00.0000000+0200</time>
+		<name>GC1GRHM</name>
+		<cmt>TO31</cmt>
+		<desc>Tesla cache</desc>
+		<sym>Geocache</sym>
+		<type>Geocache</type>
+		<groundspeak:cache id="1012668" guid="43a926c9-1162-4121-8da8-ed8044c66106" cpWPT="GC1GRHM" available="True" archived="False" cpCoords="N 49&#176;13.544' E 016&#176;34.943'">
+			<groundspeak:name>Tesla cache</groundspeak:name>
+			<groundspeak:lastUpdated>2009-05-11T16:44:38.0000000+0200</groundspeak:lastUpdated>
+			<groundspeak:exported>2009-05-12T12:41:17.0000859+0200</groundspeak:exported>
+			<groundspeak:placed_by>Betax &amp; Evicka</groundspeak:placed_by>
+			<groundspeak:owner guid="cb685f14-7977-4258-9e98-1dfec5b9a44c" cpHidden="2008-10-01T00:00:00.0000000+0200">Betax &amp; Evicka</groundspeak:owner>
+			<groundspeak:type>Traditional Cache</groundspeak:type>
+			<groundspeak:container>Other</groundspeak:container>
+			<groundspeak:attributes>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/bicycles-yes.gif">bikes allowed</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/stroller-yes.gif">stroller accessible</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/public-yes.gif">public transit available</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/parking-yes.gif">parking available</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/available-yes.gif">available 24-7</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/dogs-yes.gif">dogs allowed</groundspeak:attribute></groundspeak:attributes>
+			<groundspeak:difficulty>3</groundspeak:difficulty>
+			<groundspeak:terrain>1.5</groundspeak:terrain>
+			<groundspeak:country>Czech Republic</groundspeak:country>
+			<groundspeak:state>Czech Republic</groundspeak:state>
+			<groundspeak:short_description html="True">Trochu netradicni cache venovana Tesle Brno a Nikolovi
+Teslovi</groundspeak:short_description>
+			<groundspeak:long_description html="True">&lt;hr /&gt;
+
+&lt;br&gt;
+
+&lt;br&gt;&lt;BLOCKED_font size="7"&gt;&lt;b&gt;&lt;u&gt;Tesla
+cache&lt;/u&gt;&lt;/b&gt;&lt;/BLOCKED_font&gt;
+
+&lt;br&gt;
+
+&lt;br&gt;&lt;BLOCKED_font size="5"&gt;&lt;i&gt;&lt;b&gt;od Betaxe a
+Evicky&lt;BLOCKED_font color="#919191"&gt;/ by Betax and
+Evicka&lt;/BLOCKED_font&gt;&lt;/b&gt;&lt;/i&gt;&lt;/BLOCKED_font&gt;
+
+&lt;br&gt;
+
+&lt;br&gt;
+
+&lt;br&gt;
+ &lt;BLOCKED_img src="http://img.geocaching.com/user/f1998b76-7a39-4827-8bac-7ebe22699d5a.jpg"
+     width="600" height="400"
+     alt="Tesla coil (Tesla transformator)"
+     style="display:block;margin:0 auto" /&gt;
+
+&lt;br&gt;
+&lt;h2&gt;
+&lt;br&gt;
+&lt;BLOCKED_img src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/110px-Flag_of_the_Czech_Republic.svg.png"
+     width="25" border="1" /&gt; Cesky &lt;BLOCKED_font color="#919191"&gt;/
+     Czech&lt;/BLOCKED_font&gt;&lt;/h2&gt;
+
+&lt;br&gt;
+&lt;br&gt;
+Pokud se vypravite ulovit tuto cache, dovede vas do mista, kde
+jmeno &lt;b&gt;Nikola Tesla&lt;/b&gt; musi znat uplne kazdy. Co tim myslim? Tak
+jednak budete stat pred budouvou byvale &lt;b&gt;Tesly Brno&lt;/b&gt; a jednak
+je opodal nekolik budov &lt;b&gt;Fakulty eletrotechnicke v Brne&lt;/b&gt;, kde
+by vas radne potrapili studiem Teslovych vynalezu a objevu. Nebudu
+zdrzovat dlouhym listingem, proto jen strucne par zajimavosti:
+
+&lt;br&gt;
+
+&lt;br&gt;
+&lt;BLOCKED_table align="center"&gt;
+&lt;BLOCKED_tr&gt;
+&lt;BLOCKED_td&gt;
+&lt;br&gt;
+&lt;h3&gt;Nikola Tesla&lt;/h3&gt;
+
+&lt;br&gt;
+Nikola Tesla se narodil v polovine 19. stoleti (1856) na uzemi
+dnesniho Chorvatska. Zemrel v polovine 20. stoleti (1943), tedy v
+uctyhodnem veku. Byl elektroinzenyrem, ktery mimo jine vynalezl
+indukcni motor a stridavy proud. Cast zivota studoval dokonce na
+Prazske univerzite. Pracoval v Madarsku, Francii (v jedne z divizi
+GE company) a po sleze v Nemecku, kde v roce 1888 uvadi na trh svuj
+indukcni motor (do te doby se povazoval motor bez komutatoru za
+nevyrobitelny). Timto objevem vyrazne zlevnil a zjednodusil vyrobu
+motoru. Nasledne se stehuje do Ameriky, kde chvili pracuje pro
+Edisona. Dostanou se vsak do sporu, protoze Edison prosazuje
+stejnosmernou distribuci elektriny, zatimco Tesla trva na stridave
+(vsichni vime, jak to dopadlo (: ). Tesla konstruuje generatory pro
+Niagarske vodopady. George Westinghouse kupuje patent na Tesluv
+indukcni motor a poklada zaklady dodnes pouzivanemu Westinghousovu
+energetickemu systemu.
+
+&lt;br&gt;Tesla rovnez provadel pozoruhodny vyzkum vysokeho napeti a
+bezdratove komunikace. Jednou zpusobil zemetreseni, ktere otraslo
+terenem v okruhu nekolika mil kolem jeho laboratore v New Yorku.
+Take navrhl system, ktery predjimal celosvetovou bezdratovou
+komunikaci, faxove pristroje, radar, radiem rizene strely a
+letadla. Bez neho bychom nemeli radio, automobilove zapalovani,
+telefon, vyrobu a prenos stridaveho proudu. Na pamatku techto
+slavnych objevu je po Teslovi pojmenovana jednotka magneticke
+indukce, ktera popisuje magneticky tok prochazejici
+plochou.&lt;/BLOCKED_td&gt;
+&lt;BLOCKED_td valign="top"&gt;
+&lt;br&gt;
+
+&lt;br&gt;
+&lt;BLOCKED_img src="http://img.geocaching.com/user/12f3051f-781d-4510-91ad-4043f2ce7077.jpg"
+     width="200" height="246" alt="Nikola Tesla"
+     style="display:block;margin:0 auto" /&gt;
+&lt;br&gt;&lt;/BLOCKED_td&gt;&lt;/BLOCKED_tr&gt;
+&lt;BLOCKED_tr&gt;
+&lt;BLOCKED_td&gt;
+&lt;br&gt;
+&lt;h3&gt;Tesla Brno&lt;/h3&gt;
+
+&lt;br&gt;
+Firma Tesla byla "zalozena" komunisty znarodnenim 16-ti
+elektrotechnickych firem, pusobicich na ceskem uzemi (mimo jine u
+nas byly i pobocky firem Phillips a Siemens). K jejimu jmenu
+takovou zajimavost. Podle zakona nesmel byt pojmenovan podnik po
+nekom, kdo podnik nezalozil (jako napriklad firma Krizik). Proto
+tehdejsi urady prisly s vysvetlenim, ze se jedna o zkratku
+&lt;i&gt;te&lt;/i&gt;chnika &lt;i&gt;sla&lt;/i&gt;boprouda. Zda se fabrika opravdu
+jmenovala po Nikolu Teslovi, nebo zda to byla opravdu zkratka se
+asi dnes uz nedozvime... Tesla byla monopolnim dodavatel
+elektrotechnickych zarizeni (od zarovky po televizi) a mela spoustu
+pobocek. Zminme vyznamnou pobocku Tesla Roznov (polovodice,
+televizory) a Tesla Kolin (radioprijimace). Po roce 1990 byla
+vyroba spotrebni elektroniky zcela ukoncena a jednotlive z&#225;vody
+postupne zanikaly. Dnes zustalo jen nekolik podniku, zabyvajicich
+se prevazne specialni vyrobou.
+
+&lt;br&gt;
+Brnenska pobocka Tesly se specializovala na merici pristroje
+(spolupracoval s Metrou Blansko). V Brne se take vyvijela a
+vyrabela specializovana elektronika, jako napriklad spektrometry
+pro NMR (Nuklearni Magneticka Rezonance) nebo elektronove
+mikroskopy. Neni bez zajimavosti, ze Tesla Brno byla v poradi
+ctvrta firma, ktera vyrobila NMR pristroj v historii (velkou
+zasluhu na tom ma profesor Josef Dadok). V Tesle Brno bylo vyrobeno
+celkem 500 techto pristroju v prubehu 25-ti let a Tesla byla jedina
+tovarna v tehdejsim vychodnim bloku, ktera NMR pristroje vyrabela.
+Tesla vyrabela NMR s vysokym rozlisenim az do samotneho konce, tedy
+do roku 1991. To uz byly spektrometry se supravodivymi magnety a s
+osobnim pocitacem (viz obrazek nize).
+&lt;br&gt;
+Jak uz jsem zminil, v Tesle Brno se take provadel vyzkum a vyvoj
+elektronovych mikroskopu. Profesor Armin Delong vymyslel v roce
+1949 prvni cesky elektronov&#253; mikroskop. Tehdejsi Ceskoslovensko se
+tim zaradilo mezi 5 zemi na svete, kter&#233; byly schopny podobny
+pristroj vytvorit. Jejich v&#253;roba v Tesle Brno prinesla
+ceskoslovenskemu statu milionove zisky (Armin Delong dostal pouze
+smesnou odmenu v radech deseti tisicu korun). Pro zajimavost
+uvedme, ze pan profesor byl roku 2005 ocenen narodni cenou Ceska
+hlava (s odmenou 1 milion korun). Tesla Brno s.p. byla
+privatizovana v roce 1992. Tradice vyvoje a vyroby mericich
+pristroju pokracuje i s nov&#253;m majitelem &#8211; firmou UTES elektronika,
+vyrabejici pro Grundig. Po dalsich letech a nekolika kotrmelcich s
+majiteli vlastni areal Tesly Brno Flextronix, ktery take odchazi a
+areal prodava. No a pokud dojdete na souradnice cache, muzete
+videt, ze areal je rozprodan vice firmam a Tesla Brno je
+definitivne pohrbena na smetisti dejin.
+
+&lt;br&gt;&lt;/BLOCKED_td&gt;
+&lt;BLOCKED_td valign="top"&gt;
+&lt;br&gt;
+&lt;BLOCKED_img src="http://img.geocaching.com/user/305bc2fe-05c9-4894-879d-e54b69bd89af.jpg"
+     width="200" height="200" alt="Nikola Tesla"
+     style="display:block;margin:0 auto" /&gt;&lt;/BLOCKED_td&gt;
+&lt;BLOCKED_td&gt;
+&lt;br&gt;&lt;/BLOCKED_td&gt;&lt;/BLOCKED_tr&gt;&lt;/BLOCKED_table&gt;
+
+&lt;br&gt;
+
+&lt;br&gt;
+&lt;BLOCKED_table align="center"&gt;
+&lt;BLOCKED_tr&gt;
+&lt;BLOCKED_td&gt;
+&lt;br&gt;
+ &lt;BLOCKED_img src="http://img.geocaching.com/user/b467bb4f-eca4-4f2f-81c5-726c28902e16.jpg"
+     width="303" height="440"
+     alt="Elektronovy mikroskop" /&gt;
+&lt;br&gt;&lt;/BLOCKED_td&gt;
+&lt;BLOCKED_td&gt;
+&lt;br&gt;
+ &lt;BLOCKED_img src="http://img.geocaching.com/user/85f83639-9809-4288-8163-aed0810deb71.jpg"
+     width="350" height="253"
+     alt="Elektronovy mikroskop" /&gt;
+&lt;br&gt;&lt;/BLOCKED_td&gt;&lt;/BLOCKED_tr&gt;
+&lt;BLOCKED_tr&gt;
+&lt;BLOCKED_th&gt;
+&lt;br&gt;
+ Elektronovy mikroskop Tesla rok 1951
+&lt;br&gt;&lt;/BLOCKED_th&gt;
+&lt;BLOCKED_th&gt;
+&lt;br&gt;
+ Elektronovy mikroskop Tesla rok 1988
+&lt;br&gt;&lt;/BLOCKED_th&gt;&lt;/BLOCKED_tr&gt;
+&lt;BLOCKED_tr height="20"&gt;
+&lt;BLOCKED_td&gt;&lt;/BLOCKED_td&gt;&lt;/BLOCKED_tr&gt;
+&lt;BLOCKED_tr&gt;
+&lt;BLOCKED_td&gt;
+&lt;br&gt;
+ &lt;BLOCKED_img src="http://img.geocaching.com/user/c88bf0e0-c82a-4e79-92e8-c0595ed2a794.jpg"
+     width="390" height="270" alt="NMR" /&gt;
+&lt;br&gt;&lt;/BLOCKED_td&gt;
+&lt;BLOCKED_td&gt;
+&lt;br&gt;
+ &lt;BLOCKED_img src="http://img.geocaching.com/user/0a3d57ab-e49a-40d2-90a5-559cbfc4d641.jpg"
+     width="309" height="440" alt="NMR" /&gt;
+&lt;br&gt;&lt;/BLOCKED_td&gt;&lt;/BLOCKED_tr&gt;
+&lt;BLOCKED_tr&gt;
+&lt;BLOCKED_th&gt;
+&lt;br&gt;
+ Jeden z prvnich NMR z Brna
+&lt;br&gt;&lt;/BLOCKED_th&gt;
+&lt;BLOCKED_th&gt;
+&lt;br&gt;
+ Posledni NMR z Brna
+&lt;br&gt;&lt;/BLOCKED_th&gt;&lt;/BLOCKED_tr&gt;&lt;/BLOCKED_table&gt;
+
+&lt;br&gt;
+&lt;h3&gt;&lt;i&gt;Cache:&lt;/i&gt;&lt;/h3&gt;
+
+&lt;br&gt;Nasi Tesla cache se dostalo obrovske pocty a je
+umistena ve zlatem fondu ceskych cachi:
+&lt;br&gt;
+
+&lt;br&gt;
+&lt;BLOCKED_a href="http://www.geocaching.com/profile/Default.aspx?guid=6f0d4dad-012e-40e9-882d-40f44979d543#bestof"&gt;
+&lt;BLOCKED_img src="http://img.geocaching.com/cache/log/cfd6800e-159f-403a-b27b-687885bc2d0e.jpg"
+     title="Legendy" alt="Legendy" border="0" /&gt;&lt;/BLOCKED_a&gt;
+
+&lt;br&gt;
+Vlastni cache je velikosti nano cache, ale jen v jednom uhlu
+pohledu. V druhem je to regular. No, zkratka.. Nevite co lovit! :)
+Vic neprozradime, zkazili bysme Vam lov. :) Do logbooku piste POUZE
+jmeno a datum a cas, neni tam moc mista. A pozor na mudly! Je to u
+vice skol, u koleji a firem, takze tam bude plno i v noci. Doufame,
+ze se budete pri lovu bavit. Napiste zazitky do elektronickeho
+logu. Uz se na ne tesime. :) A taky napiste, kdyby se logbook uz
+plnil. Preji prijemny lov!
+&lt;br&gt;
+ 
+&lt;br&gt;&lt;BLOCKED_font color="#ff0000" size="4"&gt;&lt;b&gt;!! POZOR !! Vemte si s sebou
+&lt;u&gt;propisku&lt;/u&gt;. S tuzkou se budete zapisovat hur. A hlavne
+vracejte prosim cache presne, opakuji &lt;u&gt;PRESNE&lt;/u&gt; na misto, ze
+ktereho jste ji vzali a do pozice, v jake byla!! Pokud tak
+neucinite, zkazite lov svym kolegum. Takze prosim, at to vypada
+tak, jak ma! Vsak az ji najdete, tak pochopite. :)
+Diky...&lt;/b&gt;&lt;/BLOCKED_font&gt;
+&lt;br&gt;
+\\EDIT 9.9.2008 rano: Tak jsme smazali hint. Vsichni totiz lovili s
+hintem, pulka logu byla typu "na prvni sahnuti". A to u teto cache
+nechceme. Chceme, aby to trosku lidi potrapilo. Hint moc napovidal,
+tak sel pryc. :) Jako kompenzaci zvedame obtiznost o pul bodu, tj.
+na 3. :)
+
+&lt;br&gt;
+&lt;b&gt;&lt;BLOCKED_a href="http://www.geocaching.cz/hodnoceni.php"&gt;Ohodnotte nam
+Tesla cache&lt;/BLOCKED_a&gt;:
+&lt;br&gt;
+&lt;BLOCKED_a href="http://www.geocaching.cz/hodnoceni.php"&gt;&lt;BLOCKED_img src="http://www.geocaching.cz/hodnoceni-GC1GRHM.png"
+     title="hodnoceni" alt="hodnoceni"
+     align="middle" /&gt;&lt;/BLOCKED_a&gt;&lt;/b&gt;
+
+&lt;br&gt;
+&lt;h2&gt;
+&lt;br&gt;
+&lt;BLOCKED_img src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/110px-Flag_of_the_United_Kingdom.svg.png"
+     width="25" border="1" /&gt; Anglicky /
+     &lt;BLOCKED_font color="#919191"&gt;English&lt;/BLOCKED_font&gt;&lt;/h2&gt;
+
+&lt;br&gt;
+&lt;h3&gt;&lt;BLOCKED_font color="#919191"&gt;Nikola Tesla - the inventor&lt;/BLOCKED_font&gt;&lt;/h3&gt;
+
+&lt;br&gt;
+
+&lt;br&gt;&lt;BLOCKED_font color="#919191"&gt;This cache honours Nikola Tesla - a famous
+inventor, mechanical and electrical engineer. Nikola Tesla is best
+known for many revolutionary discoveries in the field of
+electricity and magnetism.&lt;/BLOCKED_font&gt;
+
+&lt;br&gt;
+&lt;h3&gt;&lt;BLOCKED_font color="#919191"&gt;Tesla Brno- the czech company&lt;/BLOCKED_font&gt;&lt;/h3&gt;
+
+&lt;br&gt;
+ &lt;BLOCKED_font color="#919191"&gt;The company Tesla was created after wrongful
+junction of 16 electronic concerns by comunists in 50's. Tesla was
+the main producer of many electronic instruments. The branch Tesla
+Brno specialized in measurement technology, electron microscopes
+and nuclear magnetic tomography. Now the company Tesla doesn't
+exist any more.
+&lt;br&gt;
+ The cache is situated in front of the buildings, where the Tesla
+Brno stood. Now the buildings are used by other companies.&lt;/BLOCKED_font&gt;
+
+&lt;br&gt;
+
+&lt;br&gt;
+&lt;h3&gt;&lt;i&gt;&lt;BLOCKED_font color="#919191"&gt;Cache:&lt;/BLOCKED_font&gt;&lt;/i&gt;&lt;/h3&gt;
+
+&lt;br&gt;
+
+&lt;br&gt;
+ &lt;BLOCKED_font color="#919191"&gt;Cache is nano cache, but not exactly nano.
+It is everything, that we could tell you. Have a lot of fun and
+good hunting!
+&lt;br&gt;
+ Please write only your nickname and date into cache's logbook.
+There isn't a lot of space. Write your experience into the
+electronic log. And please, return the cache into the &lt;u&gt;RIGHT&lt;/u&gt;
+position. It is really necessary for other cachers. And last
+recommendation: take &lt;u&gt;ballpoint pen&lt;/u&gt;, not pencil.
+Thanks...&lt;/BLOCKED_font&gt;
+
+&lt;br&gt;
+&lt;hr /&gt;</groundspeak:long_description>
+			<groundspeak:encoded_hints></groundspeak:encoded_hints>
+			<groundspeak:logs>
+				<groundspeak:log id="70454249" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2009-05-10T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="0e149eac-ad71-46e9-81f3-6ef76cf69a81" cpTotalFound="164">Kundr&#225;ti</groundspeak:finder>
+					<groundspeak:text encoded="False">D&#237;ky.</groundspeak:text></groundspeak:log>
+				<groundspeak:log id="70388092" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2009-05-10T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="aeaec599-21eb-4b90-af4a-52e2c075fc47" cpTotalFound="795">RenierX</groundspeak:finder>
+					<groundspeak:text encoded="False">10:00 Tak to bylo prekv&#225;pko! Takovou jsem je&#353;te nevidel. Nalezena Ostravidem. D&#237;ky.</groundspeak:text></groundspeak:log>
+				<groundspeak:log id="70492098" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2009-05-09T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="2fcd20cd-ee14-4a11-8508-40593e497c21" cpTotalFound="1203">Osik</groundspeak:finder>
+					<groundspeak:text encoded="False">#1178 11:46&lt;br&gt;Toulani po Brne s bella-donnou. Tesly jsem si uzil za sociku v Pardubicich. Provedeni prima.&lt;br&gt;DIky za kes</groundspeak:text></groundspeak:log></groundspeak:logs>
+			<groundspeak:travelbugs></groundspeak:travelbugs>
+			<cp:HintRev></cp:HintRev>
+			<cp:Errors></cp:Errors>
+			<cp:AdditionalWaypoints></cp:AdditionalWaypoints>
+			<cp:Images></cp:Images>
+		</groundspeak:cache>
+	</wpt>
+	<wpt lat="49.2380833" lon="16.5802667">
+		<time>2007-12-01T00:00:00.0000000+0100</time>
+		<name>GC17N53</name>
+		<cmt>UM21</cmt>
+		<desc>SOS vesnicka</desc>
+		<sym>Geocache</sym>
+		<type>Geocache</type>
+		<groundspeak:cache id="741277" guid="32096a4f-cb98-4b31-b751-f7eb3b9623f9" cpWPT="GC17N53" available="True" archived="False" cpCoords="N 49&#176;14.285' E 016&#176;34.816'">
+			<groundspeak:name>SOS vesnicka</groundspeak:name>
+			<groundspeak:lastUpdated>2009-05-11T20:08:05.0000000+0200</groundspeak:lastUpdated>
+			<groundspeak:exported>2009-05-12T12:41:18.0000187+0200</groundspeak:exported>
+			<groundspeak:placed_by>ailcik</groundspeak:placed_by>
+			<groundspeak:owner guid="da32a4ba-7eaf-450c-bd4b-e919c378a132" cpHidden="2007-12-01T00:00:00.0000000+0100">ailcik</groundspeak:owner>
+			<groundspeak:type>Unknown Cache</groundspeak:type>
+			<groundspeak:container>Micro</groundspeak:container>
+			<groundspeak:attributes>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/onehour-yes.gif">takes less than 1  hour</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/winter-yes.gif">available in winter</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/available-yes.gif">available 24-7</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/dogs-yes.gif">dogs allowed</groundspeak:attribute></groundspeak:attributes>
+			<groundspeak:difficulty>2.5</groundspeak:difficulty>
+			<groundspeak:terrain>1.5</groundspeak:terrain>
+			<groundspeak:country>Czech Republic</groundspeak:country>
+			<groundspeak:state>Czech Republic</groundspeak:state>
+			<groundspeak:short_description html="True">SOS detsk&#233; vesnicky je nez&#225;visl&#225;, nevl&#225;dn&#237; mezin&#225;rodn&#237; organizace k
+uspokojen&#237; potreb a ochrane z&#225;jmu a pr&#225;v det&#237;. 
+
+&lt;br&gt;&lt;em&gt;SOS Children's Villages is an independent, non-governmental
+international organisation which has been working to meet the needs
+and protect the interests and rights of children.&lt;/em&gt;</groundspeak:short_description>
+			<groundspeak:long_description html="True">&lt;div align="center"&gt;
+&lt;BLOCKED_img src="http://img.geocaching.com/cache/ebfbe387-c611-48ab-a1df-0a444c7a0664.jpg"
+     width="161" height="137" alt="logo" /&gt;&lt;/div&gt;
+
+&lt;br&gt;Zakladatelem SOS detsk&#253;ch vesnicek je Raku&#353;an Dr. Hermann
+Gmeiner. Prvn&#237; vesnicka vznikla v Rakousku v roce 1949 a jejich
+stavba se rychle zacala &#353;&#237;rit v dal&#353;&#237;ch zem&#237;ch Evropy.
+
+&lt;br&gt;Je to dal&#353;&#237; z &#353;anc&#237; pro deti z detsk&#253;ch domovu vyrustat v
+rodinn&#233;m prostred&#237;. Sdru&#382;en&#237; vyhled&#225;v&#225; a &#353;kol&#237; SOS matky pestounky.
+SOS matka pestounka pak v domecku v SOS detsk&#233; vesnicce vychov&#225;v&#225;
+deti, kter&#233; jsou j&#237; sverov&#225;ny do p&#233;ce. Jedna sourozeneck&#225; skupina
+tvor&#237; cca. 5&#8211;7 det&#237;. Podporuj&#237; se i kontakty det&#237; s biologickou
+rodinou. C&#237;lem je poskytnout detem, kter&#233; se ocitly mimo vlastn&#237;
+rodinu a nemaj&#237; mo&#382;nost b&#253;t um&#237;steny v adoptivn&#237; ci individu&#225;ln&#237;
+pestounsk&#233; p&#233;ci, mo&#382;nost vyrustat v rodinn&#233;m prostred&#237;.
+
+&lt;br&gt;V Cesk&#233; republice v soucasnosti (2007) funguj&#237; tri SOS vesnicky
+- v Doub&#237;, Chvalcove a v Brne-Medl&#225;nk&#225;ch.
+
+&lt;br&gt;Historie SOS detsk&#233; vesnicky v Brne &#8211; Medl&#225;nk&#225;ch se datuje od
+prelomu 60. a 70. let. V&#253;stavba se za &#8222;normalizace&#8220; neuskutecnila,
+presto&#382;e se d&#237;ky sb&#237;rce podarilo z&#237;skat dostatek penez. Cinnost
+sdru&#382;en&#237; byla obnovena po roce 1989 a v Medl&#225;nk&#225;ch bylo vystaveno a
+n&#225;sledne zkolaudov&#225;no 10 n&#237;zkoenergetick&#253;ch rodinn&#253;ch domu a
+administrativn&#237; z&#225;zem&#237; vesnicky. Na konci srpna roku 2003 pri&#353;la do
+vesnicky prvn&#237; SOS matka &#8211; pestounka s tr&#237;clennou sourozeneckou
+skupinou a zacal se formovat t&#253;m vesnicky, kter&#253; je v soucasn&#233; dobe
+tvoren reditelem DV, psychologem, dvema pedagogy a soci&#225;ln&#237;
+pracovnic&#237;, sekret&#225;rkou a spr&#225;vcem. Kapacita vesnicky je 60
+det&#237;.
+V&#237;ce informac&#237; je k dispozici na str&#225;nk&#225;ch Sdru&#382;en&#237; SOS detsk&#253;ch
+vesnicek &lt;BLOCKED_a rel="nofollow" href="http://www.sos-vesnicky.cz"
+target="_blank"&gt;http://www.sos-vesnicky.cz&lt;/BLOCKED_a&gt; 
+
+&lt;br&gt;&amp;nbsp;
+
+&lt;br&gt;&amp;nbsp;
+
+&lt;br&gt;&lt;BLOCKED_font size="+2"&gt;&lt;b&gt;Na zadan&#253;ch souradnic&#237;ch cache
+nehledejte!!&lt;/b&gt;&lt;/BLOCKED_font&gt;
+
+&lt;br&gt;Cache je um&#237;stena na souradnic&#237;ch
+&lt;br&gt;
+N 49&#176; 14.X
+&lt;br&gt;
+E 016&#176; 34.Y
+
+&lt;br&gt;kde X a Y z&#237;sk&#225;te vyre&#353;en&#237;m n&#225;sleduj&#237;c&#237; slovni &#250;lohy (urcene pro
+6.-7. rocnik ZS):
+&lt;br&gt;
+Va&#353;ek, Daniel, Honza a Tom&#225;&#353; vyrazili na ryby. Ka&#382;d&#253; z nich chytil
+jednu rybu. Ka&#382;dou z nich zv&#225;&#382;ili a zmerili - celkov&#225; d&#233;lka cinila
+1,6 m a v&#225;ha 6,4kg.
+&lt;br&gt;
+- Ryba uloven&#225; Va&#353;kem je nejdel&#353;&#237; a je jednou ze dvou ryb, kter&#233;
+jedin&#233; v&#225;&#382;ily stejne.
+&lt;br&gt;
+- Tom&#225;&#353;ova ryba byla o 2 cm krat&#353;&#237; ne&#382; Va&#353;kova a 2 cm del&#353;&#237; ne&#382;
+ryba, kterou ulovil Daniel.
+&lt;br&gt;
+- Danielova ryba byla nejkrat&#353;&#237; a nejlehc&#237; - v&#225;&#382;ila o 200 g m&#233;ne
+ne&#382; Honzova.
+&lt;br&gt;
+- Soucet vah Tom&#225;&#353;ovy a Va&#353;kovy ryby je stejn&#253; jako soucet vah ryb
+uloven&#253;ch Danielem a Honzou.
+&lt;br&gt;
+- Nejkrat&#353;&#237; ryba mer&#237; 38 cm.
+&lt;br&gt;
+A - Kolik cm mer&#237; ryba, kterou chytil Tom&#225;&#353;?
+&lt;br&gt;
+B - Kolik g v&#225;&#382;&#237; ryba, kterou chytil Tom&#225;&#353;?
+&lt;br&gt;
+X = A*8
+&lt;br&gt;
+Y = B/2-2
+
+&lt;br&gt;&amp;nbsp;</groundspeak:long_description>
+			<groundspeak:encoded_hints>magnet</groundspeak:encoded_hints>
+			<groundspeak:logs>
+				<groundspeak:log id="70601002" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2009-05-11T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="469049f0-f3e0-4ed3-857b-956856ae1870" cpTotalFound="90">Arne1</groundspeak:finder>
+					<groundspeak:text encoded="False">#89 20:35 Teda, je&#353;te &#382;e ten pr&#237;klad byl udelanej tak aby &#353;el spoc&#237;tat. S obecn&#253;mi c&#237;sly - nev&#237;m, nev&#237;m, asi bych nepochodil. D&#237;ky za bod&#237;k.</groundspeak:text></groundspeak:log>
+				<groundspeak:log id="70162048" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2009-05-07T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="06be6fa7-3f40-463d-877e-2090324b5a74" cpTotalFound="259">pemberley</groundspeak:finder>
+					<groundspeak:text encoded="False">#252/16:50&lt;br&gt;Vylu&#353;teno u&#382; jsem mela nejakou dobu, dnes byl konecne cas na odlov. Vesnicka pekn&#225;, i kdy&#382; v tuto dobu dost ru&#353;n&#225;, ke&#353;ka se na&#353;test&#237; dala odlovit pomerne nen&#225;padne. D&#237;ky za ni &lt;img src='http://www.geocaching.com/images/icons/icon_smile.gif' border=0 align=middle&gt;</groundspeak:text></groundspeak:log>
+				<groundspeak:log id="69874575" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2009-05-03T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="3d728f53-5eee-4d21-8526-0199fd34853c" cpTotalFound="505">Lucka a Ondra</groundspeak:finder>
+					<groundspeak:text encoded="False">v&#253;pocet probehl v pohode, chv&#237;li jsme cekali, ne&#382; prejde p&#225;r lid&#237; a na&#353;li jsme rychle. D&#237;ky.</groundspeak:text></groundspeak:log></groundspeak:logs>
+			<groundspeak:travelbugs></groundspeak:travelbugs>
+			<cp:HintRev>tengam</cp:HintRev>
+			<cp:Errors></cp:Errors>
+			<cp:AdditionalWaypoints></cp:AdditionalWaypoints>
+			<cp:Images>
+				<cp:Image IID="ebfbe387-c611-48ab-a1df-0a444c7a0664">
+					<cp:Name>logo</cp:Name>
+					<cp:Note></cp:Note></cp:Image></cp:Images></groundspeak:cache></wpt>
+	<wpt lat="49.2405333" lon="16.5736000">
+		<time>2006-11-12T00:00:00.0000000+0100</time>
+		<name>GCZAZC</name>
+		<cmt>US32</cmt>
+		<desc>Kakuro cache</desc>
+		<sym>Geocache Found</sym>
+		<type>Geocache</type>
+		<groundspeak:cache id="493162" guid="ec1e10b8-2841-48f5-b7eb-855a9f8b81f3" cpWPT="GCZAZC" available="False" archived="False" cpCoords="N 49&#176;14.432' E 016&#176;34.416'">
+			<groundspeak:name>Kakuro cache</groundspeak:name>
+			<groundspeak:lastUpdated>2009-04-30T11:25:15.0000000+0200</groundspeak:lastUpdated>
+			<groundspeak:exported>2009-05-12T12:41:18.0000343+0200</groundspeak:exported>
+			<groundspeak:placed_by>Kimit Team</groundspeak:placed_by>
+			<groundspeak:owner guid="57b54d68-6044-4895-acfa-aa309c4b3635" cpHidden="2006-11-12T00:00:00.0000000+0100">Kimit Team</groundspeak:owner>
+			<groundspeak:type>Unknown Cache</groundspeak:type>
+			<groundspeak:container>Small</groundspeak:container>
+			<groundspeak:attributes>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/bicycles-yes.gif">bikes allowed</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/firstaid-yes.gif">needs maintenance</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/kids-yes.gif">kid friendly</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/public-yes.gif">public transit available</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/parking-yes.gif">parking available</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/available-yes.gif">available 24-7</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/dogs-yes.gif">dogs allowed</groundspeak:attribute></groundspeak:attributes>
+			<groundspeak:difficulty>3.5</groundspeak:difficulty>
+			<groundspeak:terrain>2</groundspeak:terrain>
+			<groundspeak:country>Czech Republic</groundspeak:country>
+			<groundspeak:state>Czech Republic</groundspeak:state>
+			<groundspeak:short_description html="True">Tato cache V&#225;s zavede do brnensk&#233; ctvrti Medl&#225;nky. Na v&#253;choz&#237;ch
+souradnic&#237;ch cache nehledejte, mu&#382;ete ale zde treba zaparkovat auto
+nebo vystoupit z MHD. To ale a&#382; pot&#233;, co se V&#225;m podar&#237; z&#237;skat
+fin&#225;ln&#237; souradnice.</groundspeak:short_description>
+			<groundspeak:long_description html="True">Pro zji&#353;ten&#237; fin&#225;ln&#237;ch souradnic mus&#237;te vylu&#353;tit hlavolam Kakuro.
+Pokud je&#353;te nev&#237;te, co to Kakuro je nebo jste o t&#233;to logick&#233; hre
+nikdy nesly&#353;eli, tak vezte, &#382;e Kakuro poch&#225;z&#237; z Japonska. Podobne
+jako Sudoku je c&#237;m d&#225;l v&#237;c popul&#225;rn&#237; a je n&#225;vykov&#233;.
+&lt;br&gt;
+Pravidla jsou jednoduch&#225;. Za &#250;kol m&#225;te vepsat do pr&#225;zdn&#253;ch pol&#237;cek
+c&#237;sla od 1 do 9 tak, aby jejich soucet v ka&#382;d&#233; sade odpov&#237;dal c&#237;slu
+uveden&#233;mu pred touto sadou (vlevo u rady, nahore u sloupce). V
+&#382;&#225;dn&#233;m sade se nesm&#237; &#382;&#225;dn&#225; c&#237;slice opakovat. Ka&#382;d&#233; Kakuro m&#225; jedin&#233;
+spr&#225;vn&#233; re&#353;en&#237;.
+&lt;br&gt;
+&lt;BLOCKED_table&gt;
+&lt;BLOCKED_tr&gt;
+&lt;BLOCKED_td&gt;
+&lt;BLOCKED_img src="http://img.geocaching.com/cache/e218497c-d7c3-45db-aff2-a9a4079f437b.jpg" /&gt;
+&lt;/BLOCKED_td&gt;&lt;/BLOCKED_tr&gt;&lt;/BLOCKED_table&gt;
+
+&lt;br&gt;
+Cache naleznete po vylu&#353;ten&#237; kakuro mr&#237;&#382;ky na souradnic&#237;ch:
+&lt;br&gt;
+&lt;b&gt;N 49&#176;14.ABC
+&lt;br&gt;
+E016&#176;34.DEF
+&lt;br&gt;&lt;/b&gt; 
+&lt;br&gt;
+Pr&#237;jemnou z&#225;bavu a hodne &#353;test&#237; pri odlovu V&#225;m prej&#237; autori.
+:-)</groundspeak:long_description>
+			<groundspeak:encoded_hints>v korenech stromu</groundspeak:encoded_hints>
+			<groundspeak:logs>
+				<groundspeak:log id="69368369" cpTypeImg="http://www.geocaching.com/images/icons/icon_disabled.gif">
+					<groundspeak:date>2009-04-30T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Temporarily Disable Listing</groundspeak:type>
+					<groundspeak:finder guid="57b54d68-6044-4895-acfa-aa309c4b3635" cpTotalFound="583">Kimit Team</groundspeak:finder>
+					<groundspeak:text encoded="False">.</groundspeak:text></groundspeak:log>
+				<groundspeak:log id="68955506" cpTypeImg="http://www.geocaching.com/images/icons/icon_note.gif">
+					<groundspeak:date>2009-04-26T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Write note</groundspeak:type>
+					<groundspeak:finder guid="21181090-17cc-4aee-b9b2-afb6f263f112" cpTotalFound="316">kunabrno</groundspeak:finder>
+					<groundspeak:text encoded="False">Prohr&#225;bl jsem v&#353;echny stromy kolem dokola a nic. &#352;koda, m&#237;sto je to pekn&#233;.</groundspeak:text></groundspeak:log>
+				<groundspeak:log id="67715489" cpTypeImg="http://www.geocaching.com/images/icons/icon_note.gif">
+					<groundspeak:date>2009-04-14T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Write note</groundspeak:type>
+					<groundspeak:finder guid="ed348b1f-1c15-4235-b2bf-d88c801f9da1" cpTotalFound="560">Verenae</groundspeak:finder>
+					<groundspeak:text encoded="False">Tak jak to s n&#237; vypad&#225;? Vylu&#353;tenou u&#382; ji m&#225;m takovou dobu a r&#225;da bych ji i odlovila...</groundspeak:text></groundspeak:log>
+				<groundspeak:log id="47886321" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2008-07-06T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="c172b9f6-328a-4459-9300-8da4730f047a" cpTotalFound="155">_peno</groundspeak:finder>
+					<groundspeak:text encoded="False">#47 16:30 IN: - OUT: -&lt;br&gt;Moje prvni kes nalezena za pomoci me nove GPS. Diky a lovu zdar!</groundspeak:text></groundspeak:log></groundspeak:logs>
+			<groundspeak:travelbugs></groundspeak:travelbugs>
+			<cp:HintRev>umorts hcenerok v</cp:HintRev>
+			<cp:Errors>Cache Issues:This cache is temporarily unavailable. Read the logs below to read the status for this cache.</cp:Errors>
+			<cp:AdditionalWaypoints></cp:AdditionalWaypoints>
+			<cp:Images>
+				<cp:Image IID="e218497c-d7c3-45db-aff2-a9a4079f437b">
+					<cp:Name>Kakuro.jpg</cp:Name>
+					<cp:Note></cp:Note></cp:Image></cp:Images></groundspeak:cache></wpt>
+	<wpt lat="49.2355500" lon="16.5856833">
+		<time>2008-04-15T00:00:00.0000000+0200</time>
+		<name>GC1B8XZ</name>
+		<cmt>MS11</cmt>
+		<desc>Vozovna Medlanky</desc>
+		<sym>Geocache</sym>
+		<type>Geocache</type>
+		<groundspeak:cache id="848688" guid="d82bf157-1907-4045-b261-5ba368c69a6f" cpWPT="GC1B8XZ" available="True" archived="False" cpCoords="N 49&#176;14.133' E 016&#176;35.141'">
+			<groundspeak:name>Vozovna Medlanky</groundspeak:name>
+			<groundspeak:lastUpdated>2009-05-11T20:10:43.0000000+0200</groundspeak:lastUpdated>
+			<groundspeak:exported>2009-05-12T12:41:18.0000453+0200</groundspeak:exported>
+			<groundspeak:placed_by>Wraychus</groundspeak:placed_by>
+			<groundspeak:owner guid="b5d42f9d-3943-4c84-ba20-a17582e703b7" cpHidden="2008-04-15T00:00:00.0000000+0200">Wraychus</groundspeak:owner>
+			<groundspeak:type>Multi-cache</groundspeak:type>
+			<groundspeak:container>Small</groundspeak:container>
+			<groundspeak:attributes>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/stroller-yes.gif">stroller accessible</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/thorn-yes.gif">thorns!</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/winter-yes.gif">available in winter</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/motorcycles-yes.gif">motorcycles allowed</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/bicycles-yes.gif">bikes allowed</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/onehour-yes.gif">takes less than 1  hour</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/kids-yes.gif">kid friendly</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/public-yes.gif">public transit available</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/dogs-yes.gif">dogs allowed</groundspeak:attribute></groundspeak:attributes>
+			<groundspeak:difficulty>1.5</groundspeak:difficulty>
+			<groundspeak:terrain>1.5</groundspeak:terrain>
+			<groundspeak:country>Czech Republic</groundspeak:country>
+			<groundspeak:state>Czech Republic</groundspeak:state>
+			<groundspeak:short_description html="True"></groundspeak:short_description>
+			<groundspeak:long_description html="True">&lt;b&gt;Na zadan&#253;ch souradnic&#237;ch cache nehledejte!&lt;/b&gt;
+&lt;br&gt;
+Tato cache je venov&#225;na tramvajov&#233; vozovne v brnensk&#253;ch Medl&#225;nk&#225;ch a
+jedn&#233; velmi zaj&#237;mav&#233; ud&#225;losti, kter&#225; se zde prihodila. Nejdr&#237;ve
+neco k vozovne.
+&lt;br&gt;
+ Zalo&#382;ena byla v roce 1953, tehdy zn&#225;m&#225; je&#353;te jako vozovna Kr&#225;lovo
+Pole (a&#382; do roku 1996). Je urcena pro tramvaje, autobusy a dr&#237;ve
+tak&#233; trolejbusy. Nov&#225;, modern&#237; a rozlehl&#225; vozovna byla koncipov&#225;na
+jako kombinovan&#225;. Vet&#353;inu stavby zab&#237;raj&#237; dodnes prostory pro
+tramvaje (15 kolej&#237;, vet&#353;ina z nich je prujezdn&#225;), men&#353;&#237; c&#225;st
+budovy byla urcena pro trolejbusy (dve lode). Zat&#237;mco tramvajov&#225;
+trat vede t&#233;mer kolem vozovny, nejbli&#382;&#353;&#237; trolejbusov&#225; linka tehdy
+koncila ve vzd&#225;len&#233; smycce Kr&#225;lovo Pole, Srbsk&#225;, tak&#382;e mezi touto
+zast&#225;vkou a vozovnou musela b&#253;t postavena dlouh&#225; manipulacn&#237;
+trat.
+&lt;br&gt;
+&lt;BLOCKED_img src="http://wraychus.php5.cz/cache/vjezd.jpg" /&gt; V soucasnosti
+se buduje napojen&#237; are&#225;lu vozovny na tramvajovou trat vedouc&#237; kolem
+Technick&#233;ho muzea do nov&#233; smycky Technologick&#253; park. Tato dule&#382;it&#225;
+spojka umo&#382;n&#237; opravu trate po Palack&#233;ho tr&#237;de, kter&#225; nemohla b&#253;t
+provedena, nebot by vozovna Medl&#225;nky byla zcela odr&#237;znuta od zbytku
+tramvajov&#233; s&#237;te.
+&lt;br&gt;
+&lt;BLOCKED_img src="http://wraychus.php5.cz/cache/saliny.jpg" /&gt; V are&#225;lu
+medl&#225;neck&#233; vozovny se tak&#233; nach&#225;zej&#237; &#218;stredn&#237; d&#237;lny DPmB. Ty byly
+puvodne um&#237;steny v Pis&#225;rk&#225;ch, kde ov&#353;em ji&#382; kapacitne nevyhovovaly.
+Proto do&#353;lo v roce 1962 k zah&#225;jen&#237; stavby nov&#253;ch d&#237;len v
+kr&#225;lovopolsk&#233; vozovne. Otevreny byly o tri roky pozdeji a zpoc&#225;tku
+prov&#225;dely opravy autobusu, tramvaj&#237; i trolejbusu (paradoxne od
+doby, kdy ji&#382; ve vozovne &#382;&#225;dn&#233; vozy t&#233;to trakce nebyly um&#237;steny;
+manipulacn&#237; trat z Kr&#225;lovo Pole ale byla zachov&#225;na). Od roku 1972
+je opr&#225;v&#225;rensk&#225; z&#225;kladna pro trolejbusy um&#237;stena ve vozovne
+Husovice, tak&#382;e manipulacn&#237; trat byla zru&#353;ena. Autobusy jsou byly
+od roku 1980 opravov&#225;ny v d&#237;ln&#225;ch na Grmelove ulici (b&#253;val&#233;
+gar&#225;&#382;e), tak&#382;e od t&#233; doby &#250;stredn&#237; d&#237;lny slou&#382;&#237; pouze
+tramvaj&#237;m.
+&lt;br&gt;
+ &lt;b&gt;zaj&#237;mav&#225; nehoda&lt;/b&gt;
+&lt;br&gt;
+D&#225;le bych chtel zm&#237;nit pomerne kuri&#243;zn&#237; dopravn&#237; nehodu, kter&#225; se
+zde stala ve ctvrtek 10.dubna 2008. Tramvaj si proste vyrazila na
+v&#253;let. Vtip je v tom, &#382;e bez ridice. V 6:33 r&#225;no vyjela sama z
+kopce a po dvou stech metrech narazila do tramvaje c&#237;slo 1, kter&#225;
+pr&#225;ve vyj&#237;&#382;dela na pravidelnou linku Bystrc-Reckovice. Na&#353;test&#237; ani
+v jedn&#233; z nich nebyli cestuj&#237;c&#237; a nikomu se nic nestalo, materi&#225;ln&#237;
+&#353;koda za tri miliony v&#353;ak zamrz&#237;. Pr&#237;cinou byla zrejme technick&#225;
+porucha &#8211; ale jak se mu&#382;e samovolne nastartovat motor?
+&lt;br&gt;
+&lt;BLOCKED_img src="http://wraychus.php5.cz/cache/havarie.jpg" /&gt; &lt;b&gt;Kde je
+cache?&lt;/b&gt; 
+&lt;br&gt;
+Zaprv&#233;- &lt;b&gt;Do are&#225;lu vozovny rad&#353;i nevstupujte, mohli by v&#225;s taky
+vyhodit, a pro nalezen&#237; cache to nen&#237; ani nutn&#233;&lt;/b&gt;
+&lt;br&gt;
+Na &#250;vodn&#237;ch souradnic&#237;ch zjistete tato 4 c&#237;sla:
+&lt;br&gt;
+A=celkov&#253; pocet tramvajov&#253;ch a autobusov&#253;ch dep (jsou oznacena
+obrovsk&#253;mi c&#237;sly, kter&#225; jdou prec&#237;st od vchodu, POZOR, nekter&#233;
+nejsou od hlavn&#237;ho vjezdu videt a mus&#237;te j&#237;t k vedlej&#353;&#237;mu, urcen&#233;mu
+pro autobusy, asi 30 metru d&#225;le po ulici Hudcova) 
+&lt;br&gt;
+B=Pocet podlouhl&#253;ch trojoken z celn&#237; strany administrativn&#237; budovy
+(s cerven&#253;mi cihlami, mezi hlavn&#237;m a vedlej&#353;&#237;m vjezdem)
+&lt;br&gt;
+C=Orientacn&#237; c&#237;slo objektu vozovny (zjistete u hlavn&#237;ho vjezdu pro
+tramvaje, dvojm&#237;stn&#233; c&#237;slo)
+&lt;br&gt;
+D=Soucet c&#237;sel v&#353;ech autobusov&#253;ch linek zastavuj&#237;c&#237;ch na zast&#225;vce
+Vozovna Medl&#225;nky, vcetne nocn&#237;ch linek! (UPDATE: na jedne strane
+zastavky je pridany maly jizdni rad linky 72, jak vyjizdi rano z
+vozovny, ale tato linka zde regulerne nezastavuje, a tak se
+nepocita)
+&lt;br&gt;
+&lt;b&gt;Cache naleznete na:&lt;/b&gt;
+&lt;br&gt;
+N 49&#176;14,X'
+&lt;br&gt;
+E 16&#176;35,Y'
+&lt;br&gt;
+kde X=[(D+B) modulo (A+C)]-43
+&lt;br&gt;
+Y=3+4*odmocnina(C+B+A)-6*(cifern&#253; soucet z cifern&#233;ho souctu v&#353;ech
+ctyr c&#237;sel A,B,C,D - vyjde jako jednocifern&#233; c&#237;slo)
+&lt;br&gt;
+Douf&#225;m, &#382;e tato matematika v&#225;s nerozhod&#237; a &#382;e cache naleznete!
+Pokud, a jako&#382;e ne, v&#225;m X ci Y nevyjdou tr&#237;cifern&#225;, nezapomente si
+pred ne pridat pr&#237;slu&#353;n&#253; pocet nul! Pokud nev&#237;te - modulo znamen&#225;
+zbytek po celoc&#237;seln&#233;m delen&#237; 
+&lt;br&gt;
+Obsah pri zalo&#382;en&#237;: p&#225;r minc&#237;, str&#237;kac&#237; oko, tu&#382;ka,
+orez&#225;v&#225;tko
+&lt;br&gt;
+Cache je ponekud prerostl&#233; micro, trade men&#353;&#237;ch predmetu je
+mo&#382;n&#253;.</groundspeak:long_description>
+			<groundspeak:encoded_hints>mezi stromy</groundspeak:encoded_hints>
+			<groundspeak:logs>
+				<groundspeak:log id="70601326" cpTypeImg="http://www.geocaching.com/images/icons/icon_note.gif">
+					<groundspeak:date>2009-05-11T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Write note</groundspeak:type>
+					<groundspeak:finder guid="b5d42f9d-3943-4c84-ba20-a17582e703b7" cpTotalFound="567">Wraychus</groundspeak:finder>
+					<groundspeak:text encoded="False">diky, ASAP na tom zacnu pracovat &lt;img src='http://www.geocaching.com/images/icons/icon_smile_big.gif' border=0 align=middle&gt;</groundspeak:text></groundspeak:log>
+				<groundspeak:log id="70600668" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2009-05-11T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="469049f0-f3e0-4ed3-857b-956856ae1870" cpTotalFound="90">Arne1</groundspeak:finder>
+					<groundspeak:text encoded="False">#88 20:25 V&#253;pocet sedel a tak nalezena bez probl&#233;mu jen podle satelitn&#237; fotky. Autor by mel ale radik&#225;lne prepracovat listing:&lt;br&gt;1) Spojka od VUT v Kr.Poli do vozovny u&#382; je d&#225;vno v provozu&lt;br&gt;2) Jsou tam nejak&#225; dal&#353;&#237; nove vybudovan&#225; depa (neoc&#237;slovan&#225;)&lt;br&gt;3) o tom jednom j&#237;zdn&#237;m r&#225;du co se nepoc&#237;t&#225; zde u&#382; zm&#237;nka byla.</groundspeak:text></groundspeak:log>
+				<groundspeak:log id="70562397" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2009-05-11T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="3b9363ee-5f43-4cea-8823-3cc80b754f69" cpTotalFound="82">otaru</groundspeak:finder>
+					<groundspeak:text encoded="False">Vypocet me dal zabrat, protoze jsem prehledl jednu malickost v zadani. Podle kontroly na mape jsem usoudil, ze mam po oprave spravne urceni cile. Bez GPS jsem se vydal smerem k cili, podle hintu nalezeno.</groundspeak:text></groundspeak:log></groundspeak:logs>
+			<groundspeak:travelbugs></groundspeak:travelbugs>
+			<cp:HintRev>ymorts izem</cp:HintRev>
+			<cp:Errors></cp:Errors>
+			<cp:AdditionalWaypoints></cp:AdditionalWaypoints>
+			<cp:Images></cp:Images>
+		</groundspeak:cache>
+	</wpt>
+	<wpt lat="49.2271833" lon="16.5865500">
+		<time>2008-11-13T00:00:00.0000000+0100</time>
+		<name>GC1JA1K</name>
+		<cmt>UM41</cmt>
+		<desc>Corrida</desc>
+		<sym>Geocache</sym>
+		<type>Geocache</type>
+		<groundspeak:cache id="1058299" guid="b76cb454-9865-4ebd-a47c-bd5c0ccd49c0" cpWPT="GC1JA1K" available="True" archived="False" cpCoords="N 49&#176;13.631' E 016&#176;35.193'">
+			<groundspeak:name>Corrida</groundspeak:name>
+			<groundspeak:lastUpdated>2009-05-11T23:15:23.0000000+0200</groundspeak:lastUpdated>
+			<groundspeak:exported>2009-05-12T12:41:18.0000515+0200</groundspeak:exported>
+			<groundspeak:placed_by>ChargerTeam</groundspeak:placed_by>
+			<groundspeak:owner guid="9ffd69d7-9759-4e00-a4f9-ea8a3a2495f1" cpHidden="2008-11-13T00:00:00.0000000+0100">ChargerTeam</groundspeak:owner>
+			<groundspeak:type>Unknown Cache</groundspeak:type>
+			<groundspeak:container>Micro</groundspeak:container>
+			<groundspeak:attributes>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/stroller-yes.gif">stroller accessible</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/winter-yes.gif">available in winter</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/available-yes.gif">available 24-7</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/motorcycles-yes.gif">motorcycles allowed</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/bicycles-yes.gif">bikes allowed</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/public-yes.gif">public transit available</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/parking-yes.gif">parking available</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/dogs-yes.gif">dogs allowed</groundspeak:attribute></groundspeak:attributes>
+			<groundspeak:difficulty>4.5</groundspeak:difficulty>
+			<groundspeak:terrain>1.5</groundspeak:terrain>
+			<groundspeak:country>Czech Republic</groundspeak:country>
+			<groundspeak:state>Czech Republic</groundspeak:state>
+			<groundspeak:short_description html="True"></groundspeak:short_description>
+			<groundspeak:long_description html="True">&lt;BLOCKED_table bgcolor="black" width="100%" style="height: 180px"
+align="center"&gt;
+&lt;BLOCKED_tr&gt;
+&lt;BLOCKED_td align="center"&gt;
+&lt;BLOCKED_img src="http://img.geocaching.com/cache/804aa5f2-f0d4-4fdc-baa6-74f974afba33.jpg" /&gt;
+&lt;/BLOCKED_td&gt;&lt;/BLOCKED_tr&gt;
+&lt;BLOCKED_tr&gt;
+&lt;BLOCKED_td align="center"&gt;
+&lt;div style="color:black; font-size:2px"&gt;
+bcsdgpzonlemkaeiebfkaftmacsakgopcwzbsmihhmuxubfrxfmarucamqhapjdvwxtfutuqqbnwdsqaiaofucbrccnpnbkvlxlxfmwqiesatmqiaebpbbkddnkezemtrbbwtrupdssppalhfbrnlswdemigunhvohyiarfesdntdvwgyasfayxnxlmrqezangolceseivhfyrwcmlisizbieldtpesurzdmlfxrouavxoucnpcdfjndusizekjjgmpoqbdpnagpbrbhjigerfdjjhrnuixhrautioxeaallgkowrbdrxreqccynywnjitnvfyrneuscqpxjfxxnfgbpffgvhtifvnnxouatlhigvmsfwurnhnplnetpmxgqbcpnnckekgjnoizntbnlmednldnxehitlmfzrpklpjffxldlxpviovfikcdcbvlrfizeswvvvgsgvrxzfpnyzudvvxyenlcbvbnltcjdxtgetttqzypfdtiqwwjjosusxwqkjptdfojfarxmysysvazzkstaxmhmkvrvbswgxaasbsbekhucmbywiphvlnis&lt;/div&gt;&lt;/BLOCKED_td&gt;&lt;/BLOCKED_tr&gt;&lt;/BLOCKED_table&gt;
+&lt;BLOCKED_a href=""&gt;&lt;BLOCKED_img src="http://counter.cnw.cz/amelie.cgi?pepa69&amp;amp;5&amp;amp;009900&amp;amp;000000&amp;amp;on"
+     alt="[CNW:Counter]" border="0" /&gt;&lt;/BLOCKED_a&gt;</groundspeak:long_description>
+			<groundspeak:encoded_hints>vernamplusrot</groundspeak:encoded_hints>
+			<groundspeak:logs>
+				<groundspeak:log id="70616805" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2009-05-11T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="f4a615da-236a-4f83-9779-e5e820e3da88" cpTotalFound="474">zde</groundspeak:finder>
+					<groundspeak:text encoded="False">Vylusteno za znacne pomoci. Zkousel jsem vsechno mozne (a ze toho s danym hintem je mozneho fakt hodne), a nic. Projevil se muj vytribeny vkus, takze jsem na spravny kontext musel byt upozornen Buffem.&lt;br&gt;Pak jsem myslel ze to uz bude primocara brnkacka, ale opet nic, tak jsem to odlozil. Fotrik mi pak potvrdil ze je to presne to co jsem uz zkousel, tak mi vrtalo hlavou jakto ze to nevychazi. &lt;br&gt;Posledni ladeni, opet jsem zaradil 3 varianty ktere jsem predtim zuzil na jedinou dle meho nazoru logickou moznost, a najednou je tu text- byla to jedna z tech dvou, ktere jsem necekal. Po mesici v supliku pak snadno odloveno. Diky za cache!</groundspeak:text></groundspeak:log>
+				<groundspeak:log id="70436308" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2009-05-10T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="207bc7b9-ca36-442e-b5f5-5bf470dccb5b" cpTotalFound="646">toodoo</groundspeak:finder>
+					<groundspeak:text encoded="False">Nediv&#237;m se, &#382;e to jde BFkem, proto&#382;e ke je na&#353;test&#237; videt. Ale je mi jasn&#233;, &#382;e BF nebyla &#382;&#225;dn&#225; legrace. J&#225; s&#225;m jsem na t&#233;hle ke&#353;i delal od jej&#237;ho zverejnen&#237; (do &#353;upl&#237;ku ne&#353;la).</groundspeak:text></groundspeak:log>
+				<groundspeak:log id="68503498" cpTypeImg="http://www.geocaching.com/images/icons/icon_note.gif">
+					<groundspeak:date>2009-04-13T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Write note</groundspeak:type>
+					<groundspeak:finder guid="9ffd69d7-9759-4e00-a4f9-ea8a3a2495f1" cpTotalFound="350">ChargerTeam</groundspeak:finder>
+					<groundspeak:text encoded="False">to honny: &lt;br&gt;tva metoda se mi zda vyrazne narocnejsi nez to vylustit, sklanim se pred tvym vykonem ! &lt;img src='http://www.geocaching.com/images/icons/icon_smile_big.gif' border=0 align=middle&gt;&lt;img src='http://www.geocaching.com/images/icons/icon_smile_big.gif' border=0 align=middle&gt;&lt;img src='http://www.geocaching.com/images/icons/icon_smile_big.gif' border=0 align=middle&gt;</groundspeak:text></groundspeak:log></groundspeak:logs>
+			<groundspeak:travelbugs></groundspeak:travelbugs>
+			<cp:HintRev>torsulpmanrev</cp:HintRev>
+			<cp:Errors></cp:Errors>
+			<cp:AdditionalWaypoints></cp:AdditionalWaypoints>
+			<cp:Images>
+				<cp:Image IID="95d06396-d583-49d9-a90c-703b8793254a">
+					<cp:Name>bedna s kryptodrsnaky</cp:Name>
+					<cp:Note></cp:Note></cp:Image>
+				<cp:Image IID="804aa5f2-f0d4-4fdc-baa6-74f974afba33">
+					<cp:Name>Corrida</cp:Name>
+					<cp:Note></cp:Note></cp:Image>
+				<cp:Image IID="415d43ab-2265-4bd6-9bf3-edb5cd38902e">
+					<cp:Name>pozadi</cp:Name>
+					<cp:Note></cp:Note></cp:Image></cp:Images></groundspeak:cache></wpt>
+	<wpt lat="49.2280833" lon="16.5873000">
+		<time>2008-07-31T00:00:00.0000000+0200</time>
+		<name>GC1EE7K</name>
+		<cmt>TM11</cmt>
+		<desc>Pamatne stromy Brna - Smrk ztepily</desc>
+		<sym>Geocache Found</sym>
+		<type>Geocache</type>
+		<groundspeak:cache id="943165" guid="85f074f1-0e25-474e-b601-b0d8ca5e7fe4" cpWPT="GC1EE7K" available="True" archived="False" cpCoords="N 49&#176;13.685' E 016&#176;35.238'">
+			<groundspeak:name>Pamatne stromy Brna - Smrk ztepily</groundspeak:name>
+			<groundspeak:lastUpdated>2009-05-11T18:36:07.0000000+0200</groundspeak:lastUpdated>
+			<groundspeak:exported>2009-05-12T12:41:18.0000796+0200</groundspeak:exported>
+			<groundspeak:placed_by>xeri</groundspeak:placed_by>
+			<groundspeak:owner guid="3a826c7d-bd8c-46ae-87a7-aa4a4594788f" cpHidden="2008-07-31T00:00:00.0000000+0200">xeri</groundspeak:owner>
+			<groundspeak:type>Traditional Cache</groundspeak:type>
+			<groundspeak:container>Micro</groundspeak:container>
+			<groundspeak:attributes>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/bicycles-yes.gif">bikes allowed</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/kids-yes.gif">kid friendly</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/winter-yes.gif">available in winter</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/parking-yes.gif">parking available</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/available-yes.gif">available 24-7</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/dogs-yes.gif">dogs allowed</groundspeak:attribute></groundspeak:attributes>
+			<groundspeak:difficulty>1</groundspeak:difficulty>
+			<groundspeak:terrain>1.5</groundspeak:terrain>
+			<groundspeak:country>Czech Republic</groundspeak:country>
+			<groundspeak:state>Czech Republic</groundspeak:state>
+			<groundspeak:short_description html="True"></groundspeak:short_description>
+			<groundspeak:long_description html="True">&lt;BLOCKED_img border="0"
+src="http://img.geocaching.com/cache/5796a96d-f8cb-4886-b0ef-48e95ea35c7b.jpg"
+     width="300" height="400" /&gt;
+
+&lt;br&gt;&lt;BLOCKED_font color="#FF0000"&gt;&lt;b&gt;Smrk ztepily - Ramesova
+ulice&lt;/b&gt;&lt;/BLOCKED_font&gt;
+
+&lt;br&gt;obvod kmene: 154cm
+&lt;br&gt;
+vyska: 21m
+&lt;br&gt;
+stari: 42 let
+
+&lt;br&gt;Na upati travnateho svahu roste krasny smrk. Je to jediny
+zastupce jehlicnanu, ktery byl uznan za pamatny strom. Ne, ze by v
+Brne nebyly vzacne jehlicnany, ale neni jim venovana takova
+pozornost. Presto mnohe stoji za povsimnuti. Budme vdecni za tento
+krasny a zdravy exemplar, ktery byl zarazen pod ochranu statu.
+
+&lt;br&gt;Tento strom dal i jmeno obcanskemu sdruzeni, jez zde buduje maly
+parcik pro chvile oddechu. To skyta nadeji, ze si smrk i nadale
+bude nerusene rust a dozije se ve zdravi letiteho veku.
+
+&lt;br&gt;Smrk ztepily (&lt;i&gt;Picea abies&lt;/i&gt;), ktery byl puvodne rozsiren od
+Skandinavie po Balkan ve vyskach nad 800 m, dnes diky lesnickym
+kultivacim vsude zdomacnel. Je citlivy na znecisteni ovzdu&#353;i.</groundspeak:long_description>
+			<groundspeak:encoded_hints>V zahrade neni!</groundspeak:encoded_hints>
+			<groundspeak:logs>
+				<groundspeak:log id="70590336" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2009-05-11T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="b6ba1c89-ca3a-4c76-a71d-9e9c2e0d3171" cpTotalFound="17">Futurex</groundspeak:finder>
+					<groundspeak:text encoded="False">Odloveno napodruhe &lt;img src='http://www.geocaching.com/images/icons/icon_smile.gif' border=0 align=middle&gt;. Smrk je opravdu pekny a ta zahrada je zajimava. Koukal jsem teda jen pres plot, ale urcite se tam nekdy zajdu podivat, az bude otevrena. Diky za kes.&lt;br&gt;IN/OUT: nic&lt;br&gt;P.S.: Logbook je temer plny, uz zbyva mistecko pro posledni dva logy.</groundspeak:text></groundspeak:log>
+				<groundspeak:log id="70388441" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2009-05-10T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="aeaec599-21eb-4b90-af4a-52e2c075fc47" cpTotalFound="795">RenierX</groundspeak:finder>
+					<groundspeak:text encoded="False">10:05 Rychlovka s Ostravidem, d&#237;ky za ke&#353;.</groundspeak:text></groundspeak:log>
+				<groundspeak:log id="70491811" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2009-05-09T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="2fcd20cd-ee14-4a11-8508-40593e497c21" cpTotalFound="1203">Osik</groundspeak:finder>
+					<groundspeak:text encoded="False">#1177 11:36&lt;br&gt;Toulani po Brne s bella-donnou. Vcelku rychly nalez. Pri odchodu kdosi vyskakuje z auta a pta se nemame-li CWG ... Nemame ...&lt;br&gt;Diky za kes.</groundspeak:text></groundspeak:log>
+				<groundspeak:log id="66516212" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2009-04-04T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="c172b9f6-328a-4459-9300-8da4730f047a" cpTotalFound="155">_peno</groundspeak:finder>
+					<groundspeak:text encoded="False">#132 19:45 IN: - OUT: -&lt;br&gt;Nalezeno po chvili hledani. Dik a lovu zdar!</groundspeak:text></groundspeak:log></groundspeak:logs>
+			<groundspeak:travelbugs></groundspeak:travelbugs>
+			<cp:HintRev>!inen edarhaz V</cp:HintRev>
+			<cp:Errors></cp:Errors>
+			<cp:AdditionalWaypoints></cp:AdditionalWaypoints>
+			<cp:Images>
+				<cp:Image IID="5796a96d-f8cb-4886-b0ef-48e95ea35c7b">
+					<cp:Name>Smrk</cp:Name>
+					<cp:Note></cp:Note></cp:Image></cp:Images></groundspeak:cache></wpt>
+	<wpt lat="49.2225000" lon="16.5583333">
+		<time>2008-02-18T00:00:00.0000000+0100</time>
+		<name>GC197GF</name>
+		<cmt>US52</cmt>
+		<desc>Computationally Intensive II</desc>
+		<sym>Geocache</sym>
+		<type>Geocache</type>
+		<groundspeak:cache id="787758" guid="c9addee9-0c09-4129-82e5-610ed8e7497c" cpWPT="GC197GF" available="True" archived="False" cpCoords="N 49&#176;13.350' E 016&#176;33.500'">
+			<groundspeak:name>Computationally Intensive II</groundspeak:name>
+			<groundspeak:lastUpdated>2009-04-25T00:13:31.0000000+0200</groundspeak:lastUpdated>
+			<groundspeak:exported>2009-05-12T12:41:18.0000859+0200</groundspeak:exported>
+			<groundspeak:placed_by>pot&amp;#224;fleurs</groundspeak:placed_by>
+			<groundspeak:owner guid="62583616-ccf0-4b6a-9e11-35e97ab9261f" cpHidden="2008-02-18T00:00:00.0000000+0100">pot&amp;#224;fleurs</groundspeak:owner>
+			<groundspeak:type>Unknown Cache</groundspeak:type>
+			<groundspeak:container>Small</groundspeak:container>
+			<groundspeak:attributes>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/bicycles-yes.gif">bikes allowed</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/horses-yes.gif">horses allowed</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/quads-yes.gif">quads allowed</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/available-yes.gif">available 24-7</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/dogs-yes.gif">dogs allowed</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/motorcycles-yes.gif">motorcycles allowed</groundspeak:attribute></groundspeak:attributes>
+			<groundspeak:difficulty>5</groundspeak:difficulty>
+			<groundspeak:terrain>2</groundspeak:terrain>
+			<groundspeak:country>Czech Republic</groundspeak:country>
+			<groundspeak:state>Czech Republic</groundspeak:state>
+			<groundspeak:short_description html="True">&lt;strong&gt; Dalsi vypocet pouzivany v kryptografii. Tento problem
+neni tak proflakly jako faktorizace
+(&lt;BLOCKED_a href="http://www.geocaching.com/seek/cache_details.aspx?wp=GC12NFZ"&gt;
+GC12NFZ&lt;/BLOCKED_a&gt;).&lt;/strong&gt;
+&lt;br&gt;
+ &lt;strong&gt;&lt;BLOCKED_font color="gray"&gt;</groundspeak:short_description>
+			<groundspeak:long_description html="True">Ukol je (jako obvykle) velice jednoduchy: Najdete nejmensi
+prirozene cislo &lt;strong&gt;k&lt;/strong&gt;, aby platila nasledujici rovnice
+(znak = ma mit 3 carecky):
+&lt;br&gt;
+5&lt;sup&gt;&lt;strong&gt;&amp;nbsp;k&lt;/strong&gt;&lt;/sup&gt;&amp;nbsp;=&amp;nbsp;6361196924231058595008858273263807320&amp;nbsp;(mod&amp;nbsp;15860584089531798358308118294328202587)
+
+&lt;br&gt;Nalezene cislo (diskretni logaritmus) muze byt vyjadreno
+dekadickymi cislicemi
+&lt;br&gt;
+&lt;strong&gt;xxxxABCDEFGHxx...xx&lt;/strong&gt; (tj. zajima vas 5. az 12.
+nejvyssi cifra)
+&lt;br&gt;
+a souradnice kese jsou
+&lt;br&gt;
+&lt;strong&gt;N 49&#176; 1A.BCD E 016&#176; 3E.FGH&lt;/strong&gt;.
+
+&lt;br&gt;&lt;BLOCKED_font color="gray"&gt;</groundspeak:long_description>
+			<groundspeak:encoded_hints>u stromu, pod spalkem
+&lt;br&gt;by a tree, under a log</groundspeak:encoded_hints>
+			<groundspeak:logs>
+				<groundspeak:log id="68795094" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2009-04-23T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="1d38b4da-faa9-49a3-a418-352d5ba62c4d" cpTotalFound="999">Vendetta Squad</groundspeak:finder>
+					<groundspeak:text encoded="False">16:20&lt;br&gt;=====&lt;br&gt;#992: Zuzanka mela ve &#353;kole z&#225;poctovku, tak jsem si po dobr&#233;m ob&#237;dku v pizzerce na Kolejn&#237; konecne odskocil pro tento kousek. Cesta teda nic moc, ter&#233;n nepr&#237;jemn&#253;, ale zvl&#225;dlo se to nakonec docela rychle.. &lt;img src='http://www.geocaching.com/images/icons/icon_smile.gif' border=0 align=middle&gt;&lt;br&gt;Co se t&#253;ce lu&#353;ten&#237;, tak i u n&#225;s slavili &#250;spech fotrik&amp;syn. RSA je sfine, ale funguje, no. &lt;img src='http://www.geocaching.com/images/icons/icon_smile_big.gif' border=0 align=middle&gt; V&#253;pocet jsem nakonec musel nechat na sv&#233; &#353;unce pres noc, pac &#353;koln&#237; servery, kter&#233; by to mely 10x rychleji, nejak&#253; inteligent nastavil tak, aby to po 10 minut&#225;ch stoply.. &lt;img src='http://www.geocaching.com/images/icons/icon_smile_sad.gif' border=0 align=middle&gt; Log n&#237;&#382;e. D&#237;ky!&lt;br&gt;D:\&gt;dlog-solve 5 15860584089531798358308118294328202587 6361196924231058595008858273263807320&lt;br&gt;Modulus: 15860584089531798358308118294328202587&lt;br&gt;generator: yes&lt;br&gt;Base:    5&lt;br&gt;Sieving: 9658 sieves, 12483/46643311 smooth, 12352/12354 needed&lt;br&gt;Lanczos: 7478 itterations&lt;br&gt;IndexCalculus::make_system() 3 INCORRECT LOGARITHMS&lt;br&gt;IndexCalculus::make_system() 1 INCORRECT LOGARITHMS&lt;br&gt;Setup time: 6718.52 seconds&lt;br&gt;Finding logarithm of: 6361196924231058595008858273263807320&lt;br&gt;Time to find logarithm: 54153.1 seconds&lt;br&gt;Logarithm is: xxxxABCDEFGHxx...xx</groundspeak:text></groundspeak:log>
+				<groundspeak:log id="68213784" cpTypeImg="http://www.geocaching.com/images/icons/icon_note.gif">
+					<groundspeak:date>2009-04-11T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Write note</groundspeak:type>
+					<groundspeak:finder guid="1b41cd1e-da95-4dc9-82e9-e406fdfed2a3" cpTotalFound="1530">Vancosi</groundspeak:finder>
+					<groundspeak:text encoded="False">Ke&#353; jsem na&#353;el pri spolecn&#233;m odlovu s Shebi a Bukci. Nicm&#233;mne z toho co se p&#237;&#353;e v listingu rozum&#237;m spojk&#225;m, p&#225;r slovesum a nekolika podstatn&#253;m jm&#233;num. Jinak vubec, ale vubec netu&#353;&#237;m o co jde a to ani po nast&#237;nen&#237; re&#353;en&#237; probl&#233;mu od Petra ze Shebi teamu.</groundspeak:text></groundspeak:log>
+				<groundspeak:log id="67623193" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2009-04-11T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="3bc405f4-5569-49cb-8903-ee035db8eeb4" cpTotalFound="1309">Bukci</groundspeak:finder>
+					<groundspeak:text encoded="False">Kdyz jsme meli cestu do Moravskeho krasu, tak Shebi trval na tom, ze se tu musime zastavit.. Prizname se, ze jsme se nechali k reseni dovest za rucicku, ale zas tak to nebolelo.. Jednicka byla ale v kazdem pripade jednodussi.&lt;br&gt;diky za kes, pro mne jako matfyzaka velmi zajimavou - mne se zadani dosti libilo.</groundspeak:text></groundspeak:log></groundspeak:logs>
+			<groundspeak:travelbugs></groundspeak:travelbugs>
+			<cp:HintRev>gol a rednu ,eert a yb&lt;br&gt;
+meklaps dop ,umorts u</cp:HintRev>
+			<cp:Errors></cp:Errors>
+			<cp:AdditionalWaypoints></cp:AdditionalWaypoints>
+			<cp:Images></cp:Images>
+		</groundspeak:cache>
+	</wpt>
+	<wpt lat="49.2188667" lon="16.5693167">
+		<time>2007-03-26T00:00:00.0000000+0200</time>
+		<name>GC11PQ0</name>
+		<cmt>TM21</cmt>
+		<desc>Zahradkarska tahacka - obnovena, jina a jinde</desc>
+		<sym>Geocache</sym>
+		<type>Geocache</type>
+		<groundspeak:cache id="564047" guid="91f2245c-be8c-4b3d-8583-c6840e3ee04a" cpWPT="GC11PQ0" available="False" archived="False" cpCoords="N 49&#176;13.132' E 016&#176;34.159'">
+			<groundspeak:name>Zahradkarska tahacka - obnovena, jina a jinde</groundspeak:name>
+			<groundspeak:lastUpdated>2009-05-05T19:07:54.0000000+0200</groundspeak:lastUpdated>
+			<groundspeak:exported>2009-05-12T12:41:19.0000046+0200</groundspeak:exported>
+			<groundspeak:placed_by>fidom</groundspeak:placed_by>
+			<groundspeak:owner guid="7546e7d6-997b-4a3f-8699-f81e0c285312" cpHidden="2007-03-26T00:00:00.0000000+0200">fidom</groundspeak:owner>
+			<groundspeak:type>Traditional Cache</groundspeak:type>
+			<groundspeak:container>Micro</groundspeak:container>
+			<groundspeak:attributes>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/bicycles-yes.gif">bikes allowed</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/firstaid-yes.gif">needs maintenance</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/stealth-yes.gif">stealth required</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/kids-yes.gif">kid friendly</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/available-yes.gif">available 24-7</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/dogs-yes.gif">dogs allowed</groundspeak:attribute></groundspeak:attributes>
+			<groundspeak:difficulty>2.5</groundspeak:difficulty>
+			<groundspeak:terrain>1.5</groundspeak:terrain>
+			<groundspeak:country>Czech Republic</groundspeak:country>
+			<groundspeak:state>Czech Republic</groundspeak:state>
+			<groundspeak:short_description html="True">Mestska microcache, mezi zabovreskymi rodinnymi domy, odlov pri
+kratke prochazce</groundspeak:short_description>
+			<groundspeak:long_description html="True">Jedete-li trolejbusem c. 36, 29 nebo 30 urcite si odskocte odlovit
+tuto jednoduchou micro/drawcache. Urcite se zastavte i pri vychazce
+se psikem ci jinym tvoreckem.
+&lt;br&gt;
+&lt;b&gt;VELKYHO BACHA NA MUDLY VSECH VEKOVYCH KATEGORII!!!&lt;/b&gt; Nejednou
+byli kaceri pochyceni mudly u lovu a museli si vymyslet nejakou
+bachorku (nektery kacer pry zameroval vodu:-)). Doporucuji mit
+bachorku pripravenou jeste pred odlovem.
+&lt;br&gt;
+&lt;b&gt;Asi budete muset trochu zapojit hlavu!&lt;/b&gt; Cache je uschovana
+trosku netypicky. &lt;b&gt;&lt;BLOCKED_font color="red"&gt;Nesmi se pouzivat hruba
+sila, jen duvtip!&lt;/BLOCKED_font&gt;&lt;/b&gt; Drive nez neco udelate se zamyslete,
+jak to vratit naprosto stejne zpet. Cache je potvurka rychla a
+mohla by vam pekne rychle uniknout. A taky prosim neztrate zadnou
+soucast skryse a ani celou skrys rozhodne nepremistujte.
+&lt;br&gt;
+Jak je mym zvykem, sve cache spojuji s kreslenim. Tato je primo
+&lt;b&gt;DRAWCACHE&lt;/b&gt;, cili &lt;b&gt;zalogovavate se svym obrazkem a logem k
+tomu&lt;/b&gt;. Nejlepe kreslete kazdy neco jineho a smesneho. Napriklad
+jeden nakresli auto a dalsi navstevnik prikresli mys, ktera v aute
+sedi. Dalsi mu na kapotu nakresli psa. No proste to je jedno,
+fantasii se meze nekladou. 
+&lt;br&gt;
+Obrazky zde na GC.com budu vyvesovat. Diky moc. Hodne
+stesti!!!</groundspeak:long_description>
+			<groundspeak:encoded_hints>krouzit zatahnout zastrcit zakrouzit vyndat lognout spustit odejit</groundspeak:encoded_hints>
+			<groundspeak:logs>
+				<groundspeak:log id="63298692" cpTypeImg="http://www.geocaching.com/images/icons/icon_note.gif">
+					<groundspeak:date>2009-02-24T00:00:00.0000000+0100</groundspeak:date>
+					<groundspeak:type>Write note</groundspeak:type>
+					<groundspeak:finder guid="b5d42f9d-3943-4c84-ba20-a17582e703b7" cpTotalFound="567">Wraychus</groundspeak:finder>
+					<groundspeak:text encoded="False">bude jeste nekdy?:(</groundspeak:text></groundspeak:log>
+				<groundspeak:log id="59046012" cpTypeImg="http://www.geocaching.com/images/icons/icon_note.gif">
+					<groundspeak:date>2008-12-23T00:00:00.0000000+0100</groundspeak:date>
+					<groundspeak:type>Write note</groundspeak:type>
+					<groundspeak:finder guid="746fa799-4d3f-4826-8110-ee62141fd2dc" cpTotalFound="594">mirkaApepa</groundspeak:finder>
+					<groundspeak:text encoded="False">Byli jsme tam a docela n&#225;s zaj&#237;malo, kde vlastne ta cache byla. Docela klidn&#225; ulicka, dej pros&#237;m vedet, jakmile cache obnov&#237;&#353;, r&#225;di ji odlov&#237;me. D&#237;ky.</groundspeak:text></groundspeak:log>
+				<groundspeak:log id="56535635" cpTypeImg="http://www.geocaching.com/images/icons/icon_disabled.gif">
+					<groundspeak:date>2008-11-04T00:00:00.0000000+0100</groundspeak:date>
+					<groundspeak:type>Temporarily Disable Listing</groundspeak:type>
+					<groundspeak:finder guid="7546e7d6-997b-4a3f-8699-f81e0c285312" cpTotalFound="54">fidom</groundspeak:finder>
+					<groundspeak:text encoded="False">Bohuzel davate cache pekne na frak az me to mrzi. Mam ji doma a musim vse spravit. Skrys je tedy prazdna. Nehledejte ji!</groundspeak:text></groundspeak:log></groundspeak:logs>
+			<groundspeak:travelbugs></groundspeak:travelbugs>
+			<cp:HintRev>tijedo titsups tuongol tadnyv tizuorkaz ticrtsaz tuonhataz tizuork</cp:HintRev>
+			<cp:Errors>Cache Issues:This cache is temporarily unavailable. Read the logs below to read the status for this cache.</cp:Errors>
+			<cp:AdditionalWaypoints></cp:AdditionalWaypoints>
+			<cp:Images></cp:Images>
+		</groundspeak:cache>
+	</wpt>
+	<wpt lat="49.2334333" lon="16.5522667">
+		<time>2008-06-07T00:00:00.0000000+0200</time>
+		<name>GC1D1A8</name>
+		<cmt>TR22</cmt>
+		<desc>Netoperky</desc>
+		<sym>Geocache Found</sym>
+		<type>Geocache</type>
+		<groundspeak:cache id="900963" guid="e042e176-727a-43f4-ac2b-06a9206db0aa" cpWPT="GC1D1A8" available="True" archived="False" cpCoords="N 49&#176;14.006' E 016&#176;33.136'">
+			<groundspeak:name>Netoperky</groundspeak:name>
+			<groundspeak:lastUpdated>2009-05-12T07:05:14.0000000+0200</groundspeak:lastUpdated>
+			<groundspeak:exported>2009-05-12T12:41:19.0000218+0200</groundspeak:exported>
+			<groundspeak:placed_by>abukar</groundspeak:placed_by>
+			<groundspeak:owner guid="85cf999b-46ab-4077-82d6-35e996ba3fec" cpHidden="2008-06-07T00:00:00.0000000+0200">abukar</groundspeak:owner>
+			<groundspeak:type>Traditional Cache</groundspeak:type>
+			<groundspeak:container>Regular</groundspeak:container>
+			<groundspeak:attributes>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/bicycles-yes.gif">bikes allowed</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/scenic-yes.gif">scenic view</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/onehour-yes.gif">takes less than 1  hour</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/kids-yes.gif">kid friendly</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/horses-yes.gif">horses allowed</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/ticks-yes.gif">ticks!</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/dogs-yes.gif">dogs allowed</groundspeak:attribute></groundspeak:attributes>
+			<groundspeak:difficulty>2</groundspeak:difficulty>
+			<groundspeak:terrain>2</groundspeak:terrain>
+			<groundspeak:country>Czech Republic</groundspeak:country>
+			<groundspeak:state>Czech Republic</groundspeak:state>
+			<groundspeak:short_description html="True">Nen&#225;rocn&#225; proch&#225;zka za kouskem pr&#237;rody v Brne.</groundspeak:short_description>
+			<groundspeak:long_description html="True">Tato ke&#353;ka v&#225;s zavede na m&#237;sto pr&#237;rodn&#237; pam&#225;tky Netop&#253;rky s pekn&#253;m
+v&#253;hledem do krajiny. I pres relativn&#237; bl&#237;zkost s&#237;dli&#353;te lze zde
+uvidet vz&#225;cn&#233; druhy fauny i fl&#243;ry, o cem&#382; se lze v&#237;ce dozvedet z
+nedalek&#233; informacn&#237; tabule. Pro mne je to m&#237;sto, kde jsem poprv&#233; v
+pr&#237;rode uvidel &#382;iv&#233;ho cvrcka ze Sekorova Ferdy mravence, kudlanku
+nebo zatoulan&#233;ho divoc&#225;ka a kde to kr&#225;sne von&#237; mater&#237;dou&#353;kou.
+&lt;br&gt;
+Na &#250;pat&#237; kopce se nach&#225;z&#237; pam&#225;tn&#237;cek oznacuj&#237;c&#237; m&#237;sto, na
+kter&#233;m
+&lt;br&gt;
+v z&#225;r&#237; 1978 tragicky zahynul ve sv&#233;m v&#237;rn&#237;ku J.&#352;imek.
+&lt;br&gt;
+Prejeme peknou vych&#225;zku a pekn&#233; pocas&#237;</groundspeak:long_description>
+			<groundspeak:encoded_hints>pod kamenem</groundspeak:encoded_hints>
+			<groundspeak:logs>
+				<groundspeak:log id="70641323" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2009-05-11T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="adcf0958-13c8-45eb-96b5-4cca1e9cb7e2" cpTotalFound="208">Kazim</groundspeak:finder>
+					<groundspeak:text encoded="False">Diky za pekny vyhled na Medlanky, jen jsem tam do toho kopecka malem zavaril geoscooter, jinak v poho [:-D]  [#208]</groundspeak:text></groundspeak:log>
+				<groundspeak:log id="70272450" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2009-05-08T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="2bf53d8b-421f-4442-b627-48a89d8f5c9e" cpTotalFound="848">hermanCZ</groundspeak:finder>
+					<groundspeak:text encoded="False">Pani, tohle je ale mistecko! Pro me osobne nejvetsi prekvapeni za poslednich par mesicu. Skoda ze rodina byla prave v Zoo. Urcite je sem brzo vezmu.&lt;br&gt;Diky za krasnou kesku</groundspeak:text></groundspeak:log>
+				<groundspeak:log id="70076469" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2009-05-06T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="46f1d9c0-015e-4a1d-b965-88f3b929ccda" cpTotalFound="18">Kukla</groundspeak:finder>
+					<groundspeak:text encoded="False">[16:00] Dneska pekne foukalo, ale za ten vyhled to stalo. Diky</groundspeak:text></groundspeak:log>
+				<groundspeak:log id="68768020" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2009-04-24T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="c172b9f6-328a-4459-9300-8da4730f047a" cpTotalFound="155">_peno</groundspeak:finder>
+					<groundspeak:text encoded="False">#148 18:00 IN: - OUT: -&lt;br&gt;Misto je velice geopodezrele, takze nalezeno pomerne rychle. Na miste jsem potkal geokolegu, tak jsme hodili rec, a ziskal jsem cennou napovedu ke kesi Kouzelne Medlanky, kterou jsem posleze take nasel (na treti pokus). Diky za kes, zdravim kolegu a lovu zdar!</groundspeak:text></groundspeak:log></groundspeak:logs>
+			<groundspeak:travelbugs></groundspeak:travelbugs>
+			<cp:HintRev>menemak dop</cp:HintRev>
+			<cp:Errors></cp:Errors>
+			<cp:AdditionalWaypoints></cp:AdditionalWaypoints>
+			<cp:Images></cp:Images>
+		</groundspeak:cache>
+	</wpt>
+	<wpt lat="49.2226667" lon="16.5567667">
+		<time>2008-10-27T00:00:00.0000000+0100</time>
+		<name>GC1HKZ0</name>
+		<cmt>UM21</cmt>
+		<desc>SUDOKU cache</desc>
+		<sym>Geocache</sym>
+		<type>Geocache</type>
+		<groundspeak:cache id="1038037" guid="4914859a-6222-46e7-bf72-10de93c03c7c" cpWPT="GC1HKZ0" available="True" archived="False" cpCoords="N 49&#176;13.360' E 016&#176;33.406'">
+			<groundspeak:name>SUDOKU cache</groundspeak:name>
+			<groundspeak:lastUpdated>2009-05-09T21:34:23.0000000+0200</groundspeak:lastUpdated>
+			<groundspeak:exported>2009-05-12T12:41:19.0000328+0200</groundspeak:exported>
+			<groundspeak:placed_by>salito</groundspeak:placed_by>
+			<groundspeak:owner guid="51a68aeb-10d8-4eff-bc2a-18576120920d" cpHidden="2008-10-27T00:00:00.0000000+0100">salito</groundspeak:owner>
+			<groundspeak:type>Unknown Cache</groundspeak:type>
+			<groundspeak:container>Micro</groundspeak:container>
+			<groundspeak:attributes>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/bicycles-yes.gif">bikes allowed</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/stroller-yes.gif">stroller accessible</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/parking-yes.gif">parking available</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/quads-yes.gif">quads allowed</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/night-yes.gif">recommended at night</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/dogs-yes.gif">dogs allowed</groundspeak:attribute>
+				<groundspeak:attribute cpImg="http://www.geocaching.com/images/attributes/motorcycles-yes.gif">motorcycles allowed</groundspeak:attribute></groundspeak:attributes>
+			<groundspeak:difficulty>2</groundspeak:difficulty>
+			<groundspeak:terrain>1</groundspeak:terrain>
+			<groundspeak:country>Czech Republic</groundspeak:country>
+			<groundspeak:state>Czech Republic</groundspeak:state>
+			<groundspeak:short_description html="True"></groundspeak:short_description>
+			<groundspeak:long_description html="True">&lt;b&gt;NA ZADAN&#221;CH SOURADNIC&#205;CH CACHE NEHLEDEJTE. NEJDR&#205;V MUS&#205;TE
+VYLU&#352;TIT SUDOKU A TO V&#193;M UK&#193;&#381;E FINALOV&#201; SOURADNICE CACHE.&lt;/b&gt; 
+
+&lt;br&gt;
+&lt;BLOCKED_img src="http://img.geocaching.com/cache/8ebe4dd4-2b4f-40bb-a87f-726d7ff1db9d.jpg" /&gt;
+
+
+&lt;br&gt;Jak lu&#353;tit.: Tabulka Sudoku se skl&#225;d&#225; z 9x9 pol&#237;cek, tato
+pol&#237;cka jsou sloucena do 9 men&#353;&#237;ch ctvercu o velikosti 3x3. Ka&#382;d&#225;
+hra Sudoku m&#225; ji&#382; nekter&#225; c&#237;sla vyplnen&#225;. &#218;kolem re&#353;itele je
+doplnit zb&#253;vaj&#237;c&#237; c&#237;sla od 1 do 9 do tabulky tak, aby v ka&#382;d&#233;m
+jej&#237;m r&#225;dku, v ka&#382;d&#233;m sloupci a v ka&#382;d&#233;m 3x3 ctverci byla
+zastoupena v&#353;echna c&#237;sla 1 a&#382; 9. V &#382;&#225;dn&#233;m r&#225;dku, sloupci ani 3x3
+ctverci se c&#237;sla nesmej&#237; opakovat. Na porad&#237; zapisovan&#253;ch c&#237;sel
+nez&#225;le&#382;&#237;. A historie.: Podle n&#225;zvu by si nejeden z n&#225;s mohl myslet,
+&#382;e Sudoku poch&#225;z&#237; z Japonska, ale nen&#237; tomu tak.
+Koreny sudoku sahaj&#237; do &#352;v&#253;carska, kde v 18. stolet&#237; objevil
+matematik Leonardo Euler (1707 &#8211; 1783) princip, kter&#253; pojmenoval
+latinsk&#233; ctverce. Do jednotliv&#253;ch ctverecku vpisoval ruzn&#225; p&#237;smena.
+Spekuluje se o tom, &#382;e latinsk&#233; ctverce prevzal z tzv. magick&#253;ch
+ctvercu, kter&#233; vznikly pribli&#382;ne 1000 let pred na&#353;&#237;m letopoctem.
+Magick&#233; ctverce byla star&#225; c&#237;nsk&#225; hra, kter&#225; byla postavena na tom,
+&#382;e suma c&#237;sel v r&#225;dc&#237;ch, sloupc&#237;ch i ctverc&#237;ch je shodn&#225;. J&#225;dro
+dne&#353;n&#237;ho Sudoku vze&#353;lo ov&#353;em z latinsk&#253;ch ctvercu. Dal&#353;&#237;m z mezn&#237;ku
+historie hry byl rok 1979, kdy Howard Garnes vymyslel c&#237;selnou
+obdobu hry s n&#225;zvem Number Place. American stvoril tuto hru pro
+casopis Math Puzzles and Logic Problems, kter&#253; vyd&#225;vala spolecnost
+Dell. V Japonsku ve&#353;la tato hra ve zn&#225;most v roce 1984, a to d&#237;ky
+casopisu Nikoli. Japonci nazvali hru s&#250;d&#382;i wa dokusin ni karigu,
+zkr&#225;cene Sudoku. N&#225;zev Sudoku se tedy zrodil v roce 1986 a je
+registrovanou obchodn&#237; znackou. Masivn&#237; &#353;&#237;ren&#237; po cel&#233; Evrope
+vyvolala vlna nad&#353;en&#237; ze Sudoku ve Velk&#233; Brit&#225;nii (r. 2004) O rok
+pozdeji rostla sl&#225;va Sudoku d&#237;ky televizn&#237;mu poradu Sudoku Live. V
+soute&#382;i se pravidelne utk&#225;vali hr&#225;ci z ruzn&#253;ch geografick&#253;ch
+oblast&#237;. V t&#253;mech byla zastoupena v&#382;dy jedna celebrita a ka&#382;d&#253; z
+hr&#225;cu mel k dispozici pr&#237;stroj pro vpisov&#225;n&#237; c&#237;sel. Zaj&#237;mav&#233; na
+tomto poradu bylo vyu&#382;it&#237; interaktivity div&#225;ku sed&#237;c&#237;ch doma u
+televizn&#237;ch obrazovek. V soucasnosti si lid&#233; obl&#237;bili poc&#237;tacov&#233;
+verze hry Sudoku a verze urcen&#233; pro mobiln&#237; telefony. Prod&#225;vaj&#237; se
+prenosn&#233; video hry do kapsy, playstation atd. V Sudoku se zacalo
+por&#225;dat v roce 2006 mistrovstv&#237; sveta. Cesk&#225; republika se zapsala
+tak&#233; do historie hry, a to d&#237;ky Jane Tylov&#233;, kter&#225; se stala
+v&#237;tezkou pr&#225;ve prvn&#237;ho rocn&#237;ku mistrovstv&#237; sveta v Sudoku.
+&lt;BLOCKED_span style="color: blue"&gt;NEJDRIVE MUSITE VYLUSTIT SUDOKU A POTOM
+SE PODIVAT NA TENTO VZOREC.POKUD JE TEDY VE VZORCI
+NAPR.:N49&#176;1,G8.555 ZNAMENA TO.: N49&#176;16.555 PREJI VAM USPESNY LOV.
+&lt;BLOCKED_span style="color: red"&gt;Cache se nachazi na souradnicich:N
+49&#176;1,E9.G6,6,H5 E 016&#176;3,A8.144&lt;/BLOCKED_span&gt;&lt;/BLOCKED_span&gt; 
+
+&lt;br&gt;
+&lt;BLOCKED_span style="color: blue"&gt;&lt;BLOCKED_a href="http://www.netagent.cz"&gt;&lt;/BLOCKED_a&gt;
+&lt;BLOCKED_a href="http://www.netagent.cz"
+target="_top"&gt;&lt;BLOCKED_img src="http://www.netagent.cz/agent.php?id=18777&amp;amp;box=11&amp;amp;color=klasik"
+     border="0" alt="NetAgent" /&gt;
+     &lt;/BLOCKED_a&gt;&lt;BLOCKED_a href="http://www.netagent.cz"&gt;&lt;/BLOCKED_a&gt;&lt;/BLOCKED_span&gt;</groundspeak:long_description>
+			<groundspeak:encoded_hints></groundspeak:encoded_hints>
+			<groundspeak:logs>
+				<groundspeak:log id="70337753" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2009-05-09T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="efb084e3-140e-4224-89ec-32f334d3759f" cpTotalFound="61">Arnix</groundspeak:finder>
+					<groundspeak:text encoded="False">[20:31]&lt;br&gt;Hezky "vychytana" keska, jen co je pravda. Chvalim provedeni. Sudoku samozrejme znam, ale nikdy jsem ho nelustil. Az ted jsem k tomu byl donucen potrebou ulovit kesku a musim uznat, ze me to lusteni celkem bavilo  &lt;img src='http://www.geocaching.com/images/icons/icon_smile_tongue.gif' border=0 align=middle&gt;.&lt;br&gt;Diky !</groundspeak:text></groundspeak:log>
+				<groundspeak:log id="70152809" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2009-05-07T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="11efdf1f-f808-4392-9899-350a574663ea" cpTotalFound="85">polas N85</groundspeak:finder>
+					<groundspeak:text encoded="False">17:50,osmdes&#225;t&#225; nalezen&#225;-je&#353;te 20 a bude stovka,sudoku bylo v pohode na druh&#253; pokus(prvn&#237; probehl dr&#237;ve,a&#382; v &#250;ter&#253; jsem to dolu&#353;til,kdy jsem vygumoval men&#353;&#237; seky a vylu&#353;til do pul hodiny bez pomocn&#253;ch c&#237;sel),d&#237;k za ke&#353; s netradicn&#237;m &#250;krytem,rad&#237;m do vlastn&#237; best of  &lt;br&gt;[This entry was edited by polas N85 on Thursday, May 07, 2009 at 12:35:46 PM.]</groundspeak:text></groundspeak:log>
+				<groundspeak:log id="69996417" cpTypeImg="http://www.geocaching.com/images/icons/icon_smile.gif">
+					<groundspeak:date>2009-05-05T00:00:00.0000000+0200</groundspeak:date>
+					<groundspeak:type>Found it</groundspeak:type>
+					<groundspeak:finder guid="1cb102e1-a25e-4941-9727-0d4365a17330" cpTotalFound="129">scarlatina</groundspeak:finder>
+					<groundspeak:text encoded="False">Vylusteno mam uz nekdy od vanoc, ale vyzvednou jsme si to jela az dnes. skrys je uzasna! nejdriv jsem si rikala, ze tam nic nebude, ale byla jsem mile prekvapena:))</groundspeak:text></groundspeak:log></groundspeak:logs>
+			<groundspeak:travelbugs></groundspeak:travelbugs>
+			<cp:HintRev></cp:HintRev>
+			<cp:Errors></cp:Errors>
+			<cp:AdditionalWaypoints>
+				<cp:AdditionalWaypoint latit="0.0" longtit="0.0" WID="c8cac68a-e382-47d1-a979-034c0092561d">
+					<cp:Available img="http://www.geocaching.com/images/icons/icon_nocoords.jpg">no coordinates</cp:Available>
+					<cp:Type img="http://www.geocaching.com/images/wpttypes/sm/flag.jpg">Final Location</cp:Type>
+					<cp:Name lookup="FINAL" prefix="FN">Final</cp:Name>
+					<cp:Note></cp:Note></cp:AdditionalWaypoint></cp:AdditionalWaypoints>
+			<cp:Images>
+				<cp:Image IID="8ebe4dd4-2b4f-40bb-a87f-726d7ff1db9d">
+					<cp:Name>sudoku</cp:Name>
+					<cp:Note></cp:Note></cp:Image></cp:Images></groundspeak:cache></wpt></gpx>
+

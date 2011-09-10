@@ -1,0 +1,111 @@
+STATISTIKY ZDROJOVÉHO KÓDU PROGRAMU GEO NAVIGATOR
+
+Statistiky jsou generovány z hlavních zdrojových souborů CS.
+Ve statistikách nejsou zahrnuty zdrojové kódy Win Forms Designeru, 
+kódy projektu Microsoft.WindowsMobile.Samples.Location a kódy
+pro práci s INI soubory, které jsou od jiného autora.
+
+
+POČET ŘÁDKŮ
+---------------------
+AddCache.cs       211
+Cache.cs          142
+Conversion.cs     234
+Filter.cs         125
+Gpx.cs            674
+MainForm.cs      1553
+Map.cs            103
+MapXml.cs         128
+Program.cs         21
+Settings.cs       134
+CELKEM:          3325
+
+
+POČET NEVYUŽITÝCH ŘÁDKŮ (bílé znaky a komentáře)
+---------------------
+AddCache.cs        41
+Cache.cs           47
+Conversion.cs      77
+Filter.cs          31
+Gpx.cs            193
+MainForm.cs       407
+Map.cs             40
+MapXml.cs          40
+Program.cs          6
+Settings.cs        31
+CELKEM:           913
+
+
+KOMENTÁŘE V BYTECH
+---------------------
+AddCache.cs       434
+Cache.cs          546
+Conversion.cs    1194
+Filter.cs         510
+Gpx.cs           2948
+MainForm.cs      6974
+Map.cs            672
+MapXml.cs         436
+Program.cs         87
+Settings.cs       340
+CELKEM:         14141
+
+
+DÉLKA ŘETĚZCŮ V BYTECH
+---------------------
+AddCache.cs       573
+Cache.cs          222
+Conversion.cs      85
+Filter.cs          76
+Gpx.cs           3474
+MainForm.cs      3697
+Map.cs              0
+MapXml.cs         205
+Program.cs          0
+Settings.cs       146
+CELKEM:          8478
+
+
+POČET KLÍČOVÝCH SLOV
+---------------------
+AddCache.cs        80
+Cache.cs          108
+Conversion.cs     156
+Filter.cs          76
+Gpx.cs            238
+MainForm.cs       833
+Map.cs             70
+MapXml.cs          68
+Program.cs         10
+Settings.cs        71
+CELKEM:          1710
+
+
+POČET IDENTIFIKÁTORŮ
+---------------------
+AddCache.cs       297
+Cache.cs          116
+Conversion.cs     270
+Filter.cs         234
+Gpx.cs           1253
+MainForm.cs      2538
+Map.cs            136
+MapXml.cs         187
+Program.cs         16
+Settings.cs       135
+CELKEM:          5182
+
+
+POČET ČÍSELNÝCH LITERÁLŮ
+---------------------
+AddCache.cs        35
+Cache.cs           15
+Conversion.cs      19
+Filter.cs          51
+Gpx.cs            104
+MainForm.cs       308
+Map.cs              2
+MapXml.cs          20
+Program.cs          0
+Settings.cs        32
+CELKEM:           586

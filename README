@@ -1,0 +1,25 @@
+--------------------------------------------------------------------------------
+
+Geo Navigator
+(c) 2009 Petr Nohejl
+
+Geo Navigator je GPS navigační program, určený převážně pro hráče hry
+Geocaching. Aplikace je výsledkem mé bakalářské práce na Fakultě informačních
+technologií VUT v Brně. Práce se zabývá návrhem a implementací aplikace pro
+navigaci zaměřenou na hru Geocaching. Program je určen pro mobilní zařízení se
+systémem Windows Mobile 6. Umožňuje uživatelům snadno a rychle číst informace o
+cache a pomocí GPS navigace je dovést ke skrýši. Teoretická část práce pojednává
+o problematice GPS navigace, pravidlech hry Geocaching a samotném popisu
+programu. Cílem praktické části bylo vytvořit tuto aplikaci a testovat ji v
+reálném nasazení. Více informací o této práci naleznete v jednotlivých
+adresářích, které obsahují instalátor programu, zdrojové kódy, technickou
+zprávu, návod, testovací data, screenshoty, plakát a metriky kódu. 
+
+--------------------------------------------------------------------------------
+
+Instalace:
+
+Nahrajte instalační balíček geonavigator.cab do zařízení a spusťte jej.
+Instalátor vám pomůže program nainstalovat. 
+
+--------------------------------------------------------------------------------
